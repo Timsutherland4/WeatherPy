@@ -1,0 +1,5001 @@
+city,country,latitude,longitude,temperature,humidity (%),cloudiness (%),wind_speed (kmph)
+miranorte,br,,,,,,
+alakurtti,ru,66,30,-2,92,88,1
+fujin,cn,47,132,-22,67,0,4
+lazarev,ru,52,141,-16,58,0,6
+ligayan,ph,4,119,28,100,12,3
+san rafael,ar,-34,-68,22,15,0,5
+chishtian mandi,pk,29,72,13,96,56,3
+bima,id,-8,118,26,97,12,0
+vaasa,fi,63,21,3,93,80,4
+campohermoso,co,36,-2,11,93,0,1
+ca mau,vn,9,105,26,91,44,4
+shitkino,ru,56,98,-25,64,76,1
+irtyshskiy,ru,58,68,-16,71,36,1
+pasighat,in,28,95,10,54,0,0
+ryotsu,jp,38,138,5,100,75,4
+bambous virieux,mu,-20,57,23,94,75,2
+sistranda,no,63,8,4,86,75,6
+tashara,ru,55,83,-24,59,32,1
+a,no,,,,,,
+kibaya,tz,-2,30,17,100,90,1
+tumannyy,ru,,,,,,
+kamyzyak,ru,46,48,-4,92,64,5
+artigas,uy,-30,-56,23,53,36,1
+xiongzhou,cn,32,118,4,93,90,2
+atherton,au,53,-2,5,93,75,1
+darovskoy,ru,58,47,-5,92,88,2
+grand river south east,mu,,,,,,
+brindisi,it,40,17,11,62,40,6
+severomuysk,ru,56,113,-34,41,36,0
+mondlo,za,-27,30,14,100,92,3
+bejar,es,40,19,7,100,80,0
+rzhyshchiv,ua,49,31,-1,100,90,6
+chickasha,us,35,-97,2,63,1,2
+monterey,us,36,-121,13,79,1,1
+mizpe ramon,il,,,,,,
+kanungu,ug,0,29,13,100,80,1
+mineral wells,us,32,-98,5,75,1,3
+nyagan,ru,62,65,-8,87,24,2
+anshun,cn,26,105,-2,98,92,2
+camaragibe,br,-8,-34,27,83,75,5
+samusu,ws,,,,,,
+santa engracia,mx,41,-1,9,75,40,5
+keta,gh,5,0,29,83,20,2
+kazanka,ua,47,32,1,100,90,1
+ritto,jp,35,135,5,75,75,1
+platteville,us,42,-90,-5,89,1,1
+indi,in,17,75,22,83,100,2
+shush,ir,55,89,-25,64,12,1
+camacari,br,-12,-38,28,83,40,3
+voyvozh,ru,62,54,-7,85,80,3
+yatou,cn,3,9,26,94,75,0
+amahai,id,-3,129,29,100,20,3
+jiutai,cn,44,125,-20,70,0,1
+tapes,br,-30,-51,21,67,56,3
+twin falls,us,42,-114,0,74,1,4
+lalibela,et,12,39,5,93,0,1
+yokadouma,cm,3,15,19,88,8,0
+erdemli,tr,,,,,,
+deputatskiy,ru,69,139,-42,0,8,1
+bekhtery,ua,46,32,4,100,92,1
+burla,ru,53,78,-19,77,32,3
+poplar bluff,us,36,-90,1,53,1,4
+carikar,af,,,,,,
+santo tomas,pe,15,120,24,89,0,1
+aleksandrovka,ru,46,38,2,88,88,6
+afgoye,so,,,,,,
+marevo,ru,43,18,0,93,40,1
+kazachinskoye,ru,57,93,-17,71,92,2
+takayama,jp,36,137,1,70,20,1
+tshikapa,cd,-6,20,21,97,56,1
+lagoa,pt,37,-8,10,87,0,2
+utevka,ru,52,50,-6,98,56,2
+zhangjiakou,cn,40,114,-18,64,56,0
+monteagudo,bo,-19,-63,19,89,100,0
+coria,es,39,-6,2,81,0,1
+beni,cd,0,29,17,94,24,1
+mau,in,25,83,11,86,0,1
+gurupa,br,,,,,,
+villazon,bo,,,,,,
+pouso alegre,br,-22,-45,20,60,80,2
+esfarayen,ir,37,57,1,100,12,0
+taiyuan,cn,37,112,-10,72,8,1
+ibra,om,22,58,11,90,0,0
+nampa,us,43,-116,1,93,1,4
+sholavandan,in,,,,,,
+pelym,ru,61,62,-13,83,44,1
+atocha,bo,-1,-78,9,73,56,0
+djambala,cg,-2,14,20,97,80,1
+cootamundra,au,-34,148,22,83,92,1
+clearwater,us,27,-82,19,82,90,4
+nizhnyaya salda,ru,58,60,-11,84,64,1
+kingussie,gb,57,-4,2,86,64,5
+dno,ru,57,29,0,94,88,4
+weyburn,ca,49,-103,-10,83,0,3
+parrita,cr,9,-84,20,64,20,6
+beaune,fr,47,4,7,87,0,3
+jertih,my,5,102,25,100,75,1
+kaabong,ug,3,34,13,92,64,0
+mangan,in,27,88,-10,75,44,0
+cumra,tr,37,32,6,70,75,2
+bida,ng,9,6,24,78,0,1
+mae hong son,th,19,97,21,88,20,1
+yurimaguas,pe,-5,-76,25,78,0,1
+oyama,jp,36,139,5,48,75,2
+killorglin,ie,52,-9,7,87,36,2
+tlahualilo,mx,,,,,,
+sveti nikole,mk,41,21,-1,92,75,1
+los zacatones,mx,22,-102,15,47,20,1
+tongling,cn,30,117,3,100,92,2
+leticia,co,-4,-69,24,100,40,1
+churapcha,ru,62,132,-35,57,32,1
+segou,ml,12,-12,18,40,0,2
+tena,ec,0,-77,15,99,68,0
+verkhovazhye,ru,60,42,-7,85,64,5
+glyadyanskoye,ru,54,65,-28,28,0,1
+cedar rapids,us,41,-91,-5,91,1,1
+kalga,ru,50,118,-35,0,0,1
+azad shahr,ir,,,,,,
+winnemucca,us,40,-117,-1,81,90,3
+tocache,pe,-8,-76,16,88,64,0
+orbetello,it,42,11,14,76,0,3
+nevsehir,tr,38,34,6,70,75,2
+ceahlau,ro,47,25,-5,93,68,1
+orodara,bf,10,-4,24,36,0,2
+nazare,br,,,,,,
+ruwi,om,23,58,24,50,0,3
+narragansett,us,41,-71,0,68,75,2
+libertador general san martin,ar,-23,-64,22,85,8,1
+dok kham tai,th,19,99,18,94,64,1
+gushikawa,jp,26,127,20,94,90,7
+kulu,in,3,23,26,52,36,1
+sabancuy,mx,18,-91,25,100,76,11
+noumea,nc,-22,166,27,54,75,6
+awjilah,ly,29,21,12,94,0,3
+patan,in,27,85,5,100,20,1
+castro,cl,-42,-73,12,93,90,8
+conceicao da barra,br,-18,-39,22,100,92,7
+jamestown,sh,-33,138,25,41,0,5
+giaveno,it,45,7,7,57,0,1
+suez,eg,29,32,4,77,0,0
+mishkino,ru,56,46,-5,100,40,5
+egvekinot,ru,66,-179,-23,65,12,3
+petauke,zm,-14,31,17,97,64,1
+catumbela,ao,-12,13,17,97,44,0
+canakkale,tr,40,26,11,100,88,4
+nevel,ru,56,29,0,96,80,6
+taburao,ki,,,,,,
+kinablangan,ph,7,126,23,100,76,2
+tadpatri,in,14,78,19,95,0,1
+killini,gr,,,,,,
+zima,ru,53,102,-30,33,20,1
+watertown,us,44,-97,-6,92,90,1
+pszczyna,pl,49,18,4,93,75,7
+sudak,ua,44,34,0,100,92,1
+zadar,hr,44,15,6,100,0,1
+waling,np,,,,,,
+tubruq,ly,,,,,,
+kanchanaburi,th,14,99,22,89,92,2
+mirandola,it,44,11,8,43,0,5
+bozhou,cn,33,115,-2,57,92,3
+calama,cl,-22,-68,22,7,0,8
+farrukhnagar,in,28,76,11,81,0,1
+aguas formosas,br,-17,-40,19,100,92,1
+lhokseumawe,id,5,97,26,100,44,1
+rockhampton,au,-23,150,28,61,40,5
+kirya,ru,,,,,,
+harrison,us,39,-84,-1,63,40,4
+ayia marina,gr,37,23,9,71,20,2
+huangpi,cn,30,114,1,69,0,3
+colon,mx,41,-96,-6,84,1,2
+kalmunai,lk,7,81,23,100,56,3
+singkawang,id,,,,,,
+bagotville,ca,-28,153,26,69,40,6
+havre,us,48,-109,-2,77,1,1
+kuala kedah,my,6,100,26,94,75,0
+imeni morozova,ru,59,31,-1,86,20,3
+cozumel,mx,,,,,,
+chkalovskoye,ru,,,,,,
+vikulovo,ru,55,40,-1,95,92,6
+winchester,us,51,-1,7,87,20,4
+zheleznodorozhnyy,ru,55,38,0,92,90,3
+taonan,cn,45,122,-24,41,0,1
+yendi,gh,9,0,21,42,0,2
+gizycko,pl,54,21,5,97,88,5
+terenos,br,-20,-54,28,51,0,5
+devils lake,us,48,-98,-10,84,1,3
+claveria,ph,8,124,23,88,0,1
+quang ngai,vn,15,108,20,99,68,1
+yarensk,ru,62,49,-6,90,88,2
+mapiripan,co,2,-72,31,38,88,3
+canitas,mx,,,,,,
+lokoja,ng,7,6,23,89,24,1
+agadir,ma,30,-9,10,87,0,2
+pingshan,cn,28,104,3,99,92,1
+airai,pw,-8,125,24,92,44,0
+takapau,nz,-40,176,21,61,0,6
+cuyo,ph,,,,,,
+amherst,ca,45,-64,-10,61,75,4
+ewa beach,us,21,-158,25,54,20,6
+atar,mr,20,-13,14,35,0,3
+mucurapo,tt,10,-61,25,100,20,2
+mangaratiba,br,-22,-44,23,64,20,3
+boende,cd,0,20,21,98,64,1
+kankakee,us,41,-87,-3,79,1,2
+gizo,sb,31,34,13,82,75,4
+uryupinsk,ru,50,42,0,96,92,6
+rostaq,af,,,,,,
+fairlie,nz,33,-95,5,55,1,1
+mikkeli,fi,61,27,0,94,90,5
+darlowo,pl,54,16,6,99,92,9
+mhlume,sz,-26,31,20,97,92,2
+hermosillo,mx,29,-110,22,35,40,2
+seymchan,ru,62,152,-30,67,64,1
+kpandae,gh,8,0,22,58,0,1
+villa literno,it,41,14,11,87,20,2
+sedkyrkeshch,ru,61,50,-4,92,90,2
+kingori,tz,-3,37,19,78,75,5
+jatara,in,25,79,11,76,8,2
+vinhedo,br,-23,-46,19,64,0,7
+bage,br,10,11,19,40,0,3
+georgiyevskoye,ru,44,39,10,62,64,3
+mizan teferi,et,6,35,14,92,36,0
+radishchevo,ru,52,47,-7,100,92,3
+iraray,ph,8,118,27,100,48,4
+tuzla,ro,,,,,,
+hervey bay,au,-25,152,28,58,90,6
+banepa,np,27,85,5,100,20,1
+mumbwa,zm,-14,27,17,98,92,3
+talawdi,sd,,,,,,
+gidam,in,18,81,14,91,0,1
+mazamari,pe,-11,-74,22,78,36,0
+barkot,in,30,78,7,93,36,2
+januaria,br,,,,,,
+baoning,cn,25,110,3,93,90,2
+pachino,it,36,15,16,100,24,14
+manokwari,id,0,134,27,100,12,0
+longhua,cn,29,106,2,88,92,1
+culiacan,mx,24,-107,24,69,5,2
+kargopol,ru,61,38,-6,86,88,5
+ellsworth,us,38,-98,0,78,1,3
+delijan,ir,33,50,-4,82,0,0
+vredendal,za,-31,18,10,88,0,0
+oros,br,47,21,0,92,8,4
+medicine hat,ca,50,-110,-1,74,75,5
+dali,cn,25,100,2,100,0,0
+rosita,ni,13,-84,22,98,64,0
+buseresere,tz,-3,31,17,97,88,1
+bereznik,ru,62,42,-6,84,76,3
+damara,cf,4,18,19,93,0,1
+sarh,td,9,18,22,35,0,3
+southbridge,nz,42,-72,-2,59,1,7
+turangi,nz,-39,175,21,65,0,0
+one hundred mile house,ca,,,,,,
+sikea,gr,,,,,,
+teguldet,ru,57,88,-19,76,44,1
+termoli,it,42,14,11,74,0,6
+sechura,pe,-5,-80,22,72,0,4
+kungurtug,ru,50,97,-38,57,0,1
+geisenheim,de,49,7,4,62,20,4
+peterhead,gb,-34,138,25,27,0,7
+adiake,ci,5,-3,29,79,20,2
+pospelikha,ru,51,81,-22,49,20,1
+fernandez,mx,11,122,25,100,64,2
+cernat,ro,45,26,-8,79,36,0
+haywards heath,gb,51,0,6,87,75,4
+masindi,ug,1,31,18,91,88,1
+dubovskoye,ru,47,42,0,96,64,6
+heyang,cn,26,107,-3,99,92,1
+wattegama,lk,7,80,20,97,76,1
+cassilandia,br,-19,-51,24,59,12,4
+pirgos,gr,35,25,15,72,40,3
+bogandinskiy,ru,56,65,-20,76,0,2
+tarko-sale,ru,64,77,-9,88,88,4
+rocha,uy,-34,-54,23,36,88,3
+blagoveshchenka,ru,52,79,-20,85,32,1
+chiang klang,th,19,100,19,100,90,1
+ovre ardal,no,61,7,-3,80,88,1
+kant,kg,42,74,0,62,90,2
+pinotepa nacional,mx,,,,,,
+cumpas,mx,30,-109,15,53,0,1
+nehe,cn,48,124,-28,29,0,1
+segovia,es,40,-4,3,100,0,0
+bailieborough,ie,53,-6,6,95,12,5
+jati,id,24,68,16,86,0,1
+lingyuan,cn,41,119,-19,61,0,0
+ostrovnoy,ru,68,39,-3,90,36,6
+caramay,ph,10,119,27,100,32,6
+vicente guerrero,mx,16,-96,18,59,75,3
+chongwe,zm,-15,28,19,88,90,1
+dubti,et,11,41,17,73,0,1
+benguela,ao,-12,13,23,100,20,0
+new smyrna beach,us,29,-80,18,77,90,5
+savannah bight,hn,16,-85,26,100,92,5
+porangatu,br,-13,-49,22,91,36,4
+dekoa,cf,,,,,,
+mersing,my,2,103,26,97,48,2
+dembi dolo,et,8,34,15,89,32,0
+tuatapere,nz,-46,167,12,98,48,2
+aranos,na,-24,19,17,22,0,5
+calbuco,cl,-41,-73,15,72,90,4
+cabudare,ve,10,-69,23,67,12,1
+methoni,gr,36,21,18,100,48,13
+boda,cf,26,88,11,72,0,1
+tiruchchendur,in,8,78,25,88,40,4
+grimari,cf,,,,,,
+victoria falls,zw,-17,25,20,86,48,1
+ust-kulom,ru,61,53,-6,87,88,1
+assela,et,,,,,,
+asayita,et,,,,,,
+pincher creek,ca,49,-113,1,59,90,12
+eydhafushi,mv,5,73,28,100,0,1
+balkhash,kz,46,74,-8,100,92,4
+bronnoysund,no,65,12,2,80,56,5
+vagamo,no,61,9,-3,77,88,2
+tuljapur,in,18,76,20,87,80,2
+calmar,ca,53,-113,-7,73,75,4
+tashla,ru,53,49,-6,92,75,3
+ushtobe,kz,45,77,-7,67,48,0
+porterville,us,36,-119,10,92,1,0
+wairoa,nz,-39,177,19,83,20,5
+manica,mz,-18,32,19,100,88,1
+ohaba lunga,ro,,,,,,
+mega,et,4,38,12,91,0,0
+dwarka,in,28,77,11,81,0,1
+halmeu,ro,47,23,3,93,92,1
+sabae,jp,35,136,5,80,40,3
+falealupo,ws,,,,,,
+peceneaga,ro,45,28,2,100,88,1
+baoqing,cn,46,132,-20,55,0,2
+cartagena del chaira,co,1,-74,25,87,24,0
+sataua,ws,,,,,,
+vyshestebliyevskaya,ru,45,37,4,100,24,3
+kenitra,ma,34,-6,9,93,40,1
+bulembu,sz,-25,31,17,93,92,0
+okakarara,na,-20,17,15,45,0,5
+payo,ph,-3,103,23,98,76,0
+dalbandin,pk,28,64,7,73,0,2
+gao,ml,16,0,14,58,0,2
+glens falls,us,43,-73,-2,64,1,2
+gboko,ng,7,9,23,40,12,3
+larvik,no,59,10,2,69,88,4
+lerici,it,44,9,6,100,0,2
+rubiataba,br,-15,-49,21,81,0,3
+junction city,us,39,-96,0,68,1,1
+iranshahr,ir,27,60,11,40,0,3
+makinsk,kz,52,70,-23,53,0,1
+steamboat springs,us,40,-106,-7,76,1,0
+malindi,ke,-3,40,26,92,12,2
+asbe teferi,et,9,40,8,84,0,0
+pangnirtung,ca,66,-65,-29,96,0,1
+saint-medard-en-jalles,fr,44,0,8,93,40,3
+kisesa,tz,-2,33,20,88,75,2
+pedasi,pa,7,-80,29,95,0,6
+valdez,ec,61,-146,-6,98,76,1
+moctezuma,mx,29,-109,15,53,0,1
+langxiang,cn,46,128,-27,71,0,0
+magadan,ru,59,150,-11,100,0,8
+stornoway,gb,,,,,,
+taian,cn,,,,,,
+archidona,ec,0,-77,15,99,68,0
+patrocinio,br,13,123,24,100,68,2
+huai thalaeng,th,15,102,20,88,40,4
+boulder,us,40,-105,0,50,1,1
+esmeraldas,ec,-19,-44,17,77,0,3
+manalurpet,in,,,,,,
+lufilufi,ws,-13,-171,24,94,90,6
+bozovici,ro,44,22,6,93,40,1
+karakol,kg,42,78,-11,73,24,1
+acin,af,,,,,,
+kuche,cn,,,,,,
+churachandpur,in,24,93,7,90,0,0
+lluta,pe,-16,-72,16,50,64,1
+oussouye,sn,12,-16,21,94,0,1
+ketchenery,ru,,,,,,
+oda,gh,35,132,5,80,75,2
+odweyne,so,,,,,,
+znamenskoye,ru,57,73,-20,55,24,1
+altay,cn,47,88,-30,52,0,0
+kyaikkami,mm,16,97,23,88,68,1
+tambopata,pe,,,,,,
+potsdam,us,52,13,6,75,75,7
+hashtrud,ir,37,47,-5,84,56,1
+kalianget,id,-7,109,22,96,76,1
+sira,in,13,76,16,92,0,2
+kudat,my,6,116,25,100,75,1
+watsa,cd,3,29,18,86,76,1
+oxapampa,pe,-10,-75,12,95,48,0
+skibotn,no,69,20,-4,85,20,1
+eisiskes,lt,54,25,1,100,90,2
+penzance,gb,50,-5,8,81,80,6
+alamosa,us,37,-105,-2,30,1,2
+vysokogornyy,ru,50,139,-28,79,36,1
+rochefort,fr,45,0,7,87,20,4
+kalemie,cd,-5,29,22,100,88,2
+lahijan,ir,37,50,11,93,90,3
+biloela,au,-24,150,25,61,48,5
+pudozh,ru,61,36,-5,86,88,5
+nara,ml,34,135,6,70,75,0
+boa viagem,br,-5,-39,21,100,48,1
+were ilu,et,10,39,5,91,8,0
+nakhon ratchasima,th,14,102,19,88,40,4
+nikel,ru,69,30,-5,100,44,2
+shouguang,cn,36,118,-12,62,36,1
+hare bay,ca,48,-53,-5,79,75,8
+truro,ca,50,-5,8,81,88,6
+zaozerne,ua,51,23,5,97,92,5
+katha,mm,,,,,,
+samarinda,id,0,117,26,91,0,1
+grajau,br,,,,,,
+graneros,cl,-34,-70,24,31,0,2
+dabola,gn,10,-11,15,68,0,1
+san carlos,py,9,-68,30,44,92,2
+velyka mykhaylivka,ua,47,29,-6,83,80,1
+samalaeulu,ws,,,,,,
+istok,ru,52,23,4,96,92,5
+jonesboro,us,35,-90,0,59,1,3
+griffith,au,-34,146,28,37,88,4
+taraz,kz,42,71,5,93,90,4
+carmarthen,gb,51,-4,8,81,0,9
+rexburg,us,43,-111,-9,70,1,2
+zabol,ir,31,61,9,49,0,4
+hede,cn,60,15,-5,100,88,4
+norden,de,53,7,5,75,20,5
+puerto cabezas,ni,14,-83,27,93,76,4
+kanye,bw,-24,25,19,56,68,3
+palo alto,mx,37,-122,11,82,1,2
+kurmanayevka,ru,52,52,-5,93,76,2
+farah,af,32,62,4,84,0,1
+gunnedah,au,-30,150,30,30,0,2
+betioky,mg,,,,,,
+karamken,ru,,,,,,
+bure,et,10,10,18,39,0,3
+talesh,ir,,,,,,
+bennington,us,42,-73,-3,64,1,1
+puchezh,ru,56,43,-4,97,88,6
+teknaf,bd,20,92,13,100,0,1
+portel,br,38,-7,12,81,0,3
+jurado,co,,,,,,
+saint-jean-port-joli,ca,,,,,,
+vista hermosa,co,17,-97,20,50,32,2
+matveyevka,ru,45,33,4,93,92,1
+boatlaname,bw,,,,,,
+miraflores,co,5,-73,12,90,32,0
+arivonimamo,mg,-19,47,16,93,20,2
+mazamitla,mx,19,-103,20,47,64,1
+lumajang,id,-8,113,26,100,80,1
+maralal,ke,1,36,14,94,68,0
+marcona,pe,,,,,,
+itacoatiara,br,-3,-58,26,85,24,1
+alihe,cn,50,123,-29,29,0,1
+umm kaddadah,sd,13,26,14,41,0,5
+lipari,it,38,14,16,63,40,8
+lind,dk,50,7,5,81,75,6
+dafeng,cn,33,120,7,93,92,6
+quchan,ir,37,58,-7,79,0,1
+basavakalyan,in,17,76,20,89,32,3
+skiros,gr,,,,,,
+portoferraio,it,42,10,14,76,0,3
+ler,sd,63,10,1,100,75,4
+jonkoping,se,57,14,-1,92,0,3
+weinan,cn,34,109,-4,68,75,1
+thyolo,mw,-16,35,21,85,56,1
+namie,jp,37,140,3,51,20,6
+jaramana,sy,,,,,,
+zamora,ec,41,-5,0,92,0,1
+pafos,cy,,,,,,
+punta alta,ar,-27,-55,26,54,0,1
+altus,us,34,-99,4,50,1,2
+bodden town,ky,19,-81,27,74,0,3
+yantal,ru,56,105,-26,69,44,2
+bad wurzach,de,47,9,5,86,88,4
+ngorongoro,tz,-3,35,13,100,92,1
+angra,pt,,,,,,
+disna,by,,,,,,
+rudnichnyy,ru,59,60,-9,78,88,1
+mapiri,bo,-15,-68,14,98,76,1
+atagay,ru,55,99,-29,58,24,1
+ingraj bazar,in,25,88,10,82,0,1
+simav,tr,39,28,3,90,92,0
+novopokrovka,ru,45,134,-20,67,0,1
+suar,in,29,79,8,84,0,1
+corrales,pe,5,-72,10,81,24,0
+castelldefels,es,41,1,10,66,0,5
+ayorou,ne,14,0,13,45,0,1
+kearney,us,40,-99,-3,74,1,2
+himora,et,,,,,,
+verkhoshizhemye,ru,58,49,-4,92,76,3
+sapa,ph,14,120,30,58,20,1
+bac lieu,vn,,,,,,
+heze,cn,35,115,-6,97,44,1
+redlands,us,34,-117,18,46,1,3
+satun,th,6,100,25,94,20,2
+biak,id,0,122,27,96,20,0
+aquiraz,br,-3,-38,28,78,75,3
+el carrizo,mx,16,-98,27,56,0,2
+goryachegorsk,ru,55,88,-23,52,12,1
+gainesville,us,29,-82,15,86,90,2
+sulina,ro,,,,,,
+pitanga,br,-24,-51,17,82,0,1
+burriana,es,39,0,14,20,0,6
+portree,gb,57,-6,6,100,48,5
+qasigiannguit,gl,68,-51,-12,55,0,6
+tamulte,mx,,,,,,
+sawakin,sd,19,37,20,100,8,3
+nuevo ideal,mx,24,-105,12,46,0,1
+araouane,ml,18,-3,12,35,0,2
+flagstaff,us,35,-111,5,60,1,1
+krivosheino,ru,57,83,-19,66,48,1
+kpandu,gh,7,0,25,75,36,3
+santa,pe,17,120,23,79,0,2
+sinazongwe,zm,-17,27,23,95,64,2
+ust-nera,ru,64,143,-42,0,8,0
+salisbury,us,51,-1,7,87,12,5
+novobirilyussy,ru,56,90,-19,89,64,1
+belgrade,us,44,20,5,100,40,2
+hofn,is,64,-15,-2,100,0,2
+takob,tj,,,,,,
+ongandjera,na,-17,15,16,30,0,4
+baker city,us,44,-117,0,75,90,5
+fernie,ca,49,-115,-7,85,90,1
+notre-dame-du-lac,ca,47,-68,-11,79,90,2
+schruns,at,47,9,0,86,75,5
+katra,in,32,74,6,97,92,0
+bang len,th,14,100,25,83,0,1
+ha giang,vn,22,104,10,100,92,0
+east brainerd,us,35,-85,3,92,90,3
+waynesboro,us,35,-87,1,93,90,3
+sandwick,gb,54,-2,0,96,20,1
+verkhnetulomskiy,ru,68,31,-3,92,75,1
+nangomba,tz,-10,38,23,87,32,2
+rivera,uy,-30,-55,25,40,48,3
+mantenopolis,br,-18,-41,16,95,92,3
+tonstad,no,58,6,3,86,75,7
+terny,ua,50,33,0,98,76,2
+evreux,fr,49,1,7,93,20,3
+ganganagar,in,16,77,20,94,0,2
+sandy bay,hn,-42,147,19,42,20,4
+belyy yar,ru,53,91,-25,75,20,1
+rafaela,ar,-31,-61,25,56,0,2
+lake charles,us,30,-93,8,81,90,4
+amurrio,es,43,-3,9,93,75,1
+sao francisco,br,-25,-53,21,69,0,1
+nerchinskiy zavod,ru,51,119,-37,0,0,0
+jeremoabo,br,-10,-38,23,80,76,4
+pandan niog,ph,6,120,29,97,56,2
+tigzirt,dz,36,4,0,89,0,0
+velyka bahachka,ua,49,33,0,98,88,1
+newcastle,au,-27,29,12,100,92,2
+boden,se,65,21,0,99,92,2
+akhtanizovskaya,ru,45,37,4,100,24,3
+morgan city,us,29,-91,6,79,90,4
+mogwase,za,-25,27,17,81,76,1
+mairana,bo,-18,-63,18,83,12,2
+thyboron,dk,56,8,7,88,0,13
+uusikaupunki,fi,60,21,3,100,92,3
+kikwit,cd,-5,18,20,96,76,1
+turtas,ru,58,69,-16,81,20,1
+crawfordsville,us,40,-86,-4,92,1,3
+obeliai,lt,55,25,1,95,92,6
+bako,et,9,6,23,48,0,3
+espanola,us,46,-81,-1,87,88,2
+seligenstadt,de,50,8,5,93,20,4
+koyilandi,in,,,,,,
+alabaster,us,33,-86,4,100,90,4
+salym,ru,60,71,-12,71,68,2
+duz,tn,,,,,,
+huambo,ao,-12,15,12,95,8,1
+mecca,sa,21,39,13,86,0,1
+rudsar,ir,37,50,11,93,40,4
+tigil,ru,57,158,-13,86,76,1
+tchollire,cm,8,14,15,73,0,1
+kirensk,ru,57,108,-28,83,68,1
+ganzhou,cn,25,114,1,98,92,1
+yurga,ru,55,84,-22,64,36,1
+hun,ly,50,4,4,100,75,3
+blackwater,au,51,0,6,93,32,4
+zerbst,de,51,12,5,75,40,8
+mnogovershinnyy,ru,53,139,-17,65,0,4
+ksenyevka,ru,,,,,,
+agua verde,mx,22,-105,23,73,5,2
+opuwo,na,-18,13,8,59,0,1
+mandsaur,in,24,75,12,81,0,2
+port lavaca,us,28,-96,8,85,1,2
+real,pt,14,121,30,58,20,1
+khanu woralaksaburi,th,16,99,21,100,88,1
+sao geraldo do araguaia,br,-6,-48,23,96,88,1
+la union,cl,14,-89,23,62,0,1
+saravan,la,39,45,0,98,90,1
+corpus christi,py,27,-97,10,77,1,2
+udimskiy,ru,61,45,-5,91,80,3
+pacific grove,us,36,-121,13,79,1,1
+pilar,py,-34,-58,18,82,0,2
+codrington,ag,-28,153,26,57,75,3
+nemyriv,ua,50,23,2,100,90,2
+prabumulih,id,-3,104,23,100,92,0
+alice town,bs,25,-79,26,95,64,8
+coremas,br,-7,-37,20,100,80,1
+varberg,se,57,12,2,86,48,5
+boddam,gb,57,-1,3,97,48,6
+chenghai,cn,23,116,14,82,0,3
+ucluelet,ca,48,-125,9,100,75,1
+tupelo,us,34,-88,2,100,90,5
+khed brahma,in,24,73,12,77,0,1
+kanashevo,ru,55,62,-19,84,20,1
+karaidel,ru,55,56,-6,84,92,2
+koungheul,sn,13,-14,19,49,0,1
+balykshi,kz,,,,,,
+fagernes,no,60,9,-2,77,80,4
+aberdeen,us,45,-98,-7,70,1,1
+punta arenas,cl,-53,-70,12,71,0,8
+guacimo,cr,8,-76,28,78,40,0
+gombong,id,-7,109,24,98,68,1
+bloemfontein,za,-29,26,11,76,76,3
+garowe,so,8,48,18,85,20,2
+karasuk,ru,53,78,-23,53,32,2
+floriano,br,-6,-43,21,94,20,1
+vagur,fo,61,-6,5,100,44,8
+kumluca,tr,36,30,1,99,44,0
+koindu,sl,8,-10,20,66,0,2
+saint-malo,fr,48,-2,8,87,90,4
+mlalo,tz,-4,38,19,95,48,0
+cilibia,ro,45,27,-4,86,68,1
+kalakamati,bw,-20,27,17,97,24,2
+antsirabe,mg,-19,47,11,85,0,2
+taoudenni,ml,22,-3,10,50,0,2
+hennenman,za,-27,27,17,55,76,7
+bograd,ru,54,90,-25,75,20,1
+gatbo,ph,13,123,24,100,68,2
+misratah,ly,32,15,18,90,88,8
+kondoa,tz,-4,35,16,100,92,1
+opelousas,us,30,-92,6,84,90,5
+monte patria,cl,-30,-70,13,76,0,0
+narbonne,fr,43,3,11,54,0,4
+pedra azul,br,-16,-41,19,99,92,2
+manturovo,ru,58,44,-7,81,68,2
+bolobo,cd,-2,16,21,100,56,1
+tonk,in,26,75,10,83,0,1
+yayva,ru,59,57,-5,86,80,2
+brusyanskiy,ru,53,38,0,96,92,5
+wangou,cn,42,126,-25,61,36,1
+lujan,ar,-46,-67,23,26,24,10
+eskisehir,tr,39,30,6,81,75,2
+magui,co,,,,,,
+staryy nadym,ru,65,72,-9,86,88,4
+piet retief,za,-27,30,14,100,92,2
+kencong,id,-7,112,24,97,48,1
+saint-leu,re,-21,55,23,61,75,3
+livingston,us,32,-88,4,91,90,3
+druzhba,ua,49,25,0,90,48,2
+asenovgrad,bg,42,24,-2,92,32,1
+zabaykalsk,ru,49,117,-33,42,0,1
+regina,ca,50,-104,-8,85,40,2
+dalaba,gn,10,-12,15,72,0,0
+gara,hu,46,19,4,93,0,3
+jiupu,cn,41,122,-17,52,68,1
+anori,br,-3,-61,23,100,80,0
+skelleftea,se,64,20,3,93,92,3
+koraput,in,18,82,11,85,8,0
+salina cruz,mx,16,-95,25,56,0,9
+tivaouane,sn,14,-16,23,60,0,4
+puno,pe,-15,-70,14,28,40,2
+dalvik,is,57,14,-1,92,0,3
+nanchong,cn,30,106,1,92,68,1
+cayhagan,ph,9,122,27,95,0,4
+gazojak,tm,41,61,-5,96,0,1
+batalha,br,39,-8,11,100,90,1
+bauchi,ng,10,9,14,57,0,2
+saint-andre-avellin,ca,45,-75,-1,86,75,4
+gaozhou,cn,21,110,10,100,100,1
+yakshur-bodya,ru,,,,,,
+primorsko-akhtarsk,ru,46,38,3,95,56,6
+mizdah,ly,31,12,6,90,0,3
+sombrio,br,-29,-49,21,84,64,4
+paracatu,br,-17,-46,20,91,100,3
+pangai,to,-19,-174,27,57,20,5
+kassala,sd,15,36,18,77,0,1
+amapa,br,15,-87,25,83,20,2
+north bend,us,43,-124,11,92,90,2
+birobidzhan,ru,48,132,-29,32,0,1
+joinville,br,-26,-48,23,73,75,7
+tautira,pf,-17,-149,30,70,75,6
+selenginsk,ru,52,106,-28,68,20,1
+esil,kz,51,66,-26,46,0,1
+gorin,ru,40,-92,-3,79,1,2
+yantzaza,ec,-3,-78,17,91,68,0
+marhaura,in,25,84,10,93,0,1
+camopi,gf,3,-52,24,90,68,1
+san pedro,ar,-33,-59,20,81,0,2
+haukipudas,fi,65,25,0,95,92,5
+isiro,cd,2,27,19,81,36,0
+challans,fr,46,-1,8,81,0,3
+armeria,mx,18,-103,25,83,20,3
+vesoul,fr,47,6,5,93,75,2
+jaisalmer,in,26,70,12,91,56,1
+gawler,au,-34,138,25,27,0,7
+suchitoto,sv,13,-89,25,88,0,1
+woodward,us,36,-99,3,47,20,1
+marck,fr,50,1,8,65,20,7
+bose,cn,45,8,-1,54,0,1
+gorodovikovsk,ru,46,41,0,95,64,5
+shatsk,ru,51,23,5,97,92,5
+basco,ph,40,-91,-4,79,1,2
+dawei,mm,14,98,24,78,48,2
+kunya,ru,12,8,16,45,0,3
+luba,gq,17,120,23,79,0,2
+taseyevo,ru,57,94,-22,66,64,1
+okhtyrka,ua,50,34,1,98,88,2
+florence,us,34,-87,2,88,90,3
+suileng,cn,47,127,-28,29,0,1
+tartus,sy,,,,,,
+kyaikto,mm,17,97,21,100,24,1
+viedma,ar,-40,-62,21,38,12,0
+intipuca,sv,13,-88,27,93,8,2
+novoseleznevo,ru,55,69,-23,71,0,2
+klaebu,no,63,10,1,100,75,4
+arya,ru,,,,,,
+liminangcong,ph,,,,,,
+northam,au,51,-4,8,81,88,7
+parral,cl,-36,-71,18,63,12,5
+eirunepe,br,-6,-69,25,88,20,1
+prachuap khiri khan,th,11,99,23,95,80,2
+sungurlu,tr,40,34,4,95,92,3
+grakhovo,ru,56,51,-4,85,90,5
+jucurutu,br,-6,-37,22,96,68,1
+sundargarh,in,22,84,12,85,0,2
+igrim,ru,63,64,-11,88,0,2
+grand-lahou,ci,5,-5,25,88,8,2
+yeletskiy,ru,,,,,,
+telde,es,27,-15,17,67,0,3
+mokhotlong,ls,-29,29,6,74,68,0
+muros,es,42,-9,7,100,20,0
+zaraza,ve,9,-65,25,69,0,5
+san matias,bo,13,-86,20,68,20,1
+varias,ro,46,20,2,93,88,1
+athens,us,34,-86,2,100,90,4
+chitipa,mw,-9,33,17,97,88,1
+corralillo,cu,22,-80,25,87,20,2
+isla vista,us,34,-119,15,53,1,3
+jingdezhen,cn,29,117,0,100,80,1
+hacienda heights,us,33,-117,18,56,1,0
+freetown,ag,26,-78,26,83,75,4
+areia branca,br,-10,-37,27,78,40,3
+pavlodar,kz,52,76,-20,76,0,5
+walvis bay,na,-22,14,14,82,0,4
+zhanatas,kz,,,,,,
+berberati,cf,4,15,19,81,0,1
+chichibu,jp,35,139,7,39,20,5
+moiyabana,bw,,,,,,
+camargo,bo,27,-105,9,75,0,0
+razole,in,16,81,25,100,0,3
+burnie,au,-41,145,16,95,0,6
+horta,pt,41,2,8,93,0,1
+san onofre,co,9,-75,27,81,0,4
+tokonou,gn,9,-9,18,56,0,1
+asfi,ma,,,,,,
+awbari,ly,26,12,3,75,0,1
+diego de almagro,cl,-26,-70,20,55,0,1
+osakarovka,kz,50,72,-12,77,92,1
+kizhinga,ru,51,109,-26,63,68,1
+khirkiya,in,22,76,14,83,0,1
+buqayq,sa,,,,,,
+kalaisan,ph,7,125,28,78,20,4
+iberia,pe,-11,-69,26,84,8,1
+rairangpur,in,22,86,8,78,0,1
+gueret,fr,46,1,7,93,90,4
+general bravo,mx,25,-99,12,65,0,3
+voskevan,am,41,45,6,93,90,1
+dovers,vc,12,-61,26,74,40,6
+puyang,cn,35,115,-7,70,88,1
+penalva,br,-3,-45,23,98,68,0
+macapa,br,0,-51,27,88,40,4
+ziyang,cn,30,104,3,97,92,1
+srikakulam,in,18,83,24,100,0,4
+balaguer,es,41,0,8,87,0,4
+aybak,af,,,,,,
+chokwe,mz,,,,,,
+gopalpur,in,25,86,10,82,0,1
+mariestad,se,58,13,0,89,64,3
+wahpeton,us,46,-96,-7,85,1,2
+huaicheng,cn,23,112,4,100,92,1
+lubao,cd,14,120,28,58,40,4
+pangkalanbuun,id,-2,111,25,98,56,1
+atakpame,tg,7,1,20,67,0,0
+lukulu,zm,-14,23,17,99,64,2
+imphal,in,24,93,7,86,0,0
+muravlenko,ru,63,74,-8,89,80,4
+kyabram,au,-36,145,19,98,80,3
+gistrup,dk,56,9,3,85,8,7
+zhoucheng,cn,31,119,4,93,90,2
+iwaki,jp,37,140,3,51,20,6
+newry,gb,54,-6,6,93,75,4
+bhadasar,in,28,74,10,70,8,2
+atambua,id,-9,124,27,100,32,1
+cheuskiny,ru,,,,,,
+lichtenburg,za,-26,26,19,24,92,3
+enkoping,se,59,17,0,97,36,2
+dzhebariki-khaya,ru,62,135,-38,76,20,1
+kusk,af,,,,,,
+malgrat de mar,es,41,2,7,100,20,2
+zahnitkiv,ua,48,28,-4,91,48,1
+starosubkhangulovo,ru,53,57,-7,73,88,1
+tahe,cn,52,124,-21,58,0,2
+mombasa,ke,-4,39,27,88,75,2
+paragominas,br,-3,-47,22,99,92,1
+pimenta bueno,br,-11,-61,24,93,8,0
+buchmany,ua,51,28,1,95,92,5
+lahaina,us,20,-156,24,69,40,6
+presidencia roque saenz pena,ar,-26,-60,29,49,76,2
+zverinogolovskoye,ru,54,64,-27,26,0,1
+wuda,cn,39,106,-25,53,0,1
+fevralsk,ru,,,,,,
+sainte-rose,re,45,-73,0,68,20,6
+goure,ne,13,10,16,39,0,4
+that phanom,th,16,104,22,71,24,3
+maua,ke,0,37,16,95,80,1
+aviles,es,43,-5,9,93,56,0
+zhanakorgan,kz,43,67,0,98,92,2
+skovorodino,ru,53,123,-25,59,0,2
+necochea,ar,-38,-58,20,63,80,2
+saiha,in,22,92,8,86,0,0
+muhos,fi,64,26,0,95,92,5
+vanavara,ru,60,102,-24,76,88,2
+zaton,ru,49,33,0,98,88,1
+boston,gb,42,-71,-1,51,75,5
+bochil,mx,17,-92,24,73,5,7
+roebourne,au,-20,117,34,29,0,3
+varkaus,fi,62,27,0,92,90,3
+oum hadjer,td,13,19,15,36,0,3
+kyabe,td,9,18,20,51,0,2
+sao mateus,br,-18,-39,22,100,92,7
+zirandaro,mx,18,-100,28,48,0,1
+serik,tr,36,31,12,93,75,3
+labuhan,id,-2,115,25,91,32,1
+tatawin,tn,,,,,,
+mahasamund,in,21,82,17,77,76,0
+subtanjalla,pe,-14,-75,20,82,40,3
+koutsouras,gr,35,25,17,100,0,8
+santa marta,co,11,-74,29,70,20,4
+karibib,na,-21,15,11,88,0,0
+rangapara,in,26,92,7,73,0,1
+gagino,ru,54,39,0,95,92,6
+ballangen,no,68,16,-3,86,80,5
+bella union,uy,8,-73,19,79,0,0
+ravne,si,44,17,1,100,0,1
+cerveteri,it,42,12,11,76,0,1
+amursk,ru,50,136,-27,78,20,1
+devonport,au,-41,146,18,69,0,1
+cambara,br,-23,-50,24,48,0,3
+gornoye loo,ru,43,39,8,61,76,6
+brownwood,us,31,-98,4,66,1,2
+srednyaya yelyuzan,ru,53,45,-7,93,92,4
+kidal,ml,18,1,12,53,0,3
+imbituba,br,-28,-48,23,69,40,4
+victor harbor,au,-35,138,25,27,0,7
+kautokeino,no,69,23,-10,82,80,1
+gayeri,bf,12,0,16,54,0,2
+prieska,za,-29,22,17,35,0,4
+lasem,id,-6,112,27,97,0,1
+chissamba,ao,,,,,,
+mestia,ge,43,42,-17,87,12,0
+shumskiy,ru,54,99,-29,56,20,0
+debre tabor,et,11,38,8,69,0,1
+kalevala,ru,64,29,-1,83,88,3
+castanheira do ribatejo,pt,38,-8,11,87,0,3
+bernalillo,us,35,-106,3,64,1,3
+miandrivazo,mg,-19,45,21,92,36,1
+gofitskoye,ru,44,40,-3,65,12,1
+grand island,us,40,-98,-3,74,1,2
+muroto,jp,33,134,9,45,75,3
+kosh-agach,ru,49,88,-33,36,0,1
+sertanopolis,br,-23,-51,24,53,0,4
+gberia fotombu,sl,9,-11,17,74,0,0
+suozhen,cn,36,118,-13,54,20,0
+joshimath,in,30,79,-19,100,36,0
+nobres,br,-14,-56,26,82,8,2
+riviere-au-renard,ca,49,-64,-11,72,90,2
+pine bluff,us,34,-92,3,75,1,2
+serenje,zm,-13,30,19,97,88,3
+villa del rosario,ve,7,-72,26,78,40,2
+bastia,fr,44,8,13,35,0,4
+maple creek,ca,49,-109,-13,56,0,2
+anloga,gh,5,0,29,83,20,2
+clarin,ph,8,123,26,89,0,1
+zalaszentgrot,hu,46,17,7,70,90,3
+vokhtoga,ru,58,41,-6,90,80,6
+pak phanang,th,8,100,25,100,20,3
+villa bruzual,ve,9,-69,27,65,68,1
+santa teresa,ph,10,-66,26,78,20,1
+pervomayskiy,ru,53,40,0,95,92,6
+libreville,ga,0,9,28,83,20,2
+ashqelon,il,31,34,13,82,75,4
+beysehir,tr,37,31,4,100,92,4
+svetlaya,ru,46,138,-9,100,56,6
+ouango,cf,4,22,23,84,12,1
+calatayud,es,41,-1,13,21,0,2
+xingcheng,cn,40,120,-15,100,36,1
+nova vicosa,br,-17,-39,22,100,92,5
+ishim,ru,56,69,-22,66,8,1
+chaa-khol,ru,,,,,,
+kandi,bj,11,2,17,47,0,2
+la cruz,mx,23,-106,24,57,0,1
+jinzhou,cn,41,121,-17,63,48,1
+ji-parana,br,,,,,,
+paris,us,48,2,7,93,75,3
+matata,nz,-37,176,20,97,0,1
+otradnoye,ru,59,30,-1,86,20,4
+urzhum,ru,57,50,-4,94,88,3
+lerwick,gb,60,-1,4,60,76,8
+orchard homes,us,46,-114,-4,74,1,1
+riaba,gq,,,,,,
+bafra,tr,,,,,,
+langham,ca,52,-106,-13,78,20,2
+beirut,lb,33,35,17,67,75,2
+liniere,ca,,,,,,
+jega,ng,12,4,20,38,0,4
+stolin,by,51,26,3,97,92,5
+dolbeau,ca,,,,,,
+fairview,ca,40,-74,0,51,1,1
+rojhan,pk,28,69,13,96,56,3
+kipini,ke,-2,40,22,97,40,3
+kuchera,in,26,73,11,80,0,2
+carahue,cl,-38,-73,14,87,0,2
+pergamino,ar,-33,-60,22,66,0,1
+winslow,us,51,0,6,87,75,6
+serabu,sl,7,-12,26,72,0,2
+severo-yeniseyskiy,ru,60,93,-20,68,76,1
+redcliffe,zw,51,-2,7,93,36,6
+sagua la grande,cu,22,-80,24,73,20,2
+nikolayevka,ru,47,38,1,91,68,5
+raurkela,in,,,,,,
+yong peng,my,2,103,24,100,12,1
+sao raimundo das mangabeiras,br,-7,-45,22,98,88,2
+salumbar,in,24,74,9,81,0,2
+beckley,us,37,-81,-1,96,90,1
+caboolture,au,-27,152,27,57,40,4
+binzhou,cn,37,117,-13,54,20,0
+boshnyakovo,ru,49,142,-7,100,48,6
+sampit,id,-2,112,25,97,92,2
+katangli,ru,51,143,-8,100,68,10
+octeville,fr,49,-1,10,71,75,7
+groton,us,42,-71,-2,57,1,1
+fuling,cn,29,107,1,96,92,1
+lisiy nos,ru,60,30,-1,86,20,4
+aldama,mx,22,-98,17,100,64,5
+assomada,cv,15,-23,24,64,40,4
+adelaide,au,-34,138,25,27,0,7
+nsanje,mw,-16,35,25,82,56,1
+nenjiang,cn,49,125,-29,31,0,1
+santo antonio do sudoeste,br,-26,-53,23,52,56,1
+kuala terengganu,my,5,103,25,100,75,1
+lianzhou,cn,24,112,1,99,92,1
+marrakesh,ma,31,-7,12,62,0,1
+cairns,au,-16,145,26,88,75,5
+lyuban,by,52,28,2,95,92,5
+putyatino,ru,54,41,-1,95,88,6
+konstantinovka,ru,47,28,-4,91,48,1
+wrexham,gb,53,-2,6,93,75,4
+malyye derbety,ru,47,44,-1,98,88,5
+kazalinsk,kz,,,,,,
+vostochnyy,ru,55,37,0,100,90,3
+vitoria da conquista,br,,,,,,
+bangassou,cf,4,22,22,72,20,1
+keflavik,is,64,-22,1,93,75,9
+manjacaze,mz,-24,33,21,98,92,4
+topeka,us,39,-95,-2,71,1,1
+muzhi,ru,65,64,-14,77,36,2
+sakti,in,22,82,12,85,0,1
+milici,ba,38,15,15,67,0,11
+avanigadda,in,16,80,23,88,40,1
+sergeyevka,kz,53,67,-26,45,0,1
+pa sang,th,18,98,21,94,75,0
+fianga,td,,,,,,
+drabiv,ua,49,32,-1,92,68,2
+nanaimo,ca,49,-123,7,100,90,8
+hamadan,ir,,,,,,
+manuk mangkaw,ph,4,119,29,98,48,2
+clarence town,bs,-32,151,25,69,75,6
+sansai,th,,,,,,
+manicaragua,cu,22,-79,24,88,8,1
+phuntsholing,bt,26,89,6,65,12,1
+sarai alamgir,pk,32,73,10,100,92,2
+gedinne,be,49,4,4,100,75,3
+moissac,fr,44,1,9,93,90,3
+la malbaie,ca,47,-70,-7,100,56,3
+aldan,ru,58,125,-26,69,68,1
+los llanos de aridane,es,28,-17,19,82,0,1
+vavuniya,lk,8,80,20,92,36,1
+san benito abad,co,8,-75,29,71,8,1
+powassan,ca,46,-79,-4,100,90,7
+quiruvilca,pe,-7,-78,13,71,36,0
+novosheshminsk,ru,55,51,-5,91,80,3
+linao,ph,11,124,25,97,44,1
+tagusao,ph,9,117,27,88,0,3
+bolshiye berezniki,ru,,,,,,
+loudi,cn,27,112,0,100,92,2
+garden city,us,40,-73,0,69,1,2
+fitionesti,ro,45,27,0,70,90,4
+tres passos,br,-27,-53,22,59,88,2
+curvelo,br,-18,-44,20,72,92,3
+velyka lepetykha,ua,47,33,4,100,92,1
+odesskoye,ru,54,72,-18,79,24,3
+yuci,cn,37,112,-10,72,8,1
+roblin,ca,51,-101,-11,73,0,4
+yako,bf,12,-2,15,52,0,1
+zanesville,us,39,-82,-3,94,1,2
+jiwani,pk,25,61,18,83,0,3
+outlook,ca,51,-107,-10,76,0,3
+sambava,mg,-14,50,25,100,88,4
+brasileia,br,,,,,,
+bethalto,us,38,-90,-3,86,5,5
+manoel urbano,br,-8,-69,25,92,12,0
+nizhniy ufaley,ru,55,59,-13,80,36,1
+la mana,ec,0,-79,18,90,48,0
+walla walla,us,46,-118,-1,84,90,2
+monywa,mm,22,95,19,95,68,2
+chokurdakh,ru,70,147,-34,50,32,4
+el tigre,ve,8,-64,28,49,24,6
+kitgum,ug,3,32,15,93,64,1
+phonhong,la,18,102,23,78,75,1
+osinovo,ru,62,42,-6,84,76,3
+krasnystaw,pl,50,23,4,100,75,4
+lengshuijiang,cn,27,111,0,100,92,1
+tongzi,cn,28,105,3,99,88,1
+colorado springs,us,38,-104,-3,35,1,2
+senneterre,ca,48,-77,-10,72,90,4
+riyaq,lb,,,,,,
+baturaja,id,-4,104,23,92,88,1
+mawlaik,mm,23,94,14,93,92,0
+dmitriyevka,ru,43,41,1,100,64,1
+ha noi,vn,21,105,15,77,75,2
+tenno,jp,45,10,6,75,0,1
+bydgoszcz,pl,53,18,5,100,90,6
+kuopio,fi,62,27,0,90,90,4
+chitrakonda,in,18,82,12,89,0,1
+tekeli,kz,44,78,-12,54,8,1
+shirokiy,ru,53,39,0,97,80,6
+pailon,bo,-17,-62,26,78,75,3
+kenai,us,60,-151,-4,88,40,3
+abu jubayhah,sd,,,,,,
+itaocara,br,-21,-42,19,74,8,2
+madona,lv,56,26,0,95,88,4
+klobuck,pl,50,18,4,93,75,7
+darbhanga,in,26,85,9,86,0,1
+jitauna,br,-14,-39,21,96,92,1
+aracuai,br,-16,-42,18,96,92,3
+chernaya kholunitsa,ru,58,51,-5,90,92,3
+yuncheng,cn,35,111,-6,92,92,1
+durham,us,54,-1,2,92,0,2
+malumfashi,ng,11,7,16,48,0,3
+olinda,br,-2,-79,26,65,40,6
+smolenka,ru,54,22,4,97,88,6
+kolpashevo,ru,58,82,-13,70,80,2
+hikari,jp,33,131,9,56,75,6
+muswellbrook,au,-32,150,27,71,0,1
+devrek,tr,41,31,9,85,24,4
+shenjiamen,cn,29,122,14,100,92,7
+mandapam,in,9,79,26,100,8,6
+khorixas,na,-20,14,7,85,0,1
+zlotoryja,pl,51,15,6,75,40,11
+porirua,nz,-41,174,17,72,0,8
+beauceville,ca,46,-70,-4,83,80,3
+shancheng,cn,26,117,0,97,88,1
+pathein,mm,16,94,22,95,44,2
+longkou,cn,37,120,-2,100,32,1
+schenectady,us,42,-73,-3,68,1,1
+opobo,ng,,,,,,
+nouna,bf,12,-3,15,54,0,1
+verkhnyaya sinyachikha,ru,57,61,-14,76,32,1
+gromiljak,ba,43,18,0,84,40,1
+caranavi,bo,-15,-67,21,88,92,0
+copperas cove,us,31,-97,6,67,1,5
+hukuntsi,bw,-23,21,20,17,0,7
+misasi,tz,-3,33,20,88,75,1
+quepos,cr,9,-84,20,64,20,6
+rajo khanani,pk,24,68,15,86,0,1
+bay-ang,ph,12,124,26,94,24,2
+yilan,cn,24,121,20,88,75,1
+lixourion,gr,38,20,17,100,92,13
+boyuibe,bo,-20,-63,27,62,64,4
+sabathu,in,31,76,10,87,5,1
+yelovo,ru,57,54,-6,94,92,2
+charlottetown,ca,46,-63,-9,56,75,3
+el rosario,sv,22,-105,23,73,5,2
+pastos bons,br,-6,-44,21,99,48,1
+petlawad,in,22,74,12,84,0,1
+chino valley,us,34,-112,7,41,1,1
+port lincoln,au,-34,135,18,87,24,6
+avrameni,ro,48,26,1,86,92,2
+wyndham,nz,51,-3,7,87,75,6
+sao joao do paraiso,br,-15,-42,19,95,92,3
+palmas,br,-10,-48,23,90,88,2
+accra,gh,5,0,28,97,12,5
+graaff-reinet,za,-32,24,9,89,0,2
+carlos chagas,br,-17,-40,18,98,92,4
+nchelenge,zm,-9,28,19,100,92,2
+benalla,au,-36,145,25,41,80,4
+laiagam,pg,,,,,,
+chudniv,ua,50,28,0,93,92,5
+excelsior springs,us,39,-94,-1,79,1,1
+novyy nekouz,ru,57,38,-4,92,88,5
+paralimni,cy,40,23,-3,91,64,0
+abancay,pe,-13,-72,10,42,8,0
+bulawayo,zw,-20,28,17,99,92,1
+sukhumi,ge,,,,,,
+khorramshahr,ir,30,48,15,87,75,1
+zanjan,ir,36,48,-5,72,56,1
+san buenaventura,hn,27,-101,9,98,12,1
+pembroke,ca,45,-77,-2,92,90,3
+arvika,se,59,12,0,86,76,4
+puerto maldonado,pe,-12,-69,31,54,92,1
+bunia,cd,1,30,16,91,80,0
+teresina,br,-5,-42,24,94,90,3
+braco do norte,br,-28,-49,20,59,8,4
+christiana,za,-27,25,13,59,20,1
+malinovoye ozero,ru,51,79,-27,25,0,1
+ngukurr,au,,,,,,
+lebedyan,ru,53,39,0,96,92,6
+galdar,es,28,-15,17,67,0,3
+xghajra,mt,,,,,,
+tshela,cd,-4,12,22,100,92,1
+chililabombwe,zm,-12,27,18,99,92,2
+bahia blanca,ar,-38,-62,26,38,36,5
+leverkusen,de,51,6,5,81,75,6
+agra,in,27,78,9,85,0,1
+harpanahalli,in,14,75,19,86,0,2
+xiongshi,cn,,,,,,
+chkalovsk,tj,56,43,-3,92,90,3
+johnstown,us,40,-78,-4,79,1,1
+balotra,in,25,72,10,76,0,1
+kotma,in,23,81,10,85,0,1
+champasak,la,14,105,23,83,40,1
+doha,qa,25,51,20,60,0,2
+meybod,ir,32,54,6,38,0,3
+hailin,cn,44,129,-26,46,0,1
+carlton,gb,46,-92,-5,80,1,2
+humboldt,us,52,-105,-11,74,0,4
+timbangan,ph,,,,,,
+coahuayana,mx,18,-100,24,45,0,0
+torres,br,-29,-49,21,84,64,4
+luangwa,zm,-15,30,21,100,92,0
+malm,no,64,11,-1,100,75,4
+chiang rai,th,19,99,21,100,75,1
+charters towers,au,-20,146,22,99,92,6
+andrushivka,ua,50,29,0,92,68,5
+saltillo,mx,25,-100,10,81,5,1
+guanhaes,br,-18,-42,16,95,92,1
+amnat charoen,th,15,104,23,72,12,6
+ribas do rio pardo,br,-20,-53,26,43,0,4
+longyearbyen,sj,78,15,-7,62,75,6
+santa comba,es,43,-8,5,100,20,0
+drochia,md,48,27,-2,82,64,1
+coihaique,cl,-45,-72,12,67,0,1
+erzin,ru,36,36,12,93,75,2
+sikeston,us,36,-89,0,76,1,3
+malappuram,in,11,76,24,88,20,2
+vieux-habitants,gp,16,-61,24,83,0,3
+kazerun,ir,29,51,6,82,0,0
+molchanovo,ru,57,83,-19,66,48,1
+romny,ru,50,33,0,99,80,2
+buloh kasap,my,2,102,28,83,75,2
+huaibei,cn,33,116,-1,67,80,3
+beian,cn,63,9,4,86,75,6
+nhamunda,br,-2,-56,24,93,12,1
+cheney,us,47,-117,0,79,90,3
+lumsden,ca,50,-104,-8,85,40,2
+la sarre,ca,48,-79,-10,85,44,4
+petaluma,us,38,-122,10,100,90,2
+rodrigues alves,br,-7,-72,25,94,0,1
+khuchni,ru,41,47,-3,84,0,1
+moura,pt,38,-7,12,81,0,3
+motygino,ru,58,94,-23,70,80,1
+kayankulam,in,9,76,28,100,68,1
+bouloupari,nc,-21,166,27,54,75,6
+bukachacha,ru,52,116,-35,53,12,0
+kaili,cn,-3,120,24,81,36,1
+tandil,ar,-37,-59,17,72,88,1
+katsina,ng,12,7,16,39,0,4
+suicheng,cn,33,117,0,84,80,4
+jatibonico,cu,21,-79,26,69,8,3
+caxito,ao,-22,-42,20,73,0,5
+avenal,us,36,-120,11,85,40,1
+wolsztyn,pl,52,16,5,81,90,8
+zhaotong,cn,27,103,-4,100,80,1
+kostino,ru,41,25,-2,92,44,1
+leo,bf,11,-2,18,39,0,2
+huazolotitlan,mx,,,,,,
+nioro,ml,13,-15,19,49,0,1
+neumunster,de,54,9,5,80,20,6
+ontario,us,34,-117,18,46,1,3
+montanha,br,-18,-40,20,98,92,4
+srandakan,id,-7,110,24,100,76,1
+naruja,ge,41,41,11,50,0,10
+blenheim,ca,-41,173,17,77,0,5
+arkhara,ru,49,130,-27,54,36,1
+kiama,au,-34,150,22,83,76,2
+batsfjord,no,70,29,-4,92,40,5
+sidney,us,47,-104,-4,84,1,4
+canmore,ca,51,-115,-1,54,90,4
+cerinza,co,5,-72,13,93,56,0
+ashland,us,38,-82,-1,84,1,2
+teahupoo,pf,-17,-149,30,70,75,6
+nordfjordeid,no,61,5,4,100,88,11
+concordia,ar,-31,-58,24,62,32,1
+calabozo,ve,8,-67,29,43,12,5
+bhag,pk,29,67,13,95,8,1
+mopti,ml,14,-4,17,72,0,1
+plouzane,fr,48,-4,7,81,75,2
+kedougou,sn,12,-12,18,40,0,2
+bata,gq,1,9,26,100,40,1
+barra do garcas,br,-15,-52,20,97,56,2
+lucea,jm,18,-78,28,69,20,2
+caborca,mx,30,-111,16,49,0,2
+sanchursk,ru,56,47,-6,90,68,3
+chippewa falls,us,44,-91,-8,83,1,2
+dahuk,iq,,,,,,
+oliver,ca,49,-119,4,69,90,7
+twentynine palms,us,34,-116,13,54,1,2
+warri,ng,5,5,23,96,36,1
+praxedis guerrero,mx,31,-106,11,60,20,2
+liepaja,lv,56,21,5,100,80,2
+waraseoni,in,21,80,18,98,76,1
+idil,tr,37,41,3,91,8,1
+honavar,in,14,74,24,96,36,2
+great bend,us,38,-98,0,56,1,4
+chlum u trebone,cz,48,14,3,97,92,8
+giyani,za,-23,30,21,85,92,4
+urfa,tr,,,,,,
+syamzha,ru,60,41,-7,85,76,6
+pital,cr,2,-75,18,93,76,0
+tulagi,sb,,,,,,
+concord,us,37,-122,10,79,90,1
+juterbog,de,51,13,5,75,75,9
+cacequi,br,-29,-54,22,49,12,2
+sherlovaya gora,ru,50,116,-34,48,8,1
+nelson bay,au,-32,152,25,69,75,6
+onguday,ru,50,86,-26,61,0,0
+west bay,ky,50,-2,8,87,12,5
+bambui,br,6,10,14,64,36,0
+sao jose de ribamar,br,-2,-44,26,88,20,2
+kiboga,ug,0,31,18,92,92,1
+yungkang,tw,,,,,,
+matamoros,mx,25,-97,11,85,1,2
+arroyo,us,41,-78,-5,64,1,0
+moose factory,ca,51,-80,-9,78,90,4
+uglegorsk,ru,49,142,-7,81,32,5
+maridi,sd,,,,,,
+yafran,ly,32,12,1,90,0,2
+jesup,us,31,-81,7,81,90,3
+banda aceh,id,5,95,22,100,0,0
+kolyvan,ru,55,82,-23,76,0,1
+vryburg,za,-26,24,18,20,92,4
+ouadda,cf,8,22,16,67,8,1
+kerrobert,ca,51,-109,-14,84,75,9
+usevya,tz,,,,,,
+aksum,et,14,38,13,91,36,1
+teluk intan,my,4,101,25,88,75,0
+kinsale,ie,51,-8,6,81,75,3
+narnaul,in,28,76,7,81,0,1
+wala,pa,11,13,16,41,12,2
+parras,mx,,,,,,
+hansi,in,29,75,10,89,20,1
+tucuma,br,,,,,,
+jacobina,br,-11,-40,19,97,56,1
+yarmouth,ca,50,-1,7,81,40,5
+sinait,ph,17,120,28,69,20,1
+kaputa,zm,-8,29,16,97,56,1
+kargat,ru,55,80,-22,51,24,1
+rawannawi,ki,,,,,,
+marsa matruh,eg,31,27,13,91,0,5
+mitchell,us,43,-98,-9,82,36,2
+yakima,us,46,-120,0,88,90,1
+agropoli,it,40,15,13,100,32,8
+seydisehir,tr,37,31,4,96,80,2
+kuala selangor,my,3,101,26,94,75,1
+iguape,br,-24,-47,21,99,0,6
+hanko,fi,59,22,4,100,92,8
+ferkessedougou,ci,9,-5,19,69,0,0
+aflu,dz,,,,,,
+uberlandia,br,-18,-48,21,70,44,4
+guanambi,br,-14,-42,20,90,92,5
+ipatovo,ru,45,42,0,96,64,5
+mendeleyevo,ru,56,37,-1,100,90,3
+rizhao,cn,35,119,0,72,76,4
+shakawe,bw,-18,21,21,22,0,4
+zenzeli,ru,45,47,-3,87,32,4
+biggar,ca,55,-3,2,98,0,1
+rostovka,ru,55,73,-20,76,0,4
+stepnogorsk,kz,52,71,-18,81,68,2
+cao bang,vn,22,106,7,100,92,1
+los alamos,us,35,-106,2,56,1,2
+neman,ru,32,-85,5,85,90,3
+sharlyk,ru,52,54,-6,92,92,1
+sierra vista,us,31,-110,11,43,1,1
+fulacunda,gw,,,,,,
+chilliwack,ca,49,-121,5,76,90,1
+maceio,br,-9,-35,26,83,40,5
+sherpur,bd,25,90,11,85,0,1
+rajsamand,in,25,73,9,81,0,1
+linhai,cn,28,121,2,100,92,1
+glenwood springs,us,39,-107,-10,85,1,1
+onokhoy,ru,51,108,-28,68,32,0
+mezhdurechensk,ru,53,88,-26,46,0,0
+canyon,us,34,-101,4,44,1,2
+okmulgee,us,35,-95,1,63,1,3
+skjaerhollen,no,,,,,,
+tupik,ru,54,119,-38,68,0,1
+qeshm,ir,26,56,15,63,0,2
+wolmaranstad,za,,,,,,
+panama city,us,30,-85,9,86,40,4
+tooele,us,40,-112,0,95,90,2
+christchurch,nz,-43,172,16,63,44,3
+amderma,ru,,,,,,
+chumphon,th,10,99,25,94,90,1
+kuryk,kz,43,51,1,100,48,3
+belaya glina,ru,46,40,0,94,64,5
+marietta,us,33,-84,3,92,90,1
+balatonalmadi,hu,47,18,7,70,90,3
+barbosa ferraz,br,-24,-52,19,74,0,1
+sarahan,in,31,77,-16,87,56,0
+san juan,ar,14,121,30,58,20,1
+plastun,ru,44,136,-16,46,0,4
+ouegoa,nc,-20,164,27,66,0,5
+bell ville,ar,-32,-62,25,56,0,1
+kurush,ru,41,47,6,93,90,1
+kitui,ke,-1,38,19,96,88,1
+ahtopol,bg,42,27,1,100,20,4
+kikuchi,jp,33,130,6,60,0,0
+polson,us,47,-114,-5,84,1,0
+westport,nz,53,-9,6,98,44,3
+crestview,us,30,-86,8,92,90,4
+mumford,gh,5,0,26,91,8,3
+goba,et,7,39,8,82,56,0
+beihai,cn,38,121,-2,74,0,1
+piryion,gr,,,,,,
+munai,ph,7,124,23,81,8,1
+sawtell,au,-30,153,27,61,0,9
+baie-comeau,ca,49,-68,-11,85,90,2
+hakkari,tr,61,23,2,100,90,3
+laguna,br,27,-110,22,46,20,2
+erzurum,tr,39,41,-2,86,75,2
+soubre,ci,5,-6,22,98,12,1
+ocho rios,jm,18,-77,27,65,20,5
+kamiiso,jp,41,140,-4,79,75,5
+mineros,bo,-17,-63,26,78,75,3
+srivardhan,in,18,73,18,94,0,2
+harqalah,tn,35,38,10,98,80,3
+maumere,id,-8,122,28,100,12,1
+andujar,es,38,-4,3,77,8,1
+koslan,ru,63,48,-5,84,88,2
+mutis,co,6,-77,25,100,20,1
+maloy,no,1,118,27,75,12,1
+abaza,ru,52,90,-26,65,20,1
+bertinoro,it,44,12,10,35,0,6
+bozeman,us,45,-111,-4,68,1,6
+coldwater,us,41,-85,-3,86,1,1
+zig,az,40,-92,-3,79,1,1
+istisu,az,40,48,6,93,90,1
+kharovsk,ru,59,40,-6,84,80,5
+malartic,ca,48,-78,-10,72,90,4
+kajaani,fi,64,27,0,89,90,4
+ati,td,13,18,17,32,0,4
+vestmanna,fo,62,-7,2,64,56,5
+nioki,cd,-2,17,21,99,44,0
+riwaka,nz,-41,173,20,73,0,1
+loubomo,cg,,,,,,
+rock sound,bs,24,-76,26,100,12,6
+three hills,ca,51,-113,-8,78,75,3
+faanui,pf,-16,-151,28,99,32,7
+valday,ru,57,33,-2,93,88,3
+cananeia,br,-25,-47,21,100,0,6
+nowshera,pk,34,71,11,81,75,2
+kamenskoye,ru,,,,,,
+cherepovets,ru,59,37,-5,90,80,5
+eisenberg,de,50,11,3,80,88,7
+songjianghe,cn,42,127,-25,61,36,1
+nizhniy chir,ru,48,43,-1,99,92,5
+prince george,ca,53,-122,4,55,90,10
+arauca,co,7,-70,27,78,20,2
+tapejara,br,-23,-52,20,61,8,2
+gibara,cu,21,-76,26,69,75,2
+bayanday,ru,53,105,-33,41,0,0
+copacabana,bo,6,-75,16,93,75,1
+kumeny,ru,58,49,-4,92,76,3
+tiarei,pf,-17,-149,30,70,75,6
+longview,us,32,-94,5,92,20,3
+tierralta,co,8,-76,27,73,32,3
+miri,my,10,9,14,57,0,2
+whakatane,nz,-37,176,20,97,0,1
+khuzdar,pk,27,66,4,86,0,1
+krutikha,ru,53,81,-24,59,0,1
+zapadnaya dvina,ru,56,32,0,97,88,4
+boone,us,36,-81,0,99,90,2
+manzil jamil,tn,,,,,,
+medina del campo,es,41,-4,0,73,0,1
+coroata,br,-6,-44,22,97,48,1
+chornukhy,ua,50,32,0,98,68,2
+ravar,ir,31,56,-2,79,0,1
+lamu,ke,0,122,25,99,20,1
+peleduy,ru,59,112,-22,62,68,3
+kirakira,sb,-10,161,29,100,12,1
+salinas,ec,36,-121,13,71,1,1
+tolosa,es,43,-2,10,76,92,1
+sumbawanga,tz,-7,31,16,93,75,2
+naze,jp,5,7,23,95,32,1
+lolua,tv,,,,,,
+sinjar,iq,35,37,8,93,20,1
+minab,ir,27,57,16,63,0,2
+severnyy,ru,,,,,,
+salalah,om,17,54,21,64,0,1
+samus,ru,56,84,-24,76,32,1
+silver city,us,32,-108,7,56,1,2
+lae,pg,-6,146,26,83,12,0
+oromocto,ca,45,-66,-8,61,90,2
+dandong,cn,40,124,-17,65,32,1
+cienfuegos,cu,22,-80,24,88,12,1
+ankazobe,mg,-18,47,16,93,20,2
+lamar,us,38,-102,2,40,1,2
+keetmanshoop,na,-26,18,16,55,0,3
+nyrob,ru,60,56,-6,91,80,2
+thaba-tseka,ls,-29,28,6,74,68,0
+lowicz,pl,52,19,5,93,75,10
+kamennomostskiy,ru,44,40,-2,70,44,1
+falmouth,gb,50,-5,8,81,88,6
+sakhnovshchyna,ua,49,35,2,95,92,4
+panaba,mx,21,-88,25,76,48,4
+bubaque,gw,11,-15,26,100,0,3
+aguimes,es,27,-15,17,67,0,3
+tasbuget,kz,,,,,,
+bjornevatn,no,69,29,-4,100,44,2
+maxixe,mz,-23,35,22,100,92,3
+abiy adi,et,,,,,,
+martigny,ch,46,7,-14,100,90,0
+eyl,so,7,49,24,100,36,6
+yefira,gr,,,,,,
+lilongwe,mw,-13,33,20,94,40,3
+hinton,ca,53,-117,-5,67,8,2
+salina,us,36,-95,0,68,1,3
+shintomi,jp,32,131,10,53,75,4
+hope mills,us,34,-78,3,92,90,6
+ouro fino,br,-22,-46,20,60,80,2
+vetluga,ru,57,45,-7,85,64,2
+beaupre,ca,47,-70,-9,92,80,2
+dumbraveni,ro,46,24,1,86,40,1
+plettenberg bay,za,-34,23,16,100,0,5
+carlagan,ph,14,122,26,100,68,6
+acari,pe,-6,-36,23,75,20,3
+eureka,us,40,-124,11,93,90,6
+alibag,in,18,72,22,68,0,1
+tucumcari,us,35,-103,2,40,1,2
+kapustin yar,ru,48,45,-2,93,80,4
+jvari,ge,42,42,1,65,44,1
+brandon,us,43,-96,-6,91,90,3
+canon city,us,39,-117,-4,90,36,1
+bratsk,ru,56,101,-21,76,56,1
+zelenoborskiy,ru,66,32,-1,86,88,2
+middelburg,za,-25,29,15,88,80,3
+maryville,us,40,-94,-4,63,1,1
+buluang,ph,10,123,29,74,75,5
+gannan,cn,47,123,-28,28,0,1
+locri,it,38,16,16,63,40,8
+benjamin hill,mx,30,-111,17,47,0,2
+caceres,br,5,-74,19,97,36,0
+mocajuba,br,-2,-49,22,99,92,1
+winona,us,43,-79,-2,79,75,4
+saleilua,ws,,,,,,
+new haven,us,41,-72,-1,55,1,2
+veshkayma,ru,54,47,-7,90,88,4
+canberra,au,-35,149,21,64,75,1
+umm jarr,sd,,,,,,
+marv dasht,ir,,,,,,
+masingbi,sl,8,-11,20,64,0,1
+ilo,pe,-17,-71,17,94,0,1
+missoula,us,46,-114,-4,74,1,1
+mpongwe,zm,-13,28,17,100,92,3
+villamontes,bo,-21,-63,26,71,100,1
+malanville,bj,11,3,19,44,0,3
+puerto asis,co,0,-76,22,97,8,0
+paducah,us,37,-88,0,74,1,2
+cap malheureux,mu,-19,57,23,94,75,2
+akcakoca,tr,41,31,6,81,12,2
+tonekabon,ir,36,50,12,93,40,0
+pindi gheb,pk,33,72,11,99,92,2
+jodhpur,in,26,73,10,79,0,1
+zhicheng,cn,35,112,-7,80,76,0
+shizunai,jp,42,142,-6,100,0,6
+san javier,bo,37,0,11,87,0,2
+marovoay,mg,-16,46,27,88,20,2
+yuancheng,cn,,,,,,
+mzimba,mw,-11,33,18,96,64,1
+virden,ca,49,-100,-12,80,0,3
+poli,cm,8,13,15,78,0,1
+addi ugri,er,,,,,,
+tall kayf,iq,37,41,5,98,88,1
+urdoma,ru,61,48,-5,90,76,2
+escarcega,mx,18,-90,26,68,44,2
+ofunato,jp,39,141,3,47,40,2
+ruswil,ch,47,8,6,81,75,3
+canutama,br,-6,-64,26,81,24,2
+bjelovar,hr,45,16,5,93,0,4
+boundiali,ci,9,-6,18,57,0,1
+chlorakas,cy,,,,,,
+suntar,ru,62,117,-29,59,56,2
+flores,br,16,-89,27,65,36,2
+mtwango,tz,-9,34,17,97,92,1
+cape elizabeth,us,,,,,,
+decatur,us,35,-84,3,100,90,2
+mallama,co,,,,,,
+makarov,ru,48,142,-5,100,20,7
+nikolskoye,ru,59,30,-1,86,20,4
+trogir,hr,43,16,-1,82,36,0
+winkler,ca,49,-97,-7,67,1,4
+paradise valley,us,53,-110,-12,72,20,4
+bolshiye uki,ru,,,,,,
+palmer,us,-34,139,25,31,0,6
+elliot,za,-31,27,5,96,24,1
+latung,ph,-8,120,26,91,0,1
+severnoye,ru,54,52,-5,93,80,2
+wawa,ca,9,4,20,51,0,2
+kizilskoye,ru,52,58,-12,77,80,1
+miles city,us,46,-105,-3,84,1,5
+bolshaya irba,ru,,,,,,
+dubbo,au,-32,148,33,26,0,6
+yagodnoye,ru,62,149,-24,52,68,1
+laje,br,-13,-39,22,88,92,3
+miramar,mx,10,-84,20,64,20,6
+hailar,cn,49,119,-34,46,0,1
+sfantu gheorghe,ro,44,26,0,94,90,2
+endicott,us,42,-76,-7,61,1,2
+pawayan,in,28,80,9,87,0,1
+cabo san lucas,mx,22,-109,22,60,5,2
+nakamura,jp,35,136,8,42,75,7
+amga,ru,60,131,-31,37,32,1
+itoman,jp,26,127,20,83,75,5
+jamame,so,0,42,25,93,0,2
+obsharovka,ru,53,48,-7,95,80,3
+fairbanks,us,64,-147,-12,92,90,1
+cayenne,gf,4,-52,27,78,90,2
+safonovo,ru,55,33,0,97,88,3
+savonlinna,fi,61,28,0,93,90,3
+san ramon,bo,12,-85,20,90,44,0
+curuca,br,-2,-61,25,91,32,1
+anahuac,mx,29,-94,8,75,90,5
+ahipara,nz,-35,173,20,72,24,6
+rapid valley,us,44,-103,-2,65,1,2
+orange walk,bz,17,-76,27,65,20,5
+pont-a-mousson,fr,48,6,5,81,75,6
+craig,us,40,-107,-7,80,1,0
+malpe,in,13,74,25,88,20,3
+key west,us,47,-96,-10,85,1,3
+fort morgan,us,40,-103,-2,45,0,4
+kleck,by,,,,,,
+tungor,ru,53,142,-7,94,64,9
+iacu,br,-12,-40,24,77,32,4
+kigali,rw,-1,30,17,100,75,1
+dalnerechensk,ru,45,133,-20,69,0,2
+nakhon thai,th,17,100,25,69,75,2
+midrand,za,-26,28,15,82,88,0
+ishinomaki,jp,38,141,3,55,40,4
+sanmenxia,cn,34,111,-6,92,92,1
+la celia,co,5,-76,23,69,40,0
+copiapo,cl,-27,-70,16,77,0,3
+dmitriyev-lgovskiy,ru,,,,,,
+lydenburg,za,-25,30,15,100,92,0
+vaitupu,wf,,,,,,
+fram,py,46,15,0,80,8,1
+orlik,ru,52,99,-38,0,0,0
+jibuti,dj,,,,,,
+spencer,us,43,-95,-7,84,90,3
+dumai,id,1,101,25,95,76,1
+madinat sittah uktubar,eg,29,31,15,58,0,4
+umm bab,qa,25,50,18,60,1,1
+munster,de,52,10,5,86,75,7
+carman,ca,49,-98,-6,92,12,4
+aksu,cn,52,76,-20,76,0,5
+beinamar,td,8,15,16,64,0,2
+manadhoo,mv,5,73,28,100,0,1
+fez,ma,34,-5,8,75,0,3
+curup,id,-3,102,22,95,92,0
+bombay,nz,44,-74,-1,69,90,4
+kipushi,cd,-11,27,17,99,92,2
+novoilinsk,ru,,,,,,
+kabo,cf,7,18,21,53,0,1
+riihimaki,fi,60,24,3,93,75,4
+dong xoai,vn,11,106,23,96,44,1
+sarandi,br,-27,-52,19,69,32,1
+mankato,us,44,-94,-9,91,1,1
+anjad,in,22,75,15,75,0,2
+haines junction,ca,60,-137,0,73,80,2
+galle,lk,29,-97,7,76,1,3
+lamont,ca,53,-112,-6,67,1,2
+lodja,cd,-3,23,20,98,8,1
+makasar,id,-6,106,29,74,20,2
+houlton,us,46,-67,-9,83,75,2
+suao,tw,,,,,,
+kaka,tm,37,59,-1,100,0,1
+robe,et,7,40,8,82,56,0
+bikin,ru,46,134,-23,70,0,1
+pitsunda,ge,43,40,8,61,48,6
+muromtsevo,ru,56,75,-21,61,0,1
+shubarkuduk,kz,49,56,-7,69,88,1
+tolaga bay,nz,-38,178,21,73,0,3
+sann,pk,26,68,12,87,0,2
+bangkalan,id,-7,112,27,97,0,1
+villa maria,ar,4,-74,12,87,40,1
+mamallapuram,in,12,80,23,94,20,1
+grand-bourg,gp,15,-61,24,83,75,3
+poletayevo,ru,55,61,-19,84,8,1
+distraccion,co,10,-72,29,58,0,4
+aporawan,ph,,,,,,
+washington,us,38,-77,0,49,90,6
+mudyuga,ru,,,,,,
+ternate,id,14,120,30,58,20,1
+ozark,us,37,-93,0,65,1,2
+santa rosa del sur,co,7,-74,26,84,8,0
+adzope,ci,6,-3,23,93,24,1
+neyshabur,ir,36,58,-3,78,24,0
+elat,il,2,11,20,97,80,1
+yuli,tw,10,9,16,46,0,2
+mahanje,tz,,,,,,
+tias,es,28,-13,16,87,20,3
+satipo,pe,-11,-74,22,78,36,0
+tobolsk,ru,58,68,-16,71,36,1
+lander,us,42,-108,-4,19,1,4
+yarkovo,ru,54,82,-23,76,12,1
+gotsu,jp,35,132,7,70,40,2
+mora,cm,61,14,-3,92,92,1
+lukhovitsy,ru,54,39,0,95,88,5
+lazaro cardenas,mx,28,-105,9,57,5,2
+vadso,no,70,29,-4,100,32,2
+geraldton,au,49,-86,-8,85,90,1
+shakhtinsk,kz,49,72,-11,72,0,4
+svetlogorsk,ru,53,59,-11,72,75,1
+benque viejo,bz,,,,,,
+helena,us,46,-112,-2,65,1,2
+jaen,pe,-5,-78,16,96,92,0
+olovyannaya,ru,50,115,-33,44,24,1
+sungai kolok,th,,,,,,
+navrongo,gh,10,-1,19,46,0,1
+sendafa,et,9,39,12,87,20,1
+kodinar,in,20,70,12,87,0,1
+butte,us,46,-112,-11,72,1,2
+lagdo,cm,9,13,21,49,0,1
+srednekolymsk,ru,67,153,-33,44,64,1
+shar,kz,7,8,23,40,12,3
+nyamuswa,tz,-1,34,16,100,92,1
+berndorf,at,47,16,7,81,75,5
+kochi,in,9,76,24,88,75,1
+tabuk,sa,17,121,20,96,64,0
+arys,kz,42,68,6,100,90,1
+barhi,in,24,85,7,93,0,5
+sturgeon bay,us,44,-87,-4,83,1,4
+samandag,tr,,,,,,
+shchelyayur,ru,,,,,,
+yenagoa,ng,4,6,23,93,32,2
+charlestown,kn,41,-71,0,66,1,6
+mendi,et,9,35,19,54,44,3
+mallaig,gb,57,-5,5,100,12,4
+sisimiut,gl,66,-53,-26,100,0,1
+ishigaki,jp,24,124,23,94,75,10
+palimbang,ph,14,120,28,58,40,4
+juarez,mx,-38,-67,24,36,0,2
+la orilla,mx,18,-102,26,82,0,1
+strathmore,ca,51,-113,0,47,90,3
+gavle,se,60,17,0,100,88,1
+ardakan,ir,32,54,6,38,0,3
+susurluk,tr,39,28,4,100,40,0
+warkworth,nz,-36,174,20,77,20,8
+partizanskoye,ru,44,34,0,80,88,1
+fagersta,se,60,15,-2,100,24,4
+hangu,cn,33,71,11,81,75,2
+port hedland,au,-20,118,33,63,8,6
+berja,es,36,-2,11,93,0,1
+mozarlandia,br,-14,-50,24,73,12,4
+crossville,us,35,-85,1,92,90,3
+vyazma,ru,55,34,0,98,92,3
+nyuksenitsa,ru,60,44,-6,88,68,4
+srirampur,in,23,90,17,88,0,1
+almeirim,br,39,-8,11,87,0,3
+rio blanco,ni,-16,-67,14,97,48,0
+kopyevo,ru,,,,,,
+eenhana,na,-17,16,20,24,0,1
+svetlyy,ru,,,,,,
+garhi khairo,pk,28,67,13,97,0,1
+monrovia,lr,6,-10,25,94,40,3
+gandajika,cd,-6,23,19,100,56,1
+yelandur,in,12,77,14,89,0,1
+kota kinabalu,my,5,116,31,74,75,0
+teno,cl,-34,-71,22,49,0,2
+narva-joesuu,ee,59,28,1,100,92,3
+haverhill,us,52,0,5,100,90,4
+harnosand,se,62,17,0,100,92,2
+tateyama,jp,36,137,5,91,20,1
+kavali,in,14,79,18,90,0,0
+cabinda,ao,-5,12,25,100,92,1
+humaita,py,-24,-65,21,83,0,1
+el tarra,co,8,-73,19,79,0,0
+witu,ke,-2,40,22,97,40,1
+spornoye,ru,50,37,2,100,90,5
+manali,in,32,77,-19,95,64,0
+sunrise manor,us,36,-115,13,38,1,1
+kobojango,bw,,,,,,
+bealanana,mg,-14,48,15,89,44,0
+general pico,ar,-35,-63,24,53,0,0
+kurdzhinovo,ru,43,40,-8,76,36,0
+dibaya,cd,,,,,,
+taganak,ph,6,118,26,94,90,2
+puerto cabello,ve,10,-68,22,79,0,1
+rheden,nl,52,6,5,80,90,4
+rtishchevo,ru,52,43,-4,93,92,5
+marmaris,tr,36,28,11,87,75,4
+sindor,ru,62,51,-6,87,88,2
+sakhon nakhon,th,,,,,,
+lethbridge,ca,49,-112,3,59,90,8
+heihe,cn,50,127,-20,70,0,1
+lourdes,fr,13,-89,25,88,0,1
+butterworth,za,5,100,26,94,75,1
+sayat,tm,38,63,4,93,90,2
+datong,cn,40,113,-16,75,76,1
+ibicui,br,-14,-39,20,99,92,3
+rolim de moura,br,,,,,,
+qinzhou,cn,21,108,6,100,100,4
+karonga,mw,-9,33,22,100,64,2
+tabasco,mx,21,-102,17,39,40,2
+nykoping,se,58,17,0,92,20,4
+venado,mx,22,-101,14,64,24,1
+owosso,us,43,-84,-3,87,1,3
+viseu,br,40,-7,8,93,0,0
+komsomolskiy,ru,67,63,-8,90,88,6
+azrow,af,,,,,,
+sychevka,ru,55,34,-1,96,92,2
+monster,nl,52,4,7,81,75,9
+zhongshu,cn,24,103,8,100,92,1
+laizhou,cn,37,119,-8,100,0,0
+pontal,br,-21,-48,23,56,0,2
+greymouth,nz,-42,171,17,93,36,1
+port-de-bouc,fr,43,4,8,93,0,6
+louis trichardt,za,-23,29,20,84,76,1
+mujiayingzi,cn,42,118,-19,58,32,2
+primore,ru,,,,,,
+choix,mx,26,-108,19,51,0,0
+toyooka,jp,35,134,3,100,75,1
+shobara,jp,34,133,5,60,75,3
+taguatinga,br,-15,-48,19,88,75,4
+dong hoi,vn,17,106,21,100,100,7
+fianarantsoa,mg,-21,47,16,85,20,0
+jiuquan,cn,39,98,-28,44,44,0
+kalaiya,np,27,85,8,83,0,1
+bhairab bazar,bd,24,90,15,93,0,1
+kota tinggi,my,1,103,28,88,75,1
+mingaora,pk,34,72,3,100,92,0
+krymsk,ru,44,37,4,100,44,2
+punta umbria,es,37,-6,11,81,20,3
+dayong,cn,11,122,26,100,48,7
+ladario,br,40,-7,1,79,0,1
+sault sainte marie,ca,46,-84,-1,86,90,4
+craigieburn,au,-37,144,20,52,40,5
+weligama,lk,5,80,24,100,92,0
+karasjok,no,69,25,-7,92,75,5
+do gonbadan,ir,30,50,-2,77,0,0
+bokajan,in,26,93,9,89,0,0
+kropachevo,ru,55,57,-8,81,88,1
+faridan,ir,,,,,,
+ijaki,ki,,,,,,
+nokaneng,bw,-19,22,22,25,44,3
+vermillion,us,42,-96,-8,83,1,2
+peachland,ca,49,-119,0,73,90,1
+halberstadt,de,51,11,3,98,92,6
+hungund,in,16,76,23,68,88,3
+laem sing,th,12,102,26,88,75,1
+murray bridge,au,-35,139,19,83,0,5
+hurricane,us,37,-113,0,92,1,1
+pontes e lacerda,br,-15,-59,26,83,8,1
+catabola,ao,-12,17,16,95,56,1
+tonj,sd,,,,,,
+yabrud,sy,33,36,4,93,0,2
+canala,nc,-21,165,27,54,75,6
+bumba,cd,2,22,20,100,92,2
+qena,eg,26,32,12,71,0,1
+cockburn town,tc,21,-71,27,98,0,10
+ghanzi,bw,-21,21,20,21,0,5
+baneh,ir,35,45,4,98,92,0
+egersund,no,58,6,3,86,75,7
+coihueco,cl,-36,-71,18,63,12,5
+capoterra,it,39,8,14,58,0,12
+fushun,cn,41,123,-12,60,36,4
+bayji,iq,34,43,8,97,76,1
+puerto leguizamo,co,0,-74,24,89,32,1
+kokstad,za,-30,29,10,99,92,1
+kalat,pk,29,66,-1,89,24,1
+fuxin,cn,42,121,-17,53,64,1
+corner brook,ca,48,-57,-3,73,90,6
+haridwar,in,29,78,7,93,20,2
+bowmore,gb,34,-79,2,100,90,4
+sinegorye,ru,62,150,-24,72,32,1
+carpentras,fr,44,5,8,70,0,1
+saldanha,za,41,-6,0,79,0,1
+codo,br,-8,112,26,100,48,1
+kizema,ru,61,44,-6,87,80,3
+sorvag,fo,,,,,,
+loreto,mx,-23,-57,28,52,20,3
+sofiyivka,ua,48,33,1,100,90,1
+nabire,id,-3,135,24,90,8,1
+eston,ca,51,-108,-13,84,75,10
+katsiveli,ua,,,,,,
+ancona,it,41,-88,-4,92,1,2
+dunayivtsi,ua,,,,,,
+matagami,ca,9,8,17,48,0,2
+bobo dioulasso,bf,,,,,,
+puerto quijarro,bo,-19,-57,27,70,0,0
+immokalee,us,26,-81,20,93,90,2
+dakoro,ne,14,6,16,34,0,5
+lam luk ka,th,13,100,26,78,0,1
+kui buri,th,12,99,25,83,20,3
+choucheng,cn,,,,,,
+kawambwa,zm,-9,29,19,100,92,2
+sao marcos,br,-28,-51,16,83,56,0
+flinders,au,-34,150,22,88,76,3
+nerang,au,-27,153,27,61,40,4
+sarangani,ph,5,125,28,96,0,5
+shetpe,kz,44,52,-6,84,0,1
+palora,ec,-1,-77,16,100,80,0
+messina,za,38,15,16,63,40,8
+caorle,it,45,12,3,100,8,1
+marawi,sd,8,124,23,81,8,1
+kilindoni,tz,-7,39,28,100,64,3
+girona,es,41,2,5,100,20,2
+emirdag,tr,39,31,4,87,88,3
+chunoyar,ru,57,97,-23,69,92,1
+zhob,pk,31,69,-2,77,20,1
+pringsewu,id,-5,104,24,93,36,1
+zubtsov,ru,56,34,-1,96,92,2
+garoua,cm,9,13,21,49,0,2
+sinjah,sd,,,,,,
+rorvik,no,64,11,0,100,48,1
+pilao arcado,br,,,,,,
+ayutla,mx,20,-104,20,59,92,1
+rahon,in,47,6,5,86,75,1
+jadu,ly,31,12,3,79,0,2
+tobol,kz,59,12,0,84,76,5
+williams lake,ca,52,-122,1,69,75,8
+canchungo,gw,12,-16,21,83,0,3
+danshui,cn,22,114,12,76,90,8
+la rosa,hn,-34,-71,16,89,0,5
+attawapiskat,ca,,,,,,
+lucapa,ao,-8,20,18,99,76,1
+whitehorse,ca,60,-135,2,69,90,8
+chau doc,vn,10,105,23,100,92,2
+torrington,us,42,-104,-1,63,1,4
+bouna,ci,9,-3,20,56,0,0
+yellowknife,ca,62,-114,-7,92,75,6
+maloshuyka,ru,,,,,,
+plunge,lt,55,21,6,93,92,2
+palafrugell,es,41,3,5,100,20,2
+tchaourou,bj,8,2,20,61,0,1
+goiatuba,br,-18,-49,23,68,0,5
+denizli,tr,37,29,6,100,75,1
+kraskino,ru,42,130,-9,100,0,4
+perelyub,ru,51,50,-5,92,76,2
+adria,it,45,12,2,100,0,1
+tonneins,fr,44,0,7,93,90,3
+mingshui,cn,22,109,6,100,100,2
+erenhot,cn,43,111,-27,47,0,1
+harrisonburg,us,38,-78,-2,95,90,1
+conde,br,-11,-37,25,92,92,3
+lamtah,tn,35,10,14,67,0,3
+effingham,us,39,-88,-2,84,1,2
+nagato,jp,34,131,7,61,40,3
+rakaia,nz,-43,172,16,63,44,3
+kingman,us,35,-114,14,36,75,6
+paracuru,br,-3,-39,28,78,75,3
+shaoyang,cn,27,111,0,99,92,1
+mwense,zm,-10,28,18,97,88,1
+rutana,bi,-3,29,15,100,76,1
+yerky,ua,49,33,0,98,88,1
+ingham,au,-18,146,23,100,92,5
+gamba,ga,28,88,-22,55,32,0
+funtua,ng,11,7,18,43,0,3
+kushiro,jp,43,144,-5,41,20,4
+anna paulowna,nl,52,4,6,75,40,6
+umba,ru,66,34,-1,94,88,4
+caravelas,br,-17,-39,23,100,92,8
+ubinskoye,ru,55,79,-23,51,20,1
+dordrecht,za,51,4,5,81,75,9
+tingrela,ci,,,,,,
+kavaratti,in,10,72,29,98,0,4
+la gomera,gt,14,-91,28,78,20,3
+ilulissat,gl,69,-51,-12,55,0,6
+altamont,us,49,-98,-6,92,0,4
+mundgod,in,14,75,21,80,0,1
+niksic,me,42,18,9,70,20,4
+fort abbas,pk,29,72,14,93,92,2
+port alberni,ca,49,-124,7,93,90,4
+heishan,cn,41,122,-15,56,44,2
+rzeszow,pl,50,22,3,93,75,5
+boo,se,7,8,23,40,12,3
+shestakovo,ru,56,103,-28,56,44,1
+merauke,id,-8,140,29,84,12,5
+poltavka,ru,54,71,-16,70,36,2
+ngaoundere,cm,7,13,15,60,0,2
+ambilobe,mg,-13,49,20,95,24,1
+uruacu,br,-14,-49,20,94,24,3
+fort pierce,us,27,-80,21,90,75,4
+okato,nz,-39,173,19,100,0,0
+kambove,cd,-10,26,18,90,80,1
+vikhorevka,ru,56,101,-21,76,56,1
+ahuimanu,us,21,-157,25,73,75,5
+north augusta,us,44,-75,-1,74,90,5
+pinsk,by,52,26,4,97,92,5
+kokoda,pg,-8,147,23,75,12,0
+prudentopolis,br,-25,-50,17,71,68,1
+alexander city,us,32,-85,4,100,90,2
+grand gaube,mu,-20,57,23,94,75,2
+serebryanyy bor,ru,56,124,-28,74,56,1
+puerto gaitan,co,,,,,,
+deh rawud,af,,,,,,
+korla,cn,,,,,,
+tuscaloosa,us,33,-87,3,89,90,5
+liku,wf,0,119,27,94,32,1
+sao joao da ponte,br,-15,-44,18,98,92,4
+kawana waters,au,,,,,,
+faro,pt,37,-7,10,87,0,2
+urulga,ru,,,,,,
+siddipet,in,18,78,20,97,24,3
+ratisbon,de,,,,,,
+york,gb,53,-1,3,86,0,4
+ibate,br,-21,-48,21,64,0,1
+kushima,jp,31,131,8,53,75,4
+artyom,az,43,132,-12,51,0,1
+alamos,mx,-36,-62,19,48,32,1
+tawang,in,27,91,-4,58,0,0
+canico,pt,32,-16,17,77,40,2
+ranghulu,cn,46,124,-28,28,0,1
+padampur,in,29,73,13,94,100,4
+jabinyanah,tn,35,10,14,50,0,3
+rockport,us,28,-97,10,74,1,3
+bad hofgastein,at,47,13,6,75,75,6
+port pirie,au,-33,138,23,56,8,9
+ouro preto do oeste,br,-10,-62,25,90,24,0
+sofiysk,ru,,,,,,
+tabou,ci,4,-7,27,100,12,3
+sao borja,br,-28,-56,24,51,44,2
+numan,ng,9,12,23,45,0,4
+ridgecrest,us,35,-117,11,58,75,1
+rakiv lis,ua,51,24,4,97,92,5
+kamyshla,ru,54,52,-5,91,76,2
+rusape,zw,-18,32,16,97,68,1
+novobiryusinskiy,ru,56,97,-22,62,92,1
+bogalusa,us,30,-89,4,83,90,3
+clifton,us,-27,151,27,42,0,2
+coyuca,mx,,,,,,
+imeni poliny osipenko,ru,52,136,-28,58,24,1
+tuban,id,-6,112,25,96,12,1
+bindura,zw,-17,31,18,95,92,1
+otautau,nz,-46,168,14,98,12,2
+tamiahua,mx,21,-97,18,100,92,7
+monkey bay,mw,-14,34,25,100,80,4
+frontera,mx,18,-92,23,94,90,8
+ballitoville,za,-29,31,17,88,90,7
+ascension,bo,,,,,,
+antsohihy,mg,-14,47,23,98,24,1
+panalingaan,ph,8,117,27,88,0,3
+dubrovnik,hr,42,18,9,70,20,4
+moindou,nc,-21,165,27,54,75,6
+callaway,us,46,-95,-9,92,1,1
+olonets,ru,60,32,-2,85,92,2
+manavalakurichi,in,8,77,26,83,40,2
+viligili,mv,,,,,,
+can tho,vn,10,105,27,88,40,4
+sokoni,tz,-12,28,18,94,88,2
+plaridel,ph,13,122,25,100,24,5
+lambarene,ga,0,10,23,100,88,0
+bafoulabe,ml,13,-10,18,45,0,2
+butaritari,ki,3,172,29,100,76,3
+soto la marina,mx,23,-98,15,53,0,2
+sale,au,53,-2,5,93,75,1
+aranda de duero,es,41,-3,-1,79,0,1
+peru,us,41,-89,-4,84,1,2
+hithadhoo,mv,0,73,28,100,68,5
+mahudha,in,22,72,13,71,0,1
+madras,in,44,-121,2,92,90,1
+triel-sur-seine,fr,48,2,7,87,40,5
+pochutla,mx,15,-96,26,83,40,5
+titesti,ro,45,25,-6,78,36,0
+pemba,mz,-12,40,29,95,64,6
+yarada,in,17,83,20,88,20,2
+shambu,et,9,37,13,90,68,1
+isangel,vu,-19,169,28,65,40,3
+bulgan,mn,48,103,-30,28,0,1
+marin,mx,47,22,4,93,88,1
+sebina,bw,-20,27,18,97,80,4
+yashan,cn,30,118,0,100,92,1
+hwange,zw,-18,26,20,91,12,2
+akureyri,is,65,-18,-23,49,0,0
+phuket,th,7,98,26,74,20,0
+bajil,ye,38,-2,1,79,0,1
+dien bien,vn,,,,,,
+dejen,et,10,38,12,72,68,0
+diofior,sn,14,-16,22,56,0,5
+caraballeda,ve,10,-66,26,78,20,6
+caxambu,br,-21,-44,18,68,12,2
+rupert,us,42,-113,0,74,1,4
+lardos,gr,36,28,15,82,40,5
+carberry,ca,49,-99,-16,77,20,2
+bargal,so,,,,,,
+ayna,pe,38,-2,3,93,0,0
+kachikau,bw,,,,,,
+nuuk,gl,64,-51,-9,72,48,7
+pokhara,np,28,83,1,71,0,1
+avera,pf,33,-82,2,93,90,4
+portmore,jm,17,-76,27,65,20,5
+jupiter,us,26,-80,21,93,75,6
+chingola,zm,-12,27,18,99,92,2
+ionia,us,42,-85,-3,83,1,3
+natalio,py,-26,-55,22,70,8,1
+pechenga,ru,58,41,-5,90,80,6
+jacareacanga,br,-6,-57,24,94,0,0
+swinford,ie,53,-8,5,99,8,3
+ixtapa,mx,20,-105,25,78,40,2
+bayog,ph,7,123,25,100,0,1
+santa vitoria do palmar,br,-33,-53,22,49,8,4
+ranot,th,7,100,25,95,92,2
+lefka,cy,39,22,6,70,75,1
+anadyr,ru,64,177,-28,75,0,6
+helong,cn,25,116,2,99,92,1
+ybycui,py,-26,-57,24,57,0,2
+taywarah,af,33,64,-10,69,8,1
+syasstroy,ru,60,32,-1,88,92,3
+ragama,lk,7,79,23,88,40,2
+emborion,gr,40,21,-2,86,44,1
+raahe,fi,64,24,0,99,80,5
+deep river,ca,46,-77,-2,92,90,3
+nantucket,us,41,-70,0,66,1,4
+yei,sd,,,,,,
+nouadhibou,mr,20,-17,19,63,0,2
+lowestoft,gb,52,1,4,93,0,3
+baiyin,cn,36,104,-9,78,75,2
+luganville,vu,-15,167,27,99,36,6
+bolshoye sorokino,ru,,,,,,
+purna,in,19,77,20,77,20,2
+bantry,ie,,,,,,
+lundazi,zm,-12,33,19,96,88,1
+keffi,ng,8,7,20,53,0,2
+caucasia,co,7,-75,29,67,20,0
+aktas,kz,,,,,,
+masjed-e soleyman,ir,,,,,,
+ribeira brava,cv,32,-17,17,77,40,2
+palatka,ru,29,-81,17,77,1,3
+murray,us,40,-111,0,94,90,1
+havoysund,no,71,24,-1,92,75,2
+banmo,mm,,,,,,
+atkarsk,ru,51,45,-7,90,92,4
+changde,cn,29,111,0,99,92,2
+allonnes,fr,47,0,7,93,20,3
+rabo de peixe,pt,37,-25,18,88,40,5
+nanhai,cn,30,111,0,91,92,3
+caraquet,ca,47,-64,-13,84,90,5
+wanaka,nz,-44,169,15,67,32,1
+gillette,us,44,-105,-2,62,1,4
+tobane,bw,-21,28,19,98,92,2
+yangjiang,cn,21,111,14,100,88,9
+riohacha,co,11,-72,29,58,0,4
+shepetivka,ua,50,27,0,95,68,4
+azimur,ma,,,,,,
+la tuque,ca,47,-72,-10,79,88,1
+hebi,cn,35,114,-10,72,68,1
+astipalaia,gr,,,,,,
+tostamaa,ee,,,,,,
+suba,ph,28,103,0,99,88,0
+mendahara,id,,,,,,
+xinmin,cn,42,122,-12,60,48,4
+marienburg,sr,52,9,5,80,40,8
+alashtar,ir,,,,,,
+otjimbingwe,na,-22,16,13,75,0,1
+singarayakonda,in,15,80,18,90,0,0
+borovskoy,kz,53,64,-28,27,0,1
+villaviciosa,es,43,-5,9,93,20,0
+diamantino,br,-14,-56,25,86,8,2
+yubari,jp,,,,,,
+cangzhou,cn,38,116,-14,57,8,1
+platonovka,ru,,,,,,
+chingirlau,kz,51,54,-4,92,80,1
+mount isa,au,-20,139,36,26,0,5
+phetchaburi,th,13,99,25,83,20,3
+ivankiv,ua,50,29,0,98,76,5
+la romana,do,18,-68,23,100,20,2
+sovetskaya,ru,44,41,-2,96,44,3
+japura,br,0,102,23,98,36,1
+sturgeon falls,ca,46,-79,-4,100,90,7
+ebolowa,cm,2,11,20,97,80,1
+kadambur,in,9,77,25,88,40,2
+kaoma,zm,-14,24,17,97,76,3
+kindu,cd,-2,25,21,97,88,0
+andros,gr,37,24,13,71,0,4
+obluche,ru,,,,,,
+kem,ru,2,33,16,100,44,1
+la pila,mx,-1,-80,24,83,75,4
+fenoarivo,mg,-18,47,16,93,20,2
+simplicio mendes,br,-7,-41,22,94,12,2
+podosinovets,ru,60,47,-5,91,92,2
+macusani,pe,-14,-70,12,100,24,0
+bondowoso,id,-7,113,25,93,8,1
+hirara,jp,24,125,22,94,75,9
+dire,ml,9,38,12,87,20,1
+dalmatovo,ru,56,62,-22,65,0,1
+rosetown,ca,51,-107,-17,58,0,1
+san angelo,us,31,-100,5,59,1,2
+karauzyak,uz,,,,,,
+vendome,fr,45,-112,-8,72,1,2
+fraserburgh,gb,57,-2,3,97,48,6
+bezhta,ru,42,46,-9,73,0,0
+petropavlovka,ru,50,105,-30,33,0,0
+vrangel,ru,42,133,-8,100,0,8
+novosil,ru,52,37,1,99,92,5
+vygonichi,ru,53,34,0,98,80,3
+sao joao da barra,br,-21,-41,24,100,24,6
+colan,pe,7,-80,28,68,0,5
+ayagoz,kz,47,80,-23,51,0,1
+ust-karsk,ru,52,118,-37,0,20,1
+niquero,cu,20,-77,26,97,0,4
+turukhansk,ru,65,87,-15,70,88,3
+nandu,cn,31,119,4,100,90,2
+borama,so,,,,,,
+mala,pe,-12,-76,18,99,36,1
+birnin kebbi,ng,12,4,19,37,0,4
+kon tum,vn,14,108,20,88,12,1
+gaoua,bf,10,-3,18,47,0,1
+bezhanitsy,ru,56,29,0,96,80,5
+koygorodok,ru,60,51,-6,91,80,1
+esna,eg,45,27,-1,99,64,1
+koulikoro,ml,12,-7,17,51,0,1
+petropavlovskoye,ru,46,142,-5,79,75,4
+grande-riviere,ca,,,,,,
+suwalki,pl,54,22,4,97,88,6
+lovozero,ru,68,35,-7,75,88,1
+bay roberts,ca,47,-53,-5,85,75,11
+marsh harbour,bs,26,-77,25,100,48,9
+ortona,it,42,14,5,93,0,1
+zhengjiatun,cn,43,123,-23,54,0,1
+nueva imperial,cl,-38,-72,14,87,0,2
+el real de santa maria,pa,8,-77,27,85,8,3
+greenville,us,34,-82,1,92,90,4
+baijiantan,cn,45,85,-31,37,20,1
+subaytilah,tn,,,,,,
+santa barbara,bo,34,-119,15,53,1,3
+springfield,us,37,-93,-1,65,1,2
+liwale,tz,-9,37,23,89,88,2
+jiangyou,cn,31,104,0,90,92,1
+maebaru,jp,33,130,7,56,75,1
+naliya,in,23,68,15,89,0,1
+troy,us,42,-73,-3,68,1,1
+limbe,cm,-15,35,22,90,20,1
+kwekwe,zw,-18,29,18,99,92,1
+letlhakane,bw,-21,25,19,93,8,6
+guilin,cn,25,110,3,93,90,3
+chardara,kz,,,,,,
+gashua,ng,12,11,18,37,0,4
+tramandai,br,-29,-50,22,67,64,5
+dongsheng,cn,29,112,0,94,92,3
+dunda,tz,30,78,7,93,44,2
+altamira,br,-3,-52,24,94,44,1
+pennagaram,in,12,77,15,94,0,1
+dargaville,nz,-35,173,20,71,12,7
+kayes,ml,14,-11,17,42,0,2
+olutanga,ph,7,122,28,100,0,2
+shawnee,us,35,-96,2,58,1,1
+cherepanovo,ru,54,83,-24,39,0,1
+elliot lake,ca,46,-82,-1,92,90,4
+bolshaya chernigovka,ru,,,,,,
+lushunkou,cn,,,,,,
+bakchar,ru,57,82,-22,49,48,1
+vila franca do campo,pt,37,-25,18,88,40,5
+maghama,mr,,,,,,
+umea,se,63,20,3,100,90,6
+dekar,bw,-21,21,23,20,68,5
+vila praia de ancora,pt,41,-8,10,100,8,2
+changchun,cn,43,125,-20,70,0,1
+warren,us,42,-83,-3,69,1,2
+tyubuk,ru,56,60,-15,52,36,1
+leirvik,fo,59,5,3,80,76,10
+zarate,ar,-13,-76,20,82,40,3
+skalistyy,ru,,,,,,
+huallanca,pe,-9,-76,8,52,0,2
+kruisfontein,za,-34,24,15,91,0,3
+ventspils,lv,57,21,3,100,90,2
+cukai,my,4,103,26,94,75,1
+lebedinyy,ru,58,125,-26,69,68,1
+mount gambier,au,-37,140,21,49,0,7
+russas,br,-4,-37,25,83,36,3
+montes altos,br,-5,-47,23,94,44,2
+rockland,us,42,-70,-1,60,32,5
+launceston,au,-41,147,21,46,75,2
+wenling,cn,28,121,8,100,92,3
+tolbazy,ru,54,55,-5,79,90,3
+malacacheta,br,-17,-42,16,100,92,3
+rantepao,id,-2,119,22,95,12,1
+bayan,kw,47,107,-30,29,32,2
+joensuu,fi,62,29,-2,100,90,5
+juybar,ir,36,52,12,93,0,0
+chinchani,in,16,74,17,93,20,1
+la poza,mx,29,-110,22,35,40,1
+coroico,bo,-16,-67,12,9,75,4
+koungou,yt,,,,,,
+mbandaka,cd,0,18,22,100,12,1
+limulunga,zm,-15,23,18,98,56,2
+sao miguel do araguaia,br,-13,-50,24,84,24,3
+cocobeach,ga,1,9,28,83,20,2
+cazaje,ao,,,,,,
+wenatchee,us,47,-120,0,92,90,0
+da lat,vn,11,108,18,94,76,1
+beberibe,br,-4,-38,28,78,75,3
+nyaunglebin,mm,17,96,20,95,12,1
+msanga,tz,-6,36,20,94,75,3
+kabare,cd,-1,29,15,100,92,1
+bolshiye klyuchishchi,ru,,,,,,
+porto novo,cv,-23,-45,17,88,0,3
+nogliki,ru,51,143,-8,100,68,10
+las varas,mx,21,-105,25,78,40,2
+mysliborz,pl,52,14,5,97,92,9
+tutoia,br,-2,-42,26,86,44,3
+fresnillo,mx,23,-102,15,47,20,2
+grand forks,us,47,-97,-10,87,1,3
+zhmerynka,ua,49,28,-1,100,90,3
+omsukchan,ru,62,155,-37,0,0,1
+aliaga,tr,15,120,28,58,40,4
+horqueta,py,-23,-57,27,54,12,2
+along,in,28,94,7,53,0,0
+catuday,ph,16,119,26,100,0,3
+rantauprapat,id,2,99,22,94,24,0
+oistins,bb,13,-59,26,69,20,9
+almaznyy,ru,48,40,1,96,40,6
+regen,de,48,13,2,99,92,4
+acapulco,mx,16,-99,27,83,75,1
+ankang,cn,32,108,-5,84,88,1
+hammerfest,no,70,23,-1,92,75,2
+kyzyl-mazhalyk,ru,51,90,-33,39,24,1
+ojhar,in,20,73,7,82,0,0
+koson,uz,39,65,7,100,90,1
+milkovo,ru,41,24,0,75,44,0
+sai buri,th,6,101,24,100,75,1
+lobito,ao,-12,13,17,97,44,0
+waw,sd,,,,,,
+weston,us,41,-73,0,62,1,2
+seredka,ru,58,38,-4,93,88,6
+easton,us,42,-71,-1,60,32,5
+ifakara,tz,-8,36,21,99,92,1
+folldal,no,62,10,-3,87,88,5
+mae sai,th,20,99,21,100,75,0
+barahona,do,18,-71,27,99,48,7
+troitskiy,ru,45,38,4,100,36,2
+neokhorion,gr,41,23,-6,73,44,0
+suceveni,ro,46,27,0,73,90,4
+arroyos y esteros,py,-25,-57,27,57,0,1
+tura,ru,25,90,11,84,0,1
+port elizabeth,za,39,-74,0,60,1,2
+provideniya,ru,64,-173,-12,60,20,9
+sinkat,sd,,,,,,
+sivas,tr,39,37,2,90,75,7
+benito juarez,mx,28,-111,24,29,0,2
+grenville,gd,45,-74,-1,68,20,6
+arona,es,45,8,-2,80,0,3
+topolobampo,mx,25,-109,21,64,5,5
+yar-sale,ru,66,70,-9,90,88,6
+mocuba,mz,-16,36,23,89,80,1
+wajir,ke,1,40,22,95,44,1
+ngama,td,,,,,,
+junin,ar,-16,-71,8,47,8,1
+ugoofaaru,mv,5,73,28,100,0,1
+gwadar,pk,25,62,19,96,0,4
+akhmeta,ge,42,45,6,93,90,0
+florianopolis,br,-27,-48,23,69,40,4
+mbaiki,cf,3,17,21,95,8,0
+kingisepp,ru,59,28,1,91,88,3
+itarantim,br,-15,-40,20,97,92,5
+karangampel,id,-6,108,26,100,36,1
+ust-kalmanka,ru,52,83,-26,47,8,0
+yabelo,et,4,38,18,89,56,1
+haapu,pf,,,,,,
+mlowo,tz,-9,33,17,99,88,1
+verkhnyaya khava,ru,51,39,1,100,90,5
+maun,bw,-19,23,21,77,0,4
+lagos,ng,6,3,26,87,12,3
+sal rei,cv,16,-22,22,83,20,4
+grafton,au,-29,152,29,45,12,4
+shilka,ru,51,116,-34,48,32,1
+libourne,fr,44,0,7,93,40,3
+san lazaro,py,18,-88,25,94,20,1
+kluczbork,pl,50,18,5,96,92,7
+mulchen,cl,-37,-72,14,77,24,1
+whitecourt,ca,54,-115,-6,79,75,1
+brokopondo,sr,5,-54,24,100,0,1
+matay,eg,28,30,5,82,0,1
+mariental,na,52,10,5,97,92,9
+pokrovsk,ru,48,37,3,96,100,5
+pulaski,us,35,-87,2,100,90,4
+umarkot,in,25,69,15,87,0,1
+sungairaya,id,0,108,25,91,44,1
+dumas,us,21,72,16,87,0,3
+aklavik,ca,68,-135,-17,77,90,1
+trelew,ar,-43,-65,25,27,0,3
+bandipur,in,11,76,15,91,0,0
+veseloyarsk,ru,51,81,-29,29,0,1
+yingkou,cn,40,122,-14,100,48,1
+blytheville,us,35,-89,0,84,1,4
+auchi,ng,7,6,23,87,20,1
+morros,br,-2,-44,26,88,20,2
+beyneu,kz,45,55,-9,81,44,1
+mithi,pk,24,69,13,83,0,1
+alamor,ec,-4,-80,28,73,90,0
+dryden,ca,49,-92,-9,92,90,3
+nurota,uz,40,65,3,93,80,2
+white rock,ca,49,-122,7,76,90,1
+akdepe,tm,42,59,-6,79,0,2
+senno,by,57,27,1,86,68,3
+ulu-telyak,ru,54,56,-7,90,88,1
+santiago,br,-33,-70,22,35,0,6
+kodar,in,16,79,20,94,0,1
+zvishavane,zw,-20,30,19,99,92,1
+thoen,th,17,99,19,99,64,1
+verkh-usugli,ru,52,115,-37,0,12,1
+santarem,br,,,,,,
+dzilam gonzalez,mx,21,-88,23,87,100,3
+phek,in,25,94,7,83,0,1
+hays,us,38,-99,-1,78,1,4
+saint-pierre,re,48,4,6,93,75,5
+papillion,us,41,-96,-5,99,1,2
+urbana,us,40,-88,-4,87,1,2
+fryazino,ru,55,38,0,100,90,3
+tripoli,ly,37,22,9,95,88,2
+belaya kholunitsa,ru,58,50,-4,91,92,2
+netrakona,bd,24,90,11,85,0,0
+barrow,us,-38,-60,22,30,8,4
+uyskoye,ru,54,60,-15,51,48,1
+jaque,pa,,,,,,
+loveland,us,40,-105,0,43,1,2
+kaitong,cn,44,123,-23,52,8,1
+tosya,tr,41,34,0,95,92,2
+ambunti,pg,-4,142,24,100,92,1
+bredasdorp,za,-34,20,14,93,0,1
+ayame,ci,5,-3,25,95,24,2
+batken,kg,40,70,0,73,68,1
+jutai,br,-1,-47,23,97,76,1
+guaraniacu,br,-25,-52,19,65,20,1
+iroquois falls,ca,48,-80,-10,85,90,1
+gerardmer,fr,48,6,5,65,75,4
+francisco beltrao,br,-26,-53,19,64,36,1
+casian,ph,44,28,1,100,75,2
+paz de ariporo,co,,,,,,
+svencioneliai,lt,55,26,2,95,92,6
+bokhan,ru,53,103,-34,45,8,1
+panuco,mx,22,-102,15,47,20,1
+senj,hr,45,13,5,93,0,4
+bordighera,it,43,7,16,21,5,6
+uspenka,ru,48,39,1,93,88,5
+wisconsin rapids,us,44,-89,-8,73,1,2
+bhinmal,in,25,72,11,71,0,0
+loanda,br,-22,-53,23,58,0,3
+machala,ec,-3,-79,28,73,90,0
+mokrousovo,ru,55,66,-26,48,0,1
+muborak,uz,39,65,5,100,88,1
+lawrenceville,us,38,-87,-1,60,1,4
+asosa,et,10,34,20,45,20,2
+terrasini,it,38,13,16,72,40,12
+tsiroanomandidy,mg,-18,46,14,88,8,1
+oktyabrskoye,ru,56,85,-24,76,24,1
+doembang nangbuat,th,14,100,23,75,44,3
+jesus del monte,mx,19,-99,13,66,75,2
+butia,br,-21,-47,21,64,0,1
+kaeo,nz,-35,173,24,45,24,6
+nadvoitsy,ru,63,34,-3,84,92,3
+baghmara,in,23,86,6,78,0,1
+plerin,fr,48,-2,9,87,90,4
+barmer,in,25,71,8,81,0,1
+talnakh,ru,69,88,-18,77,76,3
+sembakung,id,3,117,26,93,20,1
+khoy,ir,38,44,-5,92,36,1
+el faiyum,eg,,,,,,
+novyye burasy,ru,52,46,-4,92,90,6
+kizukuri,jp,40,140,-2,92,75,6
+north battleford,ca,52,-108,-17,77,1,1
+pitiquito,mx,30,-112,19,43,0,1
+dinar,tr,38,30,5,100,75,1
+state college,us,40,-77,-4,68,40,0
+baruun-urt,mn,46,113,-31,34,24,2
+saint-raymond,ca,46,-71,-8,92,80,1
+novolvovsk,ru,,,,,,
+seddon,nz,-41,174,17,77,0,5
+el balyana,eg,,,,,,
+nuevitas,cu,21,-77,24,88,20,2
+vikindu,tz,-6,39,26,94,20,1
+novyy svit,ua,47,38,1,96,76,4
+singaparna,id,-7,108,21,98,68,0
+umm durman,sd,,,,,,
+fevik,no,58,8,3,69,0,4
+forestville,ca,48,-69,-11,78,90,2
+punto fijo,ve,11,-70,27,60,0,9
+trinidad,bo,-33,-56,22,70,92,4
+jenison,us,42,-85,-2,77,90,3
+mittweida,de,50,12,4,80,92,7
+khartoum,sd,15,32,19,32,0,6
+ahumada,mx,,,,,,
+cagayan de tawi-tawi,ph,,,,,,
+pyshma,ru,56,63,-20,54,20,1
+russkaya polyana,ru,53,73,-18,84,32,3
+lahad datu,my,5,118,25,100,24,1
+bursa,tr,40,29,6,100,75,1
+new bern,us,35,-77,8,92,90,8
+erdenet,mn,49,104,-32,36,0,1
+neiafu,to,-18,-173,25,100,0,6
+sobinka,ru,55,40,-1,94,88,6
+cape canaveral,us,28,-80,20,84,75,5
+beruwala,lk,6,79,25,100,100,2
+tashtagol,ru,52,87,-27,71,0,1
+ustyuzhna,ru,58,36,-4,90,92,3
+ahar,ir,38,47,-9,72,48,1
+jaromerice nad rokytnou,cz,49,15,4,86,75,3
+murdochville,ca,48,-65,-12,83,68,2
+ola,ru,59,151,-13,100,0,6
+reconquista,ar,-29,-59,26,55,76,3
+tongliao,cn,43,122,-22,51,20,1
+melilla,es,0,-80,24,83,75,4
+mbigou,ga,-1,11,19,97,92,1
+pingliang,cn,35,106,-15,65,32,0
+peyima,sl,8,-11,20,64,0,1
+limoux,fr,43,2,10,81,90,8
+sao jose dos campos,br,-23,-45,17,88,0,3
+springbok,za,-29,17,10,69,0,2
+timbiqui,co,2,-77,24,97,88,1
+chapais,ca,49,-74,-12,85,90,4
+alexandria,eg,31,-92,6,88,90,2
+jasper,ca,33,-87,2,100,92,2
+powell,us,40,-83,-4,77,1,3
+goderich,sl,43,-81,0,96,80,5
+nam som,th,17,102,22,100,75,1
+albany,au,42,-73,-3,68,1,1
+wasilla,us,61,-149,-4,77,1,1
+tarudant,ma,,,,,,
+zlitan,ly,32,14,15,88,68,5
+strezhevoy,ru,60,77,-13,78,0,5
+adrar,dz,27,0,12,40,0,6
+prainha,br,-1,-53,26,87,20,1
+gondanglegi,id,-7,112,24,97,48,1
+mahibadhoo,mv,3,72,28,100,24,3
+pokosnoye,ru,55,101,-30,33,44,1
+portlethen,gb,57,-2,3,93,0,6
+mmabatho,za,-25,25,19,22,64,1
+svobodnyy,ru,53,40,0,93,80,6
+bourail,nc,-21,165,27,58,48,2
+linqing,cn,36,115,-9,70,88,1
+puerto castilla,hn,40,-5,4,81,0,1
+cazones,mx,20,-97,16,82,90,3
+tuggurt,dz,,,,,,
+gaillac,fr,43,1,9,87,75,8
+xifeng,cn,42,124,-23,51,24,1
+makubetsu,jp,42,143,-5,38,20,6
+bicester,gb,51,-1,5,87,75,1
+qitaihe,cn,45,131,-20,52,0,2
+teseney,er,15,36,20,62,0,2
+presidente medici,br,-11,-61,25,92,0,0
+krasnokamensk,ru,50,118,-35,52,0,1
+nibbar,tn,36,8,12,71,20,4
+godec,bg,,,,,,
+epernay,fr,45,5,7,76,90,4
+akhmim,eg,26,31,9,66,0,3
+svobody,ru,44,43,1,69,90,7
+bowen,au,-20,148,25,94,90,8
+forest acres,us,34,-80,2,89,90,1
+sibut,cf,5,19,21,71,32,2
+hesla,in,24,85,5,78,0,0
+namtsy,ru,62,129,-40,65,90,1
+koumac,nc,-20,164,27,66,0,5
+khatra,in,22,86,10,83,0,1
+santa ana,pe,13,-89,24,47,0,2
+richards bay,za,-28,32,19,100,100,7
+yershov,ru,,,,,,
+wukari,ng,7,9,24,34,0,4
+den chai,th,17,100,21,100,75,1
+sebastian,us,27,-80,21,90,75,4
+karkaralinsk,kz,,,,,,
+pozoblanco,es,38,-4,10,87,0,1
+purranque,cl,-40,-73,15,72,90,4
+miguel hidalgo,mx,19,-99,19,42,40,2
+tamworth,au,-31,150,31,29,0,3
+kharan,pk,28,65,5,84,0,1
+cachoeira do sul,br,-30,-52,21,72,8,1
+gaurnadi,bd,22,90,13,84,0,2
+veinticinco de mayo,ar,-27,-54,22,64,80,1
+mezen,ru,65,44,-3,75,76,3
+rongcheng,cn,37,122,-7,100,0,1
+kuvshinovo,ru,57,34,-2,94,88,2
+rastolita,ro,46,24,-3,93,44,0
+rathdrum,us,52,-6,4,93,0,5
+hillsborough,gd,37,-122,11,77,75,1
+red bluff,us,40,-122,10,71,20,1
+caracuaro,mx,19,-101,21,43,0,1
+mirzapur,bd,25,82,10,93,0,1
+puerto rico,co,-26,-55,22,70,8,1
+ureki,ge,42,41,11,50,0,10
+ereymentau,kz,51,73,-17,74,76,1
+gorno-altaysk,ru,51,85,-26,45,0,0
+podgornoye,ru,57,82,-18,68,56,1
+manama,bh,25,56,22,82,0,2
+vichuga,ru,57,41,-4,94,68,5
+solsvik,no,,,,,,
+voznesenye,ru,61,35,-3,100,92,5
+kichmengskiy gorodok,ru,59,45,-5,88,80,2
+kortkeros,ru,61,51,-4,92,90,2
+alice springs,au,-23,133,33,21,0,4
+temirtau,kz,50,72,-11,72,0,4
+bayburt,tr,40,40,-12,61,20,1
+coquimbo,cl,-29,-71,16,82,0,3
+male,mv,50,33,0,99,80,2
+tuktoyaktuk,ca,69,-133,-14,84,90,4
+gonbad-e qabus,ir,37,55,8,100,12,2
+canaries,lc,,,,,,
+east wenatchee,us,47,-120,0,92,90,1
+las choapas,mx,17,-94,22,88,90,10
+capitao poco,br,-1,-47,23,96,88,0
+at-bashi,kg,41,75,-12,78,64,0
+dikson,ru,73,80,-6,96,76,10
+anaconda,us,46,-112,-11,72,1,2
+quetzaltepec,mx,,,,,,
+massakory,td,13,15,17,29,0,5
+dakar,sn,14,-17,23,56,0,5
+columbus,us,32,-84,4,85,90,2
+manggar,id,-2,108,25,100,0,1
+khatanga,ru,71,102,-21,62,68,4
+lesogorskiy,ru,61,28,0,91,88,3
+gulu,ug,2,32,17,95,64,1
+nuevo laredo,mx,27,-99,11,71,5,3
+nyakahanga,tz,-1,31,16,99,80,1
+stryn,no,61,6,-1,95,88,1
+grand-santi,gf,4,-54,23,90,68,1
+rincon,an,32,-81,5,88,90,5
+staden,be,50,3,7,65,20,7
+kuldiga,lv,56,21,3,100,90,2
+lengshuitan,cn,26,111,0,100,92,1
+sayyan,ye,15,44,2,81,0,0
+jawhar,so,19,73,10,85,0,1
+buzmeyin,tm,38,58,9,93,90,2
+smithers,ca,54,-127,-1,74,20,3
+naples,us,26,-81,20,90,75,3
+eldikan,ru,,,,,,
+mataram,id,-5,105,24,93,36,1
+pinar del rio,cu,22,-83,26,69,88,2
+gaoual,gn,11,-13,19,80,0,0
+kaseda,jp,31,130,7,65,75,1
+bogovarovo,ru,58,47,-5,92,88,1
+hondo,us,29,-99,7,68,1,3
+portobelo,pa,9,-79,26,78,20,3
+domoni,km,,,,,,
+mazsalaca,lv,57,25,0,95,76,5
+gandorhun,sl,8,-10,20,64,0,1
+hokitika,nz,-42,170,17,93,36,1
+pata,ws,48,17,6,80,80,2
+bontang,id,0,117,28,96,0,3
+suratgarh,in,29,73,14,68,92,2
+edson,ca,53,-116,-5,79,1,1
+konevo,ru,41,25,-2,100,20,1
+agogo,gh,6,-1,22,95,56,2
+bogorodskoye,ru,52,140,-19,50,0,3
+birecik,tr,37,37,9,100,90,2
+totma,ru,59,42,-7,83,68,4
+carauari,br,-4,-66,24,97,32,1
+parfino,ru,57,31,0,92,92,3
+ivnya,ru,51,36,2,100,90,5
+halifax,ca,44,-63,-8,85,75,6
+staropyshminsk,ru,56,60,-17,84,44,2
+sonipat,in,29,77,11,81,0,1
+formosa do rio preto,br,-11,-45,20,94,80,1
+russell,nz,-33,-68,18,37,0,2
+puerto carreno,co,6,-67,29,62,0,2
+poddorye,ru,57,31,0,93,88,4
+podyuga,ru,61,40,-7,84,64,5
+lapeer,us,43,-83,-4,83,1,3
+kilis,tr,36,37,9,100,90,2
+pousat,kh,,,,,,
+port arthur,us,29,-93,8,76,90,4
+fort atkinson,us,42,-88,-7,96,1,1
+vysoke,ua,47,38,1,96,76,4
+rio novo do sul,br,-20,-40,22,96,80,4
+angermunde,de,53,14,5,93,48,9
+zagreb,hr,45,15,2,93,0,3
+balgazyn,ru,51,95,-34,45,0,0
+pismo beach,us,35,-120,13,83,80,4
+road town,vg,18,-64,25,74,20,4
+gunjur,gm,13,-16,22,78,0,2
+gorno-chuyskiy,ru,,,,,,
+constitucion,cl,23,-104,14,35,5,2
+manono,cd,-7,27,18,97,88,1
+aragarcas,br,-15,-52,22,90,32,3
+duldurga,ru,50,113,-30,31,32,1
+kewanee,us,41,-89,-5,87,1,1
+ferrol,es,43,-8,6,100,90,2
+peresichna,ua,50,35,2,100,90,4
+naryan-mar,ru,67,53,-7,79,32,6
+aksarka,ru,66,67,-11,90,68,4
+aksarayskiy,ru,46,48,-4,100,90,7
+yueyang,cn,29,113,1,100,92,2
+revelstoke,ca,50,-118,-2,68,90,1
+tres picos,mx,16,-93,23,66,44,5
+kissidougou,gn,9,-10,17,69,0,0
+szalkszentmarton,hu,46,19,2,80,75,4
+tiksi,ru,71,128,-36,59,0,5
+tourlaville,fr,49,-1,10,71,75,7
+huancayo,pe,-12,-75,8,43,0,1
+athy,ie,52,-6,4,93,0,5
+nyrad,dk,55,11,3,100,0,5
+kamenka,ru,53,44,-4,93,92,6
+kytlym,ru,,,,,,
+jalu,ly,29,21,9,88,20,1
+podor,sn,16,-14,22,33,0,1
+delvine,al,39,20,12,93,75,5
+tari,pg,12,4,19,37,0,4
+horsham,au,-36,142,21,76,0,4
+makushino,ru,55,67,-26,45,0,1
+bianzhuang,cn,39,112,-18,57,76,1
+huangnihe,cn,43,128,-24,55,0,1
+pauri,in,30,78,7,93,8,2
+urubamba,pe,-13,-72,12,10,20,1
+mahebourg,mu,-20,57,23,94,75,2
+ambovombe,mg,-25,46,21,99,0,2
+tabukiniberu,ki,,,,,,
+itoigawa,jp,37,137,5,100,88,4
+balyaga,ru,51,108,-24,70,64,1
+palmas bellas,pa,9,-80,26,83,20,2
+sergiyevsk,ru,53,51,-5,91,76,3
+morropon,pe,-5,-79,23,58,8,1
+guerrero negro,mx,27,-114,23,47,0,2
+uyuni,bo,-20,-66,8,82,92,0
+wittlich,de,49,6,3,93,75,1
+baoro,cf,5,15,19,51,0,3
+terekli-mekteb,ru,44,45,2,97,88,4
+ledyard,us,41,-72,0,66,1,6
+las cruces,us,-33,-71,16,87,0,1
+aras,no,14,44,2,72,0,1
+tumen,cn,42,129,-18,58,0,1
+qixingtai,cn,30,111,0,90,92,2
+san giorgio del sannio,it,41,14,8,87,20,2
+mehndawal,in,26,83,7,84,0,1
+la asuncion,ve,-1,-78,9,87,48,0
+vasilsursk,ru,56,46,-6,94,80,3
+vaitape,pf,-16,-151,28,98,32,8
+ye,mm,,,,,,
+daxian,cn,,,,,,
+lyngseidet,no,69,20,-4,85,20,1
+union de san antonio,mx,21,-101,19,48,75,1
+dubovka,ru,49,44,0,100,90,7
+rundu,na,-17,19,19,15,0,4
+monroe,us,41,-83,-3,86,1,2
+ifo,ng,6,3,26,85,0,2
+desaguadero,pe,-16,-69,11,34,0,3
+kavalerovo,ru,44,135,-18,57,0,3
+akkermanovka,ru,,,,,,
+epe,ng,52,7,5,80,20,6
+novochernorechenskiy,ru,56,91,-15,76,44,2
+billings,us,45,-108,1,37,20,9
+le port,re,42,1,0,61,0,1
+pindiga,ng,9,10,20,34,0,4
+amalapuram,in,16,82,22,88,20,1
+zaragoza,es,41,0,8,71,0,7
+paamiut,gl,61,-49,-1,100,44,4
+buriti alegre,br,-18,-49,23,68,0,5
+medina,ph,24,39,17,72,0,1
+tortoli,it,39,9,14,41,5,9
+neuchatel,ch,,,,,,
+tayshet,ru,55,98,-25,60,64,1
+acarau,br,,,,,,
+semirom,ir,31,51,-13,64,0,0
+viljoenskroon,za,-27,26,20,27,92,2
+cordoba,ar,5,-73,13,77,32,0
+tobias barreto,br,-11,-38,25,86,92,3
+lang suan,th,9,99,26,88,20,1
+union,ph,47,-123,5,92,90,0
+foz,es,43,-7,12,100,32,3
+nuzvid,in,16,80,23,88,40,1
+athni,in,16,75,20,97,92,1
+kattivakkam,in,13,80,23,94,20,1
+chavakkad,in,10,76,24,88,75,1
+kukmor,ru,56,50,-4,92,88,3
+holme,no,53,-2,5,93,75,1
+prado,br,-17,-39,24,100,92,9
+drayton valley,ca,53,-114,-10,65,8,1
+addanki,in,15,79,18,93,0,1
+batouri,cm,4,14,19,83,0,1
+umm lajj,sa,25,37,15,100,0,3
+abai,py,41,68,7,100,90,1
+odemis,tr,,,,,,
+seka,th,7,36,14,100,92,0
+gympie,au,-26,152,22,77,64,2
+gornyy,ru,51,48,-9,89,68,2
+xai-xai,mz,-25,33,22,100,92,6
+belyy,ru,55,32,-1,96,92,3
+kuminskiy,ru,58,66,-18,70,8,1
+enterprise,us,36,-115,13,43,1,1
+leca da palmeira,pt,41,-8,9,81,0,2
+pipri,in,24,83,10,97,32,1
+kopavogur,is,64,-21,1,80,75,7
+tarija,bo,-21,-64,20,64,90,2
+formosa,ar,-26,-58,27,69,0,2
+bandar,id,-4,104,23,92,88,1
+khuldabad,in,20,75,18,55,0,1
+sijunjung,id,0,100,21,92,36,0
+dalneye konstantinovo,ru,,,,,,
+esfahan,ir,32,51,-2,79,0,2
+ikom,ng,5,8,21,68,0,1
+baiao,br,-2,-49,24,91,44,0
+karaman,tr,,,,,,
+tsuyama,jp,35,134,4,93,75,5
+vagay,ru,57,69,-16,77,32,2
+malur,in,13,77,17,93,20,1
+atascocita,us,30,-95,8,90,90,1
+bud,no,62,6,3,80,92,5
+la paz,mx,24,-110,21,68,40,6
+tevriz,ru,57,72,-15,72,64,2
+nardaran,az,40,50,7,100,90,2
+lishui,cn,28,119,1,100,92,1
+rocky mount,us,35,-77,2,91,90,8
+novokuznetsk,ru,53,87,-27,49,8,1
+duekoue,ci,6,-7,24,80,0,2
+illela,ne,12,4,20,38,0,4
+loding,no,48,12,6,75,75,6
+durres,al,41,19,9,87,90,4
+hanzhong,cn,33,107,-9,71,76,1
+karaj,ir,35,51,7,95,75,0
+babanusah,sd,,,,,,
+wageningen,sr,51,5,5,80,90,4
+sabzevar,ir,36,57,-1,80,0,1
+geelong,au,-38,144,19,52,40,5
+lazurne,ua,46,34,1,91,88,1
+sidrolandia,br,-20,-54,28,51,0,5
+orlovskiy,ru,46,42,0,98,80,6
+leczyca,pl,52,19,5,93,75,10
+bandiagara,ml,14,-3,17,72,0,2
+sechenovo,ru,55,45,-5,90,92,4
+zhuanghe,cn,39,122,-5,100,56,3
+tinskoy,ru,56,96,-23,68,80,1
+yashkul,ru,46,45,-2,93,88,3
+saint joseph,us,39,-94,-2,84,1,1
+ambikapur,in,23,83,7,81,0,1
+la serena,cl,-29,-71,16,82,0,3
+warqla,dz,,,,,,
+galveston,us,40,-86,-3,77,1,2
+bulungu,cd,-4,18,20,96,76,1
+san benedetto del tronto,it,42,13,5,93,0,1
+potam,mx,27,-110,22,46,20,2
+jagdalpur,in,19,82,14,90,0,1
+sjovegan,no,68,17,-8,92,80,4
+isilkul,ru,54,71,-16,69,44,3
+cardoso,br,-20,-49,27,47,88,2
+wagga wagga,au,-35,147,25,61,40,2
+rzhaksa,ru,52,42,-1,96,88,6
+tecpan,mx,14,-90,19,68,40,7
+gremyachye,ru,,,,,,
+pandan,ph,11,122,26,100,48,7
+ikwiriri,tz,-7,38,24,98,64,1
+certeju de sus,ro,45,22,0,99,92,0
+soria,es,41,-2,-3,77,0,1
+bo phloi,th,14,99,22,81,88,4
+arkadelphia,us,34,-93,3,78,1,2
+nalgonda,in,17,79,21,94,32,1
+crotone,it,39,17,3,100,90,6
+anuradhapura,lk,8,80,21,92,76,2
+kletskaya,ru,49,43,-1,95,88,5
+busselton,au,-33,115,19,95,0,6
+guaruja,br,-23,-46,18,77,0,2
+penhold,ca,52,-113,-9,72,75,3
+susanville,us,40,-120,0,78,64,1
+iskateley,ru,67,53,-7,89,48,6
+loukhi,ru,66,33,-2,88,88,2
+nuh,in,28,77,11,81,0,1
+barra do corda,br,-5,-45,22,100,92,2
+dalianwan,cn,39,121,-1,63,36,2
+krasnyy kholm,ru,58,37,-3,90,88,4
+shimoda,jp,34,138,9,100,75,7
+kyle,us,29,-97,7,76,20,2
+florian,co,48,-96,-11,92,1,3
+viking,ca,53,-111,-19,46,0,1
+minna,ng,9,6,23,48,0,3
+mago,ru,53,140,-18,48,0,3
+navabad,tj,,,,,,
+bakhmach,ua,51,32,0,98,80,3
+martapura,id,-3,114,27,98,12,1
+neustadt,de,47,8,6,81,75,3
+milos,gr,36,24,14,71,0,2
+sitka,us,37,-99,1,59,0,3
+mahuva,in,21,71,22,100,0,4
+madang,pg,-5,145,24,100,88,2
+kodino,ru,63,39,-5,80,80,3
+goya,ar,-29,-59,26,55,76,3
+keighley,gb,53,-1,3,86,0,4
+tarauaca,br,-8,-70,25,90,0,1
+te anau,nz,-45,167,15,68,24,1
+sabya,sa,16,43,22,91,100,1
+kirksville,us,40,-92,-3,79,1,1
+kaz,ru,53,87,-26,47,0,1
+adeje,es,5,5,23,96,36,1
+champerico,gt,16,-93,24,73,5,7
+thessalon,ca,46,-83,-1,84,90,5
+mocambique,mz,,,,,,
+bandar-e torkaman,ir,,,,,,
+klamath falls,us,42,-121,3,75,90,3
+bushehr,ir,28,50,19,67,32,2
+oshnaviyeh,ir,37,45,-3,92,0,3
+mathathane,bw,-22,28,19,98,88,1
+novyy urengoy,ru,66,76,-9,83,92,4
+chatra,in,24,84,7,93,0,5
+ilinskiy,ru,55,38,0,100,90,3
+lompoc,us,34,-120,14,67,1,1
+los algarrobos,pa,-3,-79,28,73,90,0
+dingzhou,cn,38,115,-6,62,20,3
+ndele,cf,,,,,,
+malakal,sd,,,,,,
+listvyanka,ru,51,104,-15,100,0,2
+cessnock,au,-32,151,25,65,75,6
+sosenskiy,ru,54,35,1,97,88,3
+karachi,pk,24,67,19,88,20,5
+chulym,ru,55,80,-23,52,24,1
+oriximina,br,-1,-55,24,97,12,1
+labrea,br,,,,,,
+wadi musa,jo,30,35,4,88,8,0
+kommunisticheskiy,ru,61,64,-11,92,44,1
+lososina,ru,49,140,-13,100,24,6
+auki,sb,12,6,18,46,0,3
+lakes entrance,au,-37,147,18,100,92,3
+limbang,my,4,115,29,88,75,1
+barreiras,br,-12,-45,20,98,88,1
+mincivan,az,39,46,0,65,8,0
+fonte boa,br,-2,-66,23,99,76,1
+venice,us,27,-82,20,83,90,4
+aloleng,ph,16,119,26,100,0,3
+cabanas,cu,43,-8,6,100,90,2
+challapata,bo,-18,-66,8,60,80,1
+sayanskiy,ru,,,,,,
+young,au,-32,-57,22,65,88,4
+tanshui,tw,,,,,,
+el guamo,co,10,-74,30,58,12,3
+gasa,bt,27,89,-27,27,24,0
+pathardi,in,19,75,13,70,0,1
+norwich,gb,52,1,4,93,0,3
+tomari,ru,47,142,-4,87,12,6
+jiexiu,cn,37,111,-15,70,20,1
+quthing,ls,-30,27,6,100,8,1
+slantsy,ru,59,28,1,100,92,3
+chunskiy,ru,56,99,-28,56,36,1
+east london,za,-33,27,19,100,92,3
+opole lubelskie,pl,51,21,4,100,75,4
+pauini,br,-7,-67,23,99,32,0
+mikhaylovka,kz,52,103,-31,37,12,1
+adre,td,13,22,16,33,0,5
+borovoy,ru,63,52,-7,89,88,2
+lumeje,ao,-11,20,19,93,56,4
+aleksandrovskiy zavod,ru,50,117,-36,0,0,1
+kamaishi,jp,39,141,3,47,40,2
+kommunar,ru,59,30,-1,86,20,4
+severodvinsk,ru,64,39,-4,85,90,4
+qianguo,cn,45,124,-25,64,0,1
+gwanda,zw,-20,29,18,99,92,2
+syedove,ua,47,38,2,88,88,6
+coruripe,br,-10,-36,25,100,64,5
+chimoio,mz,-19,33,20,99,92,1
+sheopur,in,25,76,10,77,0,1
+kampong thum,kh,12,104,22,97,80,1
+muscat,om,23,58,25,41,0,4
+yingcheng,cn,30,113,2,64,92,2
+verona,us,45,10,6,75,0,1
+utiroa,ki,,,,,,
+trencin,sk,48,18,5,80,68,2
+juba,sd,57,26,2,93,90,5
+pandamatenga,bw,-18,25,19,94,24,3
+tamale,gh,9,0,22,34,0,3
+bundibugyo,ug,0,30,14,91,24,0
+cam pha,vn,,,,,,
+barela,in,23,80,15,87,80,1
+haibowan,cn,,,,,,
+sangmelima,cm,2,11,19,97,24,1
+raduzhnyy,ru,62,77,-11,85,80,4
+suarez,co,4,-74,23,88,20,2
+dubna,ru,56,37,-1,98,92,4
+yasnyy,ru,64,44,-5,79,80,3
+krasnokholmskiy,ru,55,55,-6,93,88,2
+southaven,us,34,-90,0,91,75,2
+ust-kut,ru,56,105,-28,79,48,1
+okahandja,na,-21,16,19,43,0,2
+kazuno,jp,40,140,-3,100,75,3
+niteroi,br,-29,-51,21,77,0,3
+orange,au,-33,149,26,60,48,2
+victoria point,au,-27,153,27,61,20,4
+joao pinheiro,br,-17,-46,18,93,32,4
+la reforma,mx,14,-91,27,88,40,0
+tambovka,ru,46,35,0,90,68,1
+rafraf,tn,37,10,15,76,40,2
+agha jari,ir,,,,,,
+camrose,ca,53,-112,-6,73,75,4
+waterfoot,gb,53,-2,5,93,75,1
+bhainsa,in,26,76,9,83,0,1
+enumclaw,us,47,-121,5,100,90,1
+sriperumbudur,in,12,79,23,94,20,1
+fulton,us,43,-76,-4,63,90,3
+priyutovo,ru,53,53,-6,91,88,2
+haripur,pk,33,72,11,93,75,3
+makaryev,ru,57,43,-6,86,80,3
+emerald,au,-23,148,30,40,40,6
+ortigueira,br,43,-7,5,100,90,2
+ejura,gh,7,-1,24,80,44,3
+waingapu,id,-9,120,26,94,20,1
+nichinan,jp,31,131,8,53,75,4
+moree,au,-29,149,30,33,0,6
+krasnoye,ru,44,39,1,90,0,4
+banjar,id,-7,108,23,97,80,1
+koshurnikovo,ru,54,93,-27,69,24,1
+larsnes,no,62,5,4,80,88,6
+mahanoro,mg,-19,48,20,100,32,1
+atasu,kz,48,71,-8,86,92,1
+barroualie,vc,,,,,,
+ushibuka,jp,32,130,7,100,80,4
+shilong,cn,23,113,11,76,90,8
+la peca,pe,-5,-78,20,82,32,0
+jorpeland,no,59,6,4,86,75,7
+denau,uz,,,,,,
+elesbao veloso,br,-6,-42,22,99,64,1
+melville,ca,50,-102,-9,78,75,3
+xuddur,so,4,43,22,52,8,4
+sakaraha,mg,-22,44,17,96,12,0
+xunchang,cn,28,104,3,99,92,0
+kopychyntsi,ua,49,25,0,90,48,2
+nizhneudinsk,ru,54,99,-28,53,36,1
+solone,ua,48,34,3,100,90,3
+vorchdorf,at,48,13,6,87,75,8
+raga,sd,,,,,,
+inta,ru,66,60,-7,80,68,3
+solvychegodsk,ru,61,46,-5,88,68,2
+paredon,mx,-18,-65,15,42,88,1
+puerto rondon,co,6,-71,31,38,36,4
+hovorany,cz,48,16,4,86,75,3
+carbonia,it,39,8,14,58,0,12
+bougouni,ml,11,-7,17,43,0,2
+bamora,in,,,,,,
+ilovlya,ru,49,43,0,95,90,7
+ciudad guayana,ve,8,-62,27,66,0,3
+martyush,ru,56,61,-17,60,56,1
+yenotayevka,ru,47,47,-5,91,20,3
+terrak,no,65,12,2,80,88,5
+kadungora,id,-7,107,21,98,68,0
+sao domingos,br,-13,-46,18,99,92,3
+isagarh,in,24,77,11,68,0,2
+ordzhonikidze,ua,44,35,8,93,80,3
+culipapa,ph,,,,,,
+campoverde,pe,41,12,11,81,0,1
+petropavlovsk-kamchatskiy,ru,53,158,-13,60,68,5
+lahat,id,-3,103,23,98,76,0
+laibin,cn,23,109,3,100,92,4
+gaspar,br,-26,-48,23,73,75,7
+tumbotino,ru,56,43,-3,92,90,4
+makokou,ga,0,12,21,98,68,1
+shu,kz,43,73,1,91,92,1
+kahului,us,20,-156,24,66,40,8
+boma,cd,11,4,21,45,0,4
+yanggu,cn,25,116,3,95,92,1
+katiola,ci,8,-5,27,36,0,1
+warrington,us,53,-2,6,93,75,4
+rentina,gr,40,23,5,80,20,2
+almazar,uz,40,69,7,93,90,6
+kupang,id,-10,123,28,96,100,2
+taunggyi,mm,20,97,11,95,8,1
+chulman,ru,56,124,-28,74,56,1
+kupino,ru,54,77,-23,53,0,1
+mufumbwe,zm,-13,24,18,100,88,3
+idah,ng,7,6,22,94,20,1
+araioses,br,-2,-41,26,86,44,3
+scottsboro,us,34,-86,3,100,1,1
+saraland,us,30,-88,6,92,90,3
+amboise,fr,47,0,8,93,90,5
+mutoko,zw,-17,32,19,98,88,1
+nalvo,ph,16,120,20,79,0,1
+midland,us,32,-102,4,82,1,2
+plyussa,ru,58,29,0,93,92,3
+surgut,ru,61,73,-12,78,75,4
+karur,in,10,78,18,90,12,1
+santa rosa,ar,-36,-64,23,24,0,2
+karhal,in,27,78,8,84,0,1
+upala,cr,10,-85,28,61,0,7
+duluth,us,46,-92,-4,80,1,2
+ylivieska,fi,64,24,2,95,88,4
+zhaodong,cn,46,125,-15,65,0,2
+anton lizardo,mx,19,-95,21,73,75,6
+kibala,ao,9,18,22,35,0,3
+jonuta,mx,18,-92,24,88,40,5
+tokzar,af,,,,,,
+blagoveshchensk,ru,50,127,-20,70,0,1
+santa isabel,mx,4,-75,23,88,20,2
+linqiong,cn,30,103,5,93,75,3
+lugovskiy,ru,,,,,,
+kimbe,pg,-5,150,27,100,76,1
+keningau,my,5,116,31,74,75,0
+kokkola,fi,63,23,2,100,90,4
+agadez,ne,16,7,14,41,0,5
+idritsa,ru,56,28,0,96,88,6
+tambacounda,sn,13,-13,23,38,0,2
+karpathos,gr,35,27,16,72,80,7
+golden,ca,51,-116,-6,67,75,0
+manaure,co,11,-72,29,58,0,4
+talakan,ru,50,130,-31,36,32,1
+morlaix,fr,48,-3,8,81,20,3
+udachnyy,ru,66,112,-27,75,48,1
+shahrud,ir,36,54,-4,80,24,0
+si sa ket,th,15,104,25,73,8,3
+cotoca,bo,-17,-63,26,78,75,3
+ivybridge,gb,50,-3,9,91,76,7
+tsaratanana,mg,-16,47,17,74,8,0
+parabel,ru,58,81,-10,69,92,2
+nueva helvecia,uy,-34,-57,19,87,88,3
+milingimbi,au,,,,,,
+dillon,us,45,-112,-6,77,1,3
+volovo,ru,53,38,0,98,92,5
+tecoanapa,mx,16,-99,27,83,75,1
+jever,de,53,7,5,70,40,6
+lao cai,vn,22,103,11,100,92,0
+cran-gevrier,fr,45,6,7,93,75,3
+norfolk,us,36,-76,5,92,90,9
+kholodnyy,ru,62,147,-33,41,32,1
+maniwaki,ca,46,-75,-3,76,32,3
+yerbogachen,ru,61,108,-22,65,76,3
+savantvadi,in,15,73,20,100,0,1
+zabinka,by,,,,,,
+sokoto,ng,13,5,18,37,0,4
+johi,pk,26,67,15,95,0,2
+zachagansk,kz,,,,,,
+itacarambi,br,-15,-44,20,97,92,3
+yunjinghong,cn,,,,,,
+cadiz,es,40,-81,-4,60,1,2
+orapa,bw,-21,25,20,83,8,5
+oksfjord,no,70,22,-3,85,68,3
+jardim,br,-21,-56,26,58,0,2
+sumenep,id,-7,113,28,100,56,1
+jiaocheng,cn,24,116,6,85,92,1
+mirabad,af,28,61,-1,74,0,1
+sangueya,gn,10,-14,23,94,0,1
+newport,us,51,-3,7,93,8,6
+spas-klepiki,ru,55,40,0,95,92,6
+krasnoyarsk,ru,56,92,-21,83,64,1
+aleksandrovsk-sakhalinskiy,ru,50,142,-10,100,64,8
+mossendjo,cg,-2,12,21,99,92,1
+cabras,it,5,-75,16,90,44,0
+el cobre,cu,20,-75,27,74,40,2
+yirol,sd,,,,,,
+willemstad,an,51,4,6,81,75,4
+masterton,nz,-40,175,19,66,0,6
+ordu,tr,40,37,8,65,0,2
+itapora,br,-22,-54,24,54,0,3
+kaihua,cn,29,118,0,100,88,1
+vitorino freire,br,-4,-45,23,95,88,0
+posadas,ar,-27,-55,25,61,0,3
+moundsville,us,39,-80,-3,60,1,2
+kouroussa,gn,10,-9,18,68,0,1
+illoqqortoormiut,gl,,,,,,
+hell,no,63,10,1,100,75,4
+cienaga,co,11,-74,27,88,40,7
+wenzhou,cn,28,120,2,100,100,1
+faya,td,18,42,12,93,5,3
+indian head,ca,50,-103,-9,68,8,3
+jaguarari,br,-10,-40,21,93,68,2
+touzim,cz,50,12,3,93,75,9
+tha mai,th,12,102,26,88,75,1
+ishlei,ru,,,,,,
+sydney,au,-33,151,26,57,75,5
+anzio,it,41,12,11,81,0,1
+parambu,br,-6,-40,20,99,64,1
+bhanpuri,in,21,80,17,91,92,1
+kobelyaky,ua,49,34,0,96,80,1
+tursunzoda,tj,38,68,4,100,92,0
+meyzieu,fr,45,5,7,71,75,4
+ipora,br,,,,,,
+zigong,cn,29,104,3,93,92,2
+mooi river,za,,,,,,
+fuerte olimpo,py,-21,-57,27,79,0,1
+guadalajara,es,40,-3,2,93,0,1
+chauk,mm,20,94,17,99,68,2
+harlingen,nl,26,-97,11,63,1,3
+sainte-maxime,fr,43,6,12,57,0,6
+thunder bay,ca,48,-89,-4,85,90,1
+ales,fr,44,4,10,50,0,8
+novobelokatay,ru,55,58,-8,76,92,1
+taolanaro,mg,,,,,,
+ouricuri,br,-7,-40,22,99,88,2
+sigulda,lv,57,24,2,100,90,4
+mochicahui,mx,25,-108,21,64,5,5
+toribio,co,2,-76,13,100,44,0
+is,ru,,,,,,
+ichinoseki,jp,38,141,3,47,40,2
+shitanjing,cn,39,106,-25,52,0,1
+boali,cf,4,18,19,93,0,1
+santa lucia,pe,39,9,14,41,5,9
+libano,co,46,12,0,100,90,1
+marang,my,,,,,,
+sainte-suzanne,re,47,6,4,86,75,1
+chagda,ru,,,,,,
+inverness,ca,57,-4,3,86,76,5
+mvuma,zw,-19,30,17,99,92,1
+bihoro,jp,43,144,-6,62,20,2
+hornepayne,ca,49,-84,-11,87,32,1
+maimon,do,,,,,,
+jacala,mx,21,-99,10,93,92,0
+putla,mx,,,,,,
+kuching,my,1,110,27,88,75,1
+dinsor,so,,,,,,
+alampur,in,15,78,20,90,0,2
+luzino,ru,54,73,-20,76,0,4
+nushki,pk,29,66,4,93,0,1
+mayskiy,ru,43,44,1,91,90,2
+firminy,fr,45,4,8,75,75,3
+isaka,tz,-2,17,20,99,44,0
+hearst,ca,49,-83,-12,74,0,2
+sterling,us,39,-77,0,68,75,4
+eganville,ca,45,-77,-2,92,90,3
+estevan,ca,49,-102,-6,85,1,5
+fergus falls,us,46,-96,-7,85,1,2
+tessalit,ml,20,1,14,42,0,4
+aleksandrov gay,ru,50,48,-4,88,88,1
+gushi,cn,32,115,-1,89,92,4
+ocean city,us,30,-86,8,81,90,4
+ekimchan,ru,53,132,-34,46,32,1
+traverse city,us,44,-85,-1,78,90,1
+unai,br,-16,-46,17,96,80,3
+seymour,us,33,-99,2,66,0,2
+thibodaux,us,29,-90,6,79,90,6
+placido de castro,br,-10,-67,26,86,8,1
+alta floresta,br,-9,-56,22,99,56,1
+gagnoa,ci,6,-5,23,94,12,2
+aksha,ru,50,113,-30,31,32,1
+perevolotskiy,ru,51,54,-4,95,80,1
+unguia,co,,,,,,
+guanare,ve,9,-69,25,76,0,1
+barbate,es,36,-5,11,87,0,2
+kanniyakumari,in,8,77,26,100,12,7
+wichita falls,us,33,-98,4,63,1,2
+bjala,bg,,,,,,
+uba,br,10,13,15,46,0,2
+novoleushkovskaya,ru,45,39,0,93,68,5
+carthage,us,32,-94,5,92,20,3
+fuyang,cn,32,115,-1,72,92,4
+collie,au,-33,116,21,57,0,5
+kaohsiung,tw,22,120,21,78,75,2
+lianran,cn,24,102,9,93,75,6
+baringo,ke,0,35,16,100,80,1
+nazca,pe,-14,-74,19,64,0,1
+douglas,us,58,-134,5,88,90,6
+myanaung,mm,18,95,21,100,0,2
+guiyang,cn,26,106,0,97,75,3
+dannenberg,de,53,11,4,86,75,7
+tynda,ru,55,124,-24,72,8,2
+linhares,br,-19,-40,21,79,92,4
+dujuma,so,,,,,,
+bainbridge,us,30,-84,8,96,90,4
+mglin,ru,53,32,0,99,80,4
+sretensk,ru,52,117,-37,62,24,1
+carinhanha,br,-14,-43,20,97,92,2
+lesnoy,ru,59,52,-5,93,92,2
+nosy varika,mg,-20,48,22,100,56,1
+mulege,mx,26,-111,21,52,0,4
+priargunsk,ru,50,119,-36,0,0,0
+burlington,us,43,-79,-1,79,90,4
+beterou,bj,9,2,20,61,0,1
+darhan,mn,49,105,-25,60,36,1
+agirish,ru,61,63,-12,87,44,1
+sentyabrskiy,ru,,,,,,
+bar harbor,us,44,-68,-3,59,40,3
+bria,cf,6,21,18,68,12,1
+medford,us,42,-122,6,83,90,0
+vieira de leiria,pt,39,-8,11,100,90,1
+lexington park,us,38,-76,0,100,90,2
+bang saphan,th,11,99,25,94,90,1
+sao sebastiao,br,-3,-58,26,85,24,1
+kaunas,lt,54,23,3,93,92,2
+kawhia,nz,-38,174,18,92,0,6
+miastko,pl,54,16,5,99,92,4
+emporia,us,38,-96,0,72,1,2
+upernavik,gl,72,-56,-13,100,8,2
+chubbuck,us,42,-112,-3,80,1,1
+kefamenanu,id,-9,124,26,83,0,0
+dera baba nanak,in,,,,,,
+osoyoos,ca,49,-119,1,74,90,6
+ngerengere,tz,-6,38,23,97,68,0
+ulagan,ru,50,87,-29,48,0,1
+gubkinskiy,ru,64,76,-9,92,80,4
+lebanon,us,43,-72,-4,93,1,2
+gualaco,hn,15,-86,24,78,75,0
+kurara,in,25,79,9,84,0,1
+ingersoll,ca,43,-80,-4,85,75,2
+proti,gr,40,21,-3,93,92,0
+tukrah,ly,,,,,,
+macrohon,ph,10,124,27,89,0,2
+kristiansund,no,63,7,3,86,92,15
+arraial do cabo,br,-22,-42,22,90,0,6
+videira,br,-27,-51,17,65,68,3
+huron,us,44,-98,-7,80,1,1
+santa cruz de la palma,es,28,-17,18,88,0,2
+orgun,af,,,,,,
+mazagao,br,0,-51,27,88,40,4
+bajo baudo,co,,,,,,
+bandar-e lengeh,ir,26,54,20,52,0,2
+san francisco,ar,37,-122,10,77,75,1
+nicolas bravo,mx,24,-104,14,35,5,2
+pierre,us,44,-100,-6,70,1,2
+busayra,jo,30,35,4,88,8,0
+nikolayevsk-na-amure,ru,53,140,-16,97,0,7
+guozhen,cn,29,113,1,100,92,2
+two hills,ca,53,-111,-16,55,0,1
+xudat,az,41,48,0,100,44,1
+upata,ve,8,-62,25,65,88,3
+playas,ec,-2,-80,23,78,24,4
+jinxiang,cn,35,116,-6,61,56,2
+ndjole,ga,0,10,22,100,92,1
+borodino,ru,55,94,-23,68,48,1
+lafia,ng,8,8,20,79,32,1
+port harcourt,ng,4,7,22,93,20,2
+lalomanu,ws,,,,,,
+balakovo,ru,52,47,-9,100,76,3
+comodoro rivadavia,ar,-45,-67,24,29,0,9
+milton,nz,44,-73,-1,60,75,4
+kemi,fi,65,24,0,97,90,3
+dubenskiy,ru,,,,,,
+verkhnyaya toyma,ru,62,45,-6,85,76,2
+kihei,us,20,-156,24,66,40,8
+mitsukaido,jp,36,139,6,48,75,2
+shirvan,ir,,,,,,
+edea,cm,3,10,26,94,75,0
+winston,us,52,1,4,100,90,4
+vammala,fi,61,22,2,100,90,3
+gisborne,nz,-38,178,21,73,0,3
+chapada dos guimaraes,br,-15,-55,24,94,0,1
+jacksonville,us,30,-81,16,72,90,5
+renqiu,cn,38,116,-15,56,0,2
+arinos,br,-15,-46,18,99,92,3
+okhotsk,ru,59,143,-19,100,0,3
+willowmore,za,-33,23,6,96,8,0
+goundam,ml,16,-3,14,59,0,2
+boras,se,57,12,0,80,0,1
+yacuiba,bo,-22,-63,27,72,100,2
+holice,cz,50,15,6,75,0,10
+point pleasant,us,40,-74,0,74,1,2
+barra do bugres,br,-15,-57,27,81,8,2
+tigre,pa,-34,-58,18,82,0,2
+mildmay,ca,44,-81,-3,87,80,4
+bastrop,us,32,-91,4,97,90,3
+zhigansk,ru,66,123,-35,55,36,3
+higuey,do,,,,,,
+bijar,ir,35,47,-4,84,8,1
+dehloran,ir,32,47,8,90,8,1
+shihezi,cn,44,86,-27,74,32,1
+galashki,ru,43,44,3,100,90,1
+praia,cv,-20,-43,17,77,40,3
+la baneza,es,42,-5,-2,100,0,1
+beira,mz,43,-8,6,100,90,2
+buritizeiro,br,-17,-44,19,92,92,3
+thika,ke,-1,37,17,93,75,1
+kaiu,ee,59,25,2,93,90,4
+sao gabriel da cachoeira,br,0,-67,23,95,80,1
+ilam,np,33,46,2,100,0,2
+cefalu,it,38,14,12,82,8,5
+medvezhyegorsk,ru,62,34,-3,85,92,3
+atlantic city,us,,,,,,
+ardabil,ir,38,48,1,86,90,3
+goksun,tr,38,36,3,99,88,0
+issoudun,fr,46,1,8,87,90,4
+wodonga,au,-36,146,27,39,36,1
+miram shah,pk,33,70,6,95,12,1
+moranbah,au,-22,148,27,57,56,7
+linden,gy,6,-58,23,94,0,2
+matranovak,hu,48,19,1,92,48,2
+kadoma,zw,-18,29,19,99,92,1
+kindersley,ca,51,-109,-13,84,75,10
+aksay,kz,47,39,1,93,40,6
+santa marinella,it,42,11,11,76,0,1
+macomer,it,40,8,15,58,0,7
+langenburg,ca,50,-101,-11,71,0,4
+kroya,id,-6,108,24,96,68,1
+valvedditturai,lk,9,80,26,99,20,5
+pinega,ru,64,43,-4,75,76,3
+colchester,ca,51,0,5,81,0,4
+katrineholm,se,59,16,0,89,24,4
+wolgast,de,54,13,5,95,0,9
+ilheus,br,-14,-39,24,94,40,4
+porto belo,br,-27,-48,23,73,75,7
+valle de allende,mx,26,-105,10,66,0,2
+jerome,us,34,-112,5,39,1,4
+musoma,tz,-1,33,18,100,92,3
+teya,ru,21,-89,24,73,75,3
+sun city west,us,33,-112,18,42,20,1
+srisailam,in,16,78,17,98,0,1
+masvingo,zw,-20,30,18,100,92,1
+andarab,af,,,,,,
+labytnangi,ru,66,66,-13,75,64,3
+suoyarvi,ru,62,32,-2,87,92,2
+wentzville,us,38,-90,-2,77,1,4
+liberal,us,37,-100,1,58,1,3
+jiaojiang,cn,,,,,,
+araguaina,br,-7,-48,22,97,64,1
+venezuela,cu,21,-78,25,85,0,2
+tanout,ne,14,8,14,38,0,5
+cap-chat,ca,49,-66,-9,100,76,4
+oyo,ng,7,3,24,54,20,2
+muslyumovo,ru,55,53,-5,90,88,3
+karlskrona,se,56,15,0,89,56,2
+baghdad,iq,33,44,12,100,75,3
+shchuchye,ru,,,,,,
+kuala lipis,my,4,102,22,99,64,1
+rancho palos verdes,us,33,-118,17,63,75,2
+big rapids,us,43,-85,-3,86,90,2
+chik,ru,54,82,-23,76,12,1
+balabac,ph,7,117,27,100,8,7
+algiers,dz,29,-90,6,78,90,3
+tumut,au,-35,148,20,85,88,1
+savinskiy,ru,62,40,-6,79,76,3
+south valley,us,35,-106,2,50,1,3
+ouallam,ne,14,2,13,51,0,1
+chaumont,fr,48,5,7,81,90,4
+rocky mountain house,ca,52,-114,0,36,80,3
+itamaraca,br,-7,-34,26,83,40,3
+anisoc,gq,1,10,21,98,80,0
+deniliquin,au,-35,144,24,82,36,2
+padrauna,in,26,83,7,80,0,1
+pteleos,gr,39,22,9,70,75,1
+haapiti,pf,-17,-149,30,70,75,6
+zhaoyang,cn,42,126,-21,57,36,1
+cape town,za,-33,18,16,77,0,2
+changping,cn,40,116,-6,53,0,4
+thomasville,us,35,-80,0,92,90,4
+casino,au,-28,153,27,45,48,2
+norton shores,us,43,-86,-2,78,90,2
+harrismith,za,-28,29,11,97,92,3
+show low,us,34,-110,1,64,1,2
+bustonkala,tj,,,,,,
+karaul,ru,,,,,,
+toungoo,mm,,,,,,
+kirkwall,gb,58,-2,2,100,32,10
+niono,ml,14,-5,15,60,0,1
+puerto escondido,mx,15,-97,27,74,40,1
+ourossogui,sn,15,-13,24,31,0,1
+azar shahr,ir,,,,,,
+van,tr,38,43,3,64,40,1
+chifeng,cn,42,118,-19,58,32,2
+lunenburg,ca,42,-71,-2,57,1,1
+luebo,cd,-5,21,20,97,88,0
+saryshagan,kz,,,,,,
+wazzan,ma,,,,,,
+sulangan,ph,11,123,27,99,36,6
+rawah,iq,,,,,,
+tansen,np,27,83,6,79,0,1
+ambulu,id,-8,113,26,100,80,1
+sooke,ca,48,-123,7,87,90,2
+parangan,ph,5,119,29,98,48,2
+maku,ir,39,44,-1,100,0,2
+qianan,cn,44,124,-25,62,8,1
+fiche,et,9,38,6,87,0,1
+camacupa,ao,-12,17,16,95,56,1
+aljezur,pt,37,-8,14,100,20,2
+spring hill,us,28,-82,19,75,90,5
+ust-ordynskiy,ru,52,104,-32,39,12,1
+ulkan,ru,57,107,-29,60,68,1
+mackenzie,ca,55,-123,-5,85,75,2
+urozhaynoye,ru,47,142,-4,87,12,6
+oyotun,pe,-6,-79,19,29,40,7
+soe,id,57,26,2,93,90,5
+borujerd,ir,33,48,1,86,20,0
+durusu,tr,37,40,7,93,75,2
+nagai,jp,38,139,0,88,75,5
+hauterive,ca,46,3,8,70,75,2
+albanel,ca,48,-72,-13,84,90,4
+cheyenne,us,41,-104,-2,42,1,7
+san rafael del sur,ni,11,-86,28,65,40,5
+quincy,us,30,-84,9,100,90,4
+chisec,gt,15,-90,22,67,12,0
+lufkin,us,31,-94,5,88,40,2
+port blair,in,11,92,27,100,80,5
+mtambile,tz,-5,39,27,100,20,3
+cabedelo,br,-6,-34,26,88,20,2
+arkansas city,us,37,-97,2,63,1,1
+vanderhoof,ca,54,-124,-3,79,12,2
+buariki,ki,,,,,,
+odessa,us,31,-102,4,73,1,2
+uvalde,us,29,-99,9,50,1,2
+tuapse,ru,44,39,10,62,64,3
+poum,nc,41,20,-6,81,56,0
+skagastrond,is,,,,,,
+salto,uy,-31,-57,24,62,32,1
+tunghsiao,tw,,,,,,
+taksimo,ru,56,114,-33,40,24,0
+carandai,br,-20,-43,16,86,80,5
+erzincan,tr,39,39,1,96,75,2
+banikoara,bj,11,2,17,48,0,3
+starachowice,pl,51,21,4,98,80,5
+zachary,us,30,-91,5,85,90,4
+goulburn,au,-34,149,22,83,80,1
+hargeysa,so,9,44,7,77,0,2
+somotillo,ni,13,-86,27,53,0,2
+rock hill,us,34,-81,1,100,90,3
+arlit,ne,18,7,14,43,0,4
+beidao,cn,34,105,-9,81,80,0
+hoquiam,us,46,-123,7,96,90,6
+kankaanpaa,fi,61,22,3,93,92,5
+salmas,ir,38,44,-3,92,0,3
+emba,kz,34,32,16,68,75,3
+irbil,iq,,,,,,
+oudtshoorn,za,-33,22,13,93,0,1
+pitkyaranta,ru,61,31,-1,93,92,4
+powell river,ca,49,-124,7,93,90,7
+houma,us,35,111,-8,81,88,1
+okha,ru,53,142,-7,94,64,9
+carnduff,ca,49,-101,-5,79,0,4
+escanaba,us,45,-87,-3,87,1,3
+suleja,ng,9,7,21,77,0,1
+sao raimundo nonato,br,,,,,,
+bunbury,au,53,-2,6,93,75,4
+thompson,ca,55,-97,-17,84,5,1
+entre rios,br,-11,-38,25,92,92,3
+wuzhou,cn,23,111,6,100,92,1
+bukama,cd,-9,25,19,99,92,1
+freilassing,de,47,12,6,75,75,6
+perene,pe,-10,-75,23,82,20,0
+keti bandar,pk,24,67,25,94,8,5
+tulua,co,12,4,19,37,0,4
+minot,us,48,-101,-5,77,1,4
+urucara,br,-2,-57,25,90,24,1
+serebryansk,kz,49,83,-24,56,0,0
+lakselv,no,70,24,-7,92,75,5
+bertoua,cm,4,13,18,83,0,1
+abidjan,ci,5,-4,29,79,20,2
+horki,by,54,30,0,97,88,5
+ayolas,py,-27,-56,24,69,8,3
+polyarnyy,ru,69,33,-3,92,75,1
+ous,ru,60,61,-13,83,44,1
+traipu,br,-9,-37,25,79,88,4
+uruzgan,af,32,66,-12,62,0,0
+ust-uda,ru,54,103,-32,38,20,1
+pop,uz,40,71,2,80,92,2
+bozdar,pk,27,68,14,93,0,4
+carnarvon,au,-30,22,11,65,0,5
+buritis,br,-15,-46,18,97,92,4
+sanghar,pk,28,68,14,94,0,2
+claresholm,ca,50,-113,1,59,90,10
+caluquembe,ao,-13,14,11,90,0,1
+malkara,tr,40,26,3,100,88,1
+paidha,ug,2,30,20,73,92,1
+puerto lopez,co,,,,,,
+changli,cn,30,105,2,95,32,1
+marsani,ro,44,24,-2,100,75,1
+san jose de buan,ph,12,125,26,94,24,2
+ratnagiri,in,16,73,25,100,0,4
+jimenez,mx,8,-82,26,88,0,1
+chimbote,pe,-9,-78,19,90,0,2
+praya,id,-8,116,27,100,0,2
+kumla,se,59,15,0,89,12,1
+williamsburg,us,37,-76,2,100,90,4
+stolac,ba,43,17,8,70,20,7
+sabla,bg,12,4,19,37,0,4
+iznoski,ru,54,35,0,98,92,3
+miquelon,pm,47,-56,-1,80,75,15
+corowa,au,-36,146,28,22,36,3
+beya,ru,53,90,-25,61,0,0
+maarianhamina,fi,,,,,,
+xiangfan,cn,,,,,,
+balvi,lv,57,27,0,96,88,6
+cheremukhovo,ru,56,46,-6,94,80,3
+bolshaya vishera,ru,,,,,,
+hualmay,pe,-11,-77,19,81,0,2
+songling,cn,31,120,9,93,75,5
+rosarito,mx,4,-75,23,88,20,2
+tres lagoas,br,,,,,,
+formoso do araguaia,br,,,,,,
+trabzon,tr,41,39,18,27,0,9
+jiaozuo,cn,35,113,-9,78,68,1
+mtwara,tz,-10,40,26,94,40,3
+barillas,gt,41,-1,9,70,90,3
+potosi,bo,-19,-65,7,61,80,0
+antigonish,ca,45,-61,-9,78,20,6
+kovernino,ru,57,43,-5,89,88,4
+rognan,no,67,15,0,99,75,3
+igarka,ru,67,86,-14,85,88,4
+atuona,pf,-9,-139,26,100,0,6
+casa nova,br,-11,-39,25,74,68,5
+zhanaozen,kz,43,52,-2,83,12,2
+poso,id,-1,120,27,100,32,0
+dallas,us,32,-96,6,60,1,2
+puerto ayacucho,ve,5,-67,29,62,0,2
+lipin bor,ru,60,37,-5,88,80,6
+nimaparha,in,20,86,15,93,0,1
+kareli,in,22,79,16,97,64,2
+albion,mu,41,-98,-7,80,1,1
+bermeo,es,43,-2,9,93,92,1
+normandin,ca,48,-72,-13,84,90,4
+mlonggo,id,-6,110,25,100,20,2
+tsabong,bw,-26,22,18,18,0,5
+san fernando,mx,10,-61,25,83,20,2
+barbar,sd,,,,,,
+vychegodskiy,ru,61,46,-5,88,68,2
+labuan,my,5,115,28,74,75,1
+balingasay,ph,16,119,26,100,0,3
+bien hoa,vn,10,106,27,83,20,3
+arnedo,es,42,-2,9,76,0,3
+fortuna foothills,us,32,-114,17,69,1,3
+kermanshah,ir,34,47,2,100,40,1
+scarborough,tt,54,0,3,86,0,3
+mailsi,pk,29,72,12,97,44,1
+sarkand,kz,45,79,-9,58,68,0
+nevelsk,ru,46,141,-5,79,75,4
+jacmel,ht,18,-72,26,78,20,6
+nam tha,la,,,,,,
+fethiye,tr,36,29,13,87,75,4
+camapua,br,-19,-54,28,33,0,4
+guarapari,br,-20,-40,22,88,75,1
+somerset,us,37,-84,0,100,90,4
+santo antonio do leverger,br,-15,-56,24,94,0,1
+bonnyville,ca,54,-110,-11,92,5,2
+smolensk,ru,54,32,0,96,80,5
+dzheguta,ru,43,42,-3,48,44,1
+musenita,ro,47,26,1,86,68,2
+chabahar,ir,25,60,23,100,0,6
+peace river,ca,56,-117,-8,78,90,2
+frederiksvaerk,dk,55,12,4,98,20,5
+mount barker,au,-35,138,25,31,0,6
+moerai,pf,-22,-151,26,100,80,8
+coolum beach,au,-26,153,24,81,64,3
+gari,ru,59,62,-12,75,48,1
+ayr,au,55,-4,3,87,40,2
+palmares do sul,br,-30,-50,22,67,64,5
+camabatela,ao,-8,15,19,96,92,1
+beatrice,us,40,-96,-2,79,1,1
+volksrust,za,-27,29,12,100,92,2
+xiaolingwei,cn,32,118,4,100,90,2
+smirnykh,ru,49,142,-10,63,8,5
+high rock,bs,26,-78,26,83,75,4
+osmena,ph,12,124,26,94,24,2
+skotterud,no,59,12,0,82,68,5
+kagadi,ug,0,30,21,100,64,2
+tangshan,cn,39,118,-16,57,0,1
+villacarrillo,es,38,-3,1,80,0,1
+vostok,ru,46,135,-22,64,20,1
+bosobolo,cd,4,19,19,87,0,1
+katobu,id,-4,122,28,98,44,1
+saurimo,ao,-9,20,18,99,88,1
+ivanovo,ru,57,40,-4,93,88,6
+sitrah,bh,26,50,20,60,0,2
+freeport,us,26,-78,26,83,75,4
+karoi,zw,-16,29,17,98,68,1
+piranshahr,ir,36,45,-1,100,48,0
+cumaribo,co,,,,,,
+votkinsk,ru,57,53,-5,93,88,2
+port-de-paix,ht,,,,,,
+desbiens,ca,48,-71,-13,84,90,4
+vitim,ru,59,112,-22,62,68,3
+raipur,in,21,81,20,77,40,1
+kracheh,kh,,,,,,
+novyy urgal,ru,51,132,-34,47,64,1
+pytalovo,ru,57,27,0,97,80,5
+vodnyy,ru,63,53,-6,86,88,2
+laramie,us,41,-105,-5,87,1,2
+statesville,us,35,-80,0,95,90,3
+migori,ke,-1,34,17,100,92,1
+batabano,cu,22,-82,23,94,75,2
+nsoko,sz,-27,31,18,98,92,4
+touba,ci,14,-15,21,43,0,3
+nizhneyansk,ru,,,,,,
+soyo,ao,-6,12,22,98,68,1
+torzhok,ru,57,34,-2,96,80,2
+tuzha,ru,28,109,-2,91,92,1
+samfya,zm,-11,29,18,100,80,3
+kundiawa,pg,-6,144,19,86,76,0
+khor,qa,47,134,-24,77,24,2
+beruni,uz,,,,,,
+cottonwood,us,34,-112,5,39,1,4
+nueva loja,ec,0,-76,24,89,48,0
+acatlan,mx,,,,,,
+masumbwe,tz,-3,32,16,98,68,1
+shurugwi,zw,-19,30,18,100,92,1
+vangaindrano,mg,-23,47,21,92,32,1
+belokurikha,ru,52,84,-27,26,0,1
+papara,pf,-3,-38,28,78,75,3
+bossembele,cf,,,,,,
+inderborskiy,kz,,,,,,
+pleasanton,us,37,-121,11,74,1,4
+do rud,ir,,,,,,
+eura,fi,61,22,3,93,92,5
+mao,td,19,-71,24,88,20,5
+libertad,ph,-34,-56,21,64,90,4
+khislavichi,ru,54,32,0,96,80,4
+graham,us,36,-79,0,88,90,7
+kaspiyskiy,ru,45,47,-1,100,12,5
+kemijarvi,fi,,,,,,
+krasnovka,ru,48,40,1,95,92,5
+shieli,kz,44,66,0,98,92,3
+zwedru,lr,6,-8,23,89,0,3
+mangrol,in,25,76,11,76,64,2
+ruidoso,us,33,-105,5,44,1,5
+dokka,no,60,10,0,66,88,2
+malangali,tz,-8,34,16,95,44,0
+balimo,pg,,,,,,
+baisha,cn,19,109,17,97,88,2
+kegayli,uz,,,,,,
+khilok,ru,51,110,-28,74,64,1
+suhbaatar,mn,50,106,-29,28,12,0
+anuchino,ru,43,133,-22,61,0,1
+ribeira grande,pt,38,-28,18,93,75,6
+xiaoweizhai,cn,26,107,-3,99,92,1
+paluan,ph,13,120,25,100,8,2
+nova serrana,br,-19,-44,22,62,80,4
+liuzhou,cn,24,109,2,100,92,3
+magadi,ke,12,77,17,93,20,1
+okoneshnikovo,ru,54,75,-21,60,36,1
+bani walid,ly,31,14,7,91,0,3
+suruc,tr,36,38,7,100,75,0
+mbanza-ngungu,cd,-5,14,19,94,64,1
+port townsend,us,48,-122,7,93,90,2
+copalillo,mx,18,-99,24,41,8,0
+onalaska,us,43,-91,-8,74,1,2
+amazar,ru,53,120,-33,43,0,1
+shenzhen,cn,22,114,13,76,90,8
+eyemouth,gb,55,-2,4,100,0,5
+shizilu,cn,21,109,9,100,100,7
+changtu,cn,42,124,-20,56,24,1
+chitral,pk,35,71,-9,82,76,0
+gravatai,br,-29,-50,21,77,0,3
+ulcinj,me,41,19,9,100,92,3
+stepankovice,cz,49,18,5,86,0,7
+potiskum,ng,11,11,18,41,0,3
+balikpapan,id,-1,116,28,100,0,1
+oeiras do para,br,-2,-49,23,100,92,0
+moissala,td,8,17,19,63,0,1
+sidi qasim,ma,,,,,,
+iraucuba,br,-3,-39,25,84,76,2
+caiaponia,br,-16,-51,19,93,48,1
+clarksburg,us,39,-77,0,68,75,4
+hudson bay,ca,52,-102,-8,85,0,2
+san carlos del zulia,ve,9,-71,29,63,0,2
+dunhua,cn,43,128,-22,60,0,1
+loviisa,fi,60,26,1,100,90,5
+kakonko,tz,-3,30,16,99,88,1
+pietarsaari,fi,,,,,,
+treuchtlingen,de,48,10,4,91,1,5
+pocone,br,-16,-56,25,81,48,3
+wakkanai,jp,45,141,-5,92,75,9
+dossor,kz,47,52,-7,87,88,1
+dhidhdhoo,mv,6,73,28,100,0,1
+mahina,pf,13,-10,18,45,0,2
+stokmarknes,no,68,14,1,100,80,6
+curillo,co,1,-75,21,92,36,0
+trairi,br,-3,-39,27,99,80,5
+gualeguay,ar,-33,-59,23,63,0,2
+sinop,tr,42,35,12,93,80,6
+kirkwood,za,-33,25,13,82,0,1
+zhireken,ru,52,117,-35,53,12,0
+kushmurun,kz,,,,,,
+galgani,sd,,,,,,
+acayucan,mx,17,-94,22,88,90,10
+deulgaon raja,in,20,76,18,55,8,1
+shellbrook,ca,53,-106,-10,72,20,3
+mbuji-mayi,cd,-6,23,20,99,92,0
+mitsamiouli,km,-11,43,27,97,32,4
+guderup,dk,54,9,5,75,76,6
+sarlat-la-caneda,fr,44,1,7,93,90,2
+aiquile,bo,-18,-65,17,58,88,1
+kerrville,us,30,-99,4,75,1,1
+daoukro,ci,7,-3,21,85,24,0
+othonoi,gr,,,,,,
+urambo,tz,-5,32,18,96,92,1
+anamur,tr,36,32,13,93,75,1
+goldsboro,us,35,-77,3,95,90,10
+rafai,cf,4,23,21,67,0,3
+vaxjo,se,,,,,,
+turinsk,ru,58,63,-16,69,32,1
+tupancireta,br,-29,-53,21,53,8,2
+nassau,bs,51,13,5,75,75,6
+sarreguemines,fr,49,7,5,86,75,6
+dapaong,tg,10,0,20,44,0,3
+fallon,us,46,-105,-3,70,1,4
+yurla,ru,59,54,-6,91,76,2
+salme,ee,13,19,15,36,0,3
+lake city,us,38,-107,-3,35,1,1
+sonari,in,27,95,11,87,20,1
+el terrero,hn,29,-107,7,74,0,1
+kafanchan,ng,9,8,17,48,0,2
+tula,mx,54,37,0,96,92,5
+anzhero-sudzhensk,ru,56,86,-24,76,20,1
+setermoen,no,68,18,-14,92,88,4
+haverfordwest,gb,51,-4,8,81,0,9
+dolores,ar,-36,-57,17,99,92,2
+inndyr,no,67,14,0,100,75,3
+matsanga,cg,,,,,,
+edd,er,13,41,18,91,0,0
+el dorado,us,6,-61,22,96,92,1
+primo tapia,mx,32,-116,17,72,1,2
+borgarnes,is,64,-21,1,80,75,7
+fort saint james,ca,54,-124,-4,80,68,2
+saint andrews,ca,-44,171,11,100,88,1
+sirjan,ir,29,55,-2,72,8,1
+camara de lobos,pt,32,-16,17,77,40,2
+plaster rock,ca,46,-67,-10,80,90,2
+namanyere,tz,-7,31,16,100,92,0
+mali,gn,27,102,2,46,0,0
+san jose de guanipa,ve,8,-64,28,49,24,6
+pointe michel,dm,15,-61,24,83,75,3
+barabinsk,ru,55,78,-22,49,0,2
+takab,ir,36,47,-7,82,20,0
+pingzhuang,cn,,,,,,
+chase,ca,43,-85,-2,86,90,2
+sicuani,pe,-14,-71,8,25,44,2
+el triunfo,ec,13,-86,27,53,0,2
+skegness,gb,53,0,3,86,0,4
+saint anthony,ca,43,-111,-10,70,1,2
+reefton,nz,,,,,,
+grenfell,ca,-33,148,24,62,100,1
+khormuj,ir,,,,,,
+catalao,br,-18,-47,20,79,36,5
+mungaa,tz,-4,34,16,94,92,1
+mikuni,jp,36,136,5,80,40,3
+hovd,mn,63,10,1,100,75,4
+cehegin,es,38,-1,2,78,0,1
+beringovskiy,ru,63,179,-14,100,36,11
+manzil tamim,tn,,,,,,
+badulla,lk,6,81,19,98,56,0
+pompeu,br,-21,-48,28,39,0,2
+sucre,co,-19,-65,15,42,88,1
+shangzhi,cn,45,127,-25,62,0,1
+la ronge,ca,55,-105,-5,79,20,3
+hunza,pk,,,,,,
+prachatice,cz,49,14,2,95,76,7
+khorion,gr,,,,,,
+kokopo,pg,-4,152,29,95,32,2
+benidorm,es,38,0,13,54,0,2
+nazarovo,ru,56,90,-17,73,12,4
+sibolga,id,1,98,21,100,32,1
+abbeville,us,50,1,6,76,75,5
+gescher,de,51,7,5,80,20,6
+uk,ru,,,,,,
+athabasca,ca,54,-113,-11,70,0,1
+ofaqim,il,31,34,4,89,12,1
+safford,us,32,-109,10,51,1,1
+wieliczka,pl,49,20,5,86,75,5
+oleksandrivka,ua,48,32,0,99,80,2
+gadsden,us,34,-86,4,100,90,3
+istanbul,tr,41,28,10,93,75,3
+alpena,us,45,-83,-1,78,90,2
+fereydunshahr,ir,32,50,-13,62,0,1
+robertsport,lr,6,-11,28,100,0,4
+acacias,co,5,-74,19,97,36,0
+ormara,pk,25,64,21,95,0,4
+manzil salim,tn,35,8,4,79,0,2
+ensenada,mx,31,-116,18,50,8,0
+demmin,de,53,13,5,80,75,8
+coro,ve,11,-69,25,79,0,5
+lohja,fi,60,24,3,93,75,4
+worland,us,44,-107,-7,83,1,2
+kozhevnikovo,ru,56,83,-25,64,0,1
+umarizal,br,-5,-37,22,98,64,1
+monze,zm,-16,27,18,98,88,4
+sabang,id,13,123,24,100,68,2
+dudinka,ru,69,86,-14,84,76,7
+eucaliptus,bo,-17,-67,7,92,88,2
+manzanillo,mx,20,-77,26,100,0,3
+kedrovyy,ru,56,91,-21,83,44,3
+sumbe,ao,-11,13,22,100,0,1
+isabela,us,10,122,26,85,8,1
+tazmalt,dz,36,4,9,87,0,4
+arvin,us,35,-118,12,77,1,2
+kota,in,25,75,11,76,20,1
+parintins,br,-2,-56,24,93,12,1
+cedral,mx,23,-100,12,61,0,1
+lidkoping,se,58,13,1,92,80,5
+kathmandu,np,27,85,5,100,20,1
+paysandu,uy,-32,-58,23,65,76,2
+ibiapina,br,-3,-40,22,98,80,1
+priiskovyy,ru,51,116,-38,0,32,0
+policoro,it,40,16,11,93,40,3
+cerrik,al,41,19,9,87,90,4
+siderno,it,38,16,16,63,40,8
+rawson,ar,-43,-65,25,27,0,3
+tsienyane,bw,,,,,,
+waipawa,nz,-39,176,21,61,0,6
+erie,us,42,-80,-6,81,1,1
+key largo,us,25,-80,24,84,1,5
+gresham,us,45,-122,3,85,90,10
+bocas del toro,pa,9,-82,26,100,76,3
+dhankuta,np,26,87,9,75,0,1
+nha trang,vn,12,109,29,79,20,4
+macia,mz,-25,33,22,99,92,3
+agustin codazzi,co,10,-73,25,58,88,0
+ust-ishim,ru,57,71,-16,79,76,2
+amalfi,co,6,-75,23,84,32,0
+batemans bay,au,-35,150,22,85,68,0
+great falls,us,47,-111,1,48,1,6
+lena,es,32,-89,2,100,90,3
+tingi,tz,-11,35,22,100,56,3
+preobrazheniye,ru,42,133,-19,72,0,1
+calamar,co,1,-72,27,64,80,1
+bathurst,ca,-33,149,23,68,76,1
+bend,us,44,-121,2,64,1,2
+wahran,dz,,,,,,
+san alberto,py,-24,-54,24,53,0,2
+khakhea,bw,-24,23,21,16,12,6
+krasnorechenskiy,ru,44,135,-14,48,0,4
+werneck,de,49,10,3,93,1,5
+birao,cf,10,22,18,38,0,4
+lumut,my,-8,120,26,91,0,1
+wampusirpi,hn,,,,,,
+san quintin,mx,17,120,23,79,0,2
+obo,cf,5,26,14,82,20,1
+malanje,ao,-9,16,19,89,92,2
+valkeakoski,fi,61,24,2,100,90,3
+meilu,cn,,,,,,
+cardston,ca,49,-113,1,59,90,10
+provost,ca,52,-110,-18,54,0,1
+bechem,gh,7,-2,24,81,48,4
+dunoon,gb,55,-4,3,100,44,1
+plast,ru,54,60,-19,50,12,1
+mathbaria,bd,22,89,15,93,0,3
+kirovskiy,ru,45,133,-20,56,0,1
+angouleme,fr,45,0,7,93,0,2
+cape coast,gh,5,-1,24,91,68,1
+serowe,bw,-22,26,18,96,48,6
+vazhiny,ru,60,34,-3,87,92,2
+mbacke,sn,,,,,,
+polonnaruwa,lk,7,81,21,94,48,1
+ormstown,ca,45,-73,0,68,20,6
+chute-aux-outardes,ca,49,-68,-11,85,90,2
+buciumi,ro,46,26,0,70,90,4
+birr,ie,53,-7,4,92,0,4
+nova olimpia,br,-14,-57,27,81,8,2
+tukan,ru,53,57,-7,74,80,1
+helsinki,fi,60,24,3,93,75,4
+la seyne-sur-mer,fr,43,5,11,44,0,8
+xixiang,cn,22,113,13,76,90,8
+massena,us,44,-74,0,69,90,4
+asimion,gr,35,25,15,72,40,4
+cabanbanan,ph,10,122,26,85,8,1
+seybaplaya,mx,19,-90,25,78,90,5
+gbadolite,cd,4,21,22,85,32,1
+les cayes,ht,18,-73,27,100,20,9
+singkang,id,2,102,28,83,75,2
+sari,ir,36,53,12,93,0,0
+arman,ru,59,150,-15,62,0,5
+zaranj,af,30,61,9,49,0,4
+blejoi,ro,44,26,0,75,90,2
+bridgewater,us,41,-70,0,60,1,1
+la libertad,sv,-16,-71,8,47,8,1
+rochelle,us,41,-89,-6,93,1,2
+herat,af,34,62,0,81,0,1
+wanning,cn,48,13,6,87,75,8
+cangucu,br,-31,-52,24,45,88,3
+naberera,tz,-4,36,17,100,92,1
+zaysan,kz,47,84,-28,25,0,0
+brigantine,us,39,-74,0,66,1,2
+linguere,sn,,,,,,
+dom pedrito,br,-30,-54,21,46,8,3
+phun phin,th,,,,,,
+katete,zm,0,29,15,95,88,0
+myaundzha,ru,63,147,-38,66,20,1
+kainantu,pg,-6,145,19,95,76,0
+norman wells,ca,65,-126,-14,92,75,4
+jieshou,cn,33,115,-2,71,100,3
+sisophon,kh,13,102,23,71,24,4
+mirnyy,ru,56,36,0,95,88,4
+havre-saint-pierre,ca,50,-63,-14,84,90,2
+tynset,no,62,10,-1,92,76,6
+laiyang,cn,36,120,-11,72,20,1
+lusambo,cd,-4,23,21,98,80,0
+ballina,au,54,-9,5,99,8,3
+bolsheustikinskoye,ru,,,,,,
+vozdvizhenka,ru,56,60,-17,84,32,2
+aden,ye,12,45,25,100,68,4
+sumbawa,id,,,,,,
+ashford,gb,51,0,6,87,0,4
+virginia beach,us,36,-75,5,95,90,10
+ericeira,pt,38,-9,11,87,0,3
+dori,bf,14,0,14,61,8,1
+belle glade,us,26,-80,21,91,40,4
+north platte,us,41,-100,-5,80,1,3
+vicksburg,us,32,-90,3,88,90,2
+rio bravo,mx,14,-91,28,69,40,2
+marathopolis,gr,,,,,,
+clervaux,lu,50,6,2,100,56,5
+bilaspur,in,22,82,14,89,32,1
+guajara,br,0,-48,25,88,0,2
+nanao,jp,37,136,3,100,20,2
+surat,in,21,72,16,87,0,3
+barreirinhas,br,-2,-42,25,84,44,3
+ciras,af,,,,,,
+omutinskoye,ru,,,,,,
+ukiah,us,39,-123,12,71,90,1
+grants pass,us,42,-123,6,100,90,1
+ardahan,tr,,,,,,
+hollins,us,37,-79,-1,84,90,4
+varhaug,no,58,5,3,86,75,7
+mazabuka,zm,-15,27,17,99,88,4
+nanakuli,us,21,-158,25,68,1,8
+viganello,ch,46,8,6,80,0,3
+contamana,pe,-7,-75,26,79,0,1
+kenora,ca,49,-94,-10,85,40,5
+sagna,ro,46,27,0,67,90,4
+bongaree,au,-27,153,27,61,20,4
+lexington,us,38,-84,1,79,40,1
+povarovo,ru,56,37,-1,100,90,3
+oster,ua,50,30,0,99,68,5
+dasoguz,tm,41,59,-5,79,0,2
+ejido,ve,8,-71,16,70,20,0
+crab hill,bb,,,,,,
+olean,us,42,-78,-6,73,1,2
+djenne,ml,13,-4,15,64,0,1
+seaham,gb,54,-1,2,100,0,2
+thayetmyo,mm,19,95,19,98,24,2
+hattiesburg,us,31,-89,3,85,90,4
+porto velho,br,-8,-63,26,88,40,2
+turan,ru,52,93,-33,41,12,0
+witbank,za,-25,29,15,88,80,3
+findochty,gb,57,-2,3,75,75,4
+qostanay,kz,53,63,-23,76,0,1
+am timan,td,11,20,19,39,0,3
+gravdal,no,59,5,3,80,88,10
+asau,tv,,,,,,
+tizimin,mx,21,-88,25,76,48,4
+seoul,kr,37,126,-5,45,0,1
+barawe,so,,,,,,
+baoying,cn,33,119,4,100,92,5
+south lake tahoe,us,38,-119,0,88,20,0
+kyren,ru,51,102,-36,53,0,0
+zhenlai,cn,45,123,-24,41,0,1
+straumen,no,63,11,-1,100,75,4
+durban,za,43,0,9,76,90,4
+rumphi,mw,-11,33,16,95,80,1
+dawlatabad,af,36,64,5,99,80,0
+lukovetskiy,ru,64,41,-4,85,90,4
+alto araguaia,br,-17,-53,22,81,12,3
+raudeberg,no,61,5,4,100,92,11
+king city,us,36,-121,13,71,1,1
+popondetta,pg,-8,148,25,80,56,0
+nanga eboko,cm,4,12,21,82,36,1
+purgstall,at,48,15,3,100,92,6
+saquena,pe,-4,-73,26,87,12,1
+moa,cu,20,-74,23,81,0,0
+lewistown,us,40,-90,-5,89,1,3
+domna,ru,51,113,-32,67,36,1
+nuevo progreso,mx,26,-97,11,61,75,4
+east wenatchee bench,us,47,-120,0,92,90,1
+chaiyaphum,th,15,102,21,74,48,4
+novikovo,ru,45,34,0,100,92,1
+itupiranga,br,-5,-49,26,94,75,1
+poopo,bo,-18,-66,16,56,92,1
+beaverlodge,ca,55,-119,-6,85,75,1
+corinto,ni,-18,-44,20,72,92,3
+california city,us,35,-117,11,71,1,1
+betwagan,ph,17,120,20,89,80,1
+angol,cl,-37,-72,16,63,44,1
+belawan,id,0,114,22,100,88,1
+lafiagi,ng,8,5,23,71,0,2
+barbastro,es,42,0,7,75,0,7
+karlshamn,se,56,14,1,89,24,2
+radcliff,us,37,-85,1,57,40,2
+lephepe,bw,,,,,,
+quesnel,ca,52,-122,4,60,90,4
+qunduz,af,,,,,,
+nuqui,co,5,-77,28,83,20,1
+marshall,us,39,-87,-3,82,1,1
+quetta,pk,30,67,-2,74,0,1
+norilsk,ru,69,88,-18,77,76,3
+moron,cu,10,-68,21,79,0,1
+baraki barak,af,33,68,-5,89,36,1
+leshan,cn,,,,,,
+siedlce,pl,52,22,4,98,92,5
+carballo,es,43,-8,6,100,90,2
+berlevag,no,70,29,-2,100,92,1
+stupino,ru,54,38,0,96,90,4
+chancay,pe,-11,-77,21,77,0,4
+arteaga,mx,25,-100,10,81,5,1
+kimberley,za,-28,24,15,58,0,5
+rosendal,no,59,17,0,100,56,2
+hasaki,jp,35,140,5,56,75,4
+jishu,cn,44,126,-23,69,0,0
+pontianak,id,0,109,26,93,48,0
+betong,th,5,101,22,96,36,1
+rengo,cl,-34,-70,22,49,0,2
+oruro,bo,-17,-67,9,97,88,1
+east stroudsburg,us,41,-75,-3,77,1,4
+devavanya,hu,47,20,4,80,0,3
+santa cruz de tenerife,es,28,-16,19,34,0,5
+idanre,ng,7,5,23,89,20,1
+brynmawr,gb,51,-3,7,87,75,6
+moussoro,td,13,16,18,29,0,6
+boissevain,ca,49,-100,-6,79,1,4
+naron,es,43,-8,5,100,90,2
+la gaulette,mu,,,,,,
+tunceli,tr,39,39,4,75,75,3
+rongai,ke,0,35,13,95,92,0
+kabalo,cd,-6,26,20,100,100,1
+tzucacab,mx,20,-89,27,57,56,1
+potgietersrus,za,,,,,,
+westlock,ca,54,-113,-5,67,90,4
+kokologo,bf,12,-1,22,35,0,2
+chirongui,yt,-12,45,28,78,0,3
+dana point,us,33,-117,16,72,1,0
+kuznechnoye,ru,61,29,0,91,92,4
+yorosso,ml,12,-4,15,44,0,1
+kamsack,ca,51,-101,-9,78,75,3
+sarakhs,ir,36,61,8,93,88,2
+blackfoot,us,43,-112,-5,80,1,1
+jinsha,cn,24,118,17,88,75,3
+singaraja,id,-8,115,24,100,24,0
+patitirion,gr,39,23,14,62,20,4
+hirtshals,dk,57,9,5,100,80,9
+san policarpo,ph,12,125,26,99,68,2
+uppsala,se,59,17,0,100,56,2
+uri,in,40,8,15,62,0,7
+banda,in,25,80,10,84,8,1
+saint augustine,us,10,-61,25,83,20,2
+liliani,pk,32,72,11,99,92,2
+sogdiondon,ru,,,,,,
+brumunddal,no,60,10,0,73,88,2
+tuyen quang,vn,21,105,11,100,92,1
+santa eulalia del rio,es,,,,,,
+salamanca,cl,40,-5,-1,100,0,2
+mukhen,ru,48,136,-20,56,76,1
+ila,ng,63,10,1,100,75,4
+san pablo,gt,14,121,30,58,20,1
+fukue,jp,35,136,8,42,75,7
+bridlington,gb,54,0,2,86,8,3
+ust-tarka,ru,55,75,-23,52,0,1
+elko,us,40,-115,-3,84,90,4
+honolulu,us,21,-157,25,56,40,7
+kultuk,ru,51,103,-24,100,0,1
+kangasala,fi,61,24,1,100,90,3
+duku,ng,11,4,21,36,0,4
+blue springs,us,39,-94,-2,79,1,1
+thanh hoa,vn,10,106,27,88,40,4
+grants,us,35,-107,-1,57,0,3
+zelenoborsk,ru,61,64,-10,89,56,1
+wuan,cn,31,112,-1,85,92,3
+kreuztal,de,50,7,5,81,75,6
+lyaskelya,ru,61,31,-1,93,92,4
+knin,hr,44,16,-1,82,36,0
+xian,cn,42,-8,7,100,20,2
+elk grove village,us,42,-87,-5,80,20,3
+cabadiangan,ph,10,123,29,74,75,5
+matam,sn,15,-13,24,31,0,1
+isla mujeres,mx,21,-86,24,94,75,1
+chake chake,tz,-5,39,27,100,20,3
+mormugao,in,,,,,,
+ondorhaan,mn,,,,,,
+salvador,br,-12,-38,28,78,40,3
+kantang,th,7,99,26,88,20,1
+madison,us,43,-89,-7,84,1,1
+gambiran,id,-7,111,23,99,56,1
+mafra,br,38,-9,11,87,0,3
+redmond,us,47,-122,5,92,90,5
+cradock,za,-32,25,5,95,0,0
+palanga,lt,44,25,-1,94,76,1
+telfs,at,47,11,1,80,75,4
+toba,jp,34,136,8,42,75,7
+nambucca heads,au,-30,152,26,61,0,9
+jablanica,bg,43,17,0,84,40,1
+kone,nc,21,96,18,88,40,1
+shubarshi,kz,48,57,-9,76,76,1
+ushuaia,ar,-54,-68,13,43,20,7
+yichang,cn,30,111,0,90,92,2
+sandavagur,fo,,,,,,
+ninh binh,vn,20,105,11,100,92,5
+ibirite,br,-20,-44,17,77,0,3
+bahir dar,et,11,37,9,82,0,0
+jiayuguan,cn,39,98,-28,44,44,0
+padre bernardo,br,,,,,,
+bhadrachalam,in,17,80,17,94,0,1
+dera bugti,pk,29,69,12,92,0,1
+shkotovo-22,ru,,,,,,
+yauya,pe,-8,-77,10,52,0,0
+neftcala,az,39,49,7,100,92,2
+karatau,kz,43,70,1,95,68,4
+verkhoturye,ru,58,60,-11,77,68,1
+mugur-aksy,ru,50,90,-35,43,0,1
+rio brilhante,br,-21,-54,26,48,0,4
+conceicao do araguaia,br,-8,-49,24,92,92,2
+cibitoke,bi,-2,29,15,100,92,0
+grafing,de,48,11,5,86,75,7
+chakwal,pk,32,72,11,100,92,1
+glarus,ch,47,9,6,86,40,3
+parkes,au,-33,148,28,43,48,2
+arraias,br,-12,-46,20,97,88,3
+xinyu,cn,27,114,2,100,92,1
+kongolo,cd,-5,27,20,97,92,0
+guamo,co,43,10,5,100,0,2
+stromness,gb,42,-79,-3,79,90,4
+bondo,cd,3,23,26,52,36,1
+marsaxlokk,mt,35,14,17,67,40,10
+forest,ca,32,-89,2,100,90,3
+new richmond,ca,48,-65,-12,78,90,1
+bonga,et,7,36,14,100,80,0
+wroclaw,pl,51,17,6,75,40,11
+iracoubo,gf,5,-53,25,77,100,2
+zavodouspenskoye,ru,56,65,-20,76,0,2
+shirak,am,40,43,0,83,75,1
+anito,ph,12,125,26,100,32,2
+guerande,fr,48,-4,8,81,40,2
+mirina,gr,,,,,,
+andenes,no,,,,,,
+ornes,no,49,5,4,87,90,6
+belem de sao francisco,br,-8,-38,20,99,80,2
+bogande,bf,12,0,15,54,0,1
+udalguri,in,26,92,6,69,0,0
+west odessa,us,31,-102,4,76,0,1
+gazni,af,,,,,,
+laranja da terra,br,-19,-41,17,81,88,2
+abrau-dyurso,ru,44,37,4,100,44,2
+chunian,pk,30,73,13,95,88,2
+amod,in,21,72,13,82,0,1
+neuquen,ar,-38,-68,24,36,0,2
+tlalnepantla,mx,19,-99,15,42,40,2
+cambrils,es,41,1,11,62,0,2
+toftir,fo,,,,,,
+udankudi,in,8,78,25,88,40,4
+korablino,ru,53,40,0,96,92,6
+oga,jp,8,5,22,79,0,1
+ketchikan,us,55,-131,7,92,90,7
+tottori,jp,35,134,2,93,75,5
+stamsund,no,,,,,,
+mbinga,tz,-10,35,19,100,56,1
+amantea,it,39,16,8,100,90,6
+pampa,us,35,-100,4,41,40,1
+imisli,az,,,,,,
+puqi,cn,29,113,2,100,92,2
+de aar,za,-30,24,13,67,0,6
+barra patuca,hn,15,-84,26,100,68,3
+arica,cl,-18,-70,18,68,0,1
+panjab,af,34,67,-18,100,24,0
+bentiu,sd,,,,,,
+saint simons,us,31,-81,9,82,90,3
+abdanan,ir,32,47,4,95,0,1
+barao de melgaco,br,-16,-55,24,94,0,1
+mamou,gn,10,-12,16,77,0,1
+linjiang,cn,41,126,-25,61,36,1
+quime,bo,-16,-67,15,57,68,0
+batavia,us,43,-78,-3,81,90,4
+mweka,cd,-4,21,21,95,100,1
+aasiaat,gl,68,-52,-8,100,32,4
+zarya,ru,45,39,0,87,8,3
+qingyuan,cn,27,119,4,100,92,1
+artvin,tr,41,41,11,50,0,10
+recodo,ph,13,121,22,100,76,1
+siocon,ph,11,124,27,100,0,3
+hayesville,us,35,-83,2,100,90,2
+kuantan,my,3,103,27,88,75,1
+brazzaville,cg,-4,15,25,83,40,2
+krasnyy bogatyr,ru,56,41,-2,93,88,6
+mihijam,in,23,86,13,87,0,2
+mercedes,ar,-33,-58,21,82,36,1
+calafat,ro,43,22,-2,92,56,1
+bay city,us,43,-83,-3,85,1,1
+lichinga,mz,-13,35,18,100,40,1
+povenets,ru,62,34,-4,88,92,4
+tonantins,br,-2,-67,24,93,80,2
+wanganui,nz,-39,175,20,80,8,4
+portsmouth,us,50,-1,7,87,20,5
+saint-francois,gp,46,3,9,76,90,6
+matto,jp,,,,,,
+ahome,mx,25,-109,21,64,5,5
+salekhard,ru,66,66,-13,75,64,3
+hrubieszow,pl,50,23,4,96,92,5
+darnah,ly,32,22,19,100,80,9
+ovalle,cl,-30,-71,18,67,0,1
+college,us,64,-147,-13,92,90,1
+vila,vu,45,8,5,70,0,2
+jinotega,ni,13,-86,20,90,44,0
+mudon,mm,16,97,23,88,68,1
+ntungamo,ug,0,30,15,95,88,0
+itarema,br,-2,-39,25,88,48,3
+williston,us,48,-103,-5,77,1,1
+bhandara,in,21,79,20,100,40,1
+kalispell,us,48,-114,-5,84,1,0
+aqtobe,kz,50,57,-7,67,40,1
+namatanai,pg,-3,152,30,95,36,2
+colac,au,-38,143,19,50,0,1
+sabinov,sk,49,21,2,93,90,0
+prince albert,ca,53,-105,-10,72,20,3
+tougan,bf,13,-3,16,49,0,1
+chama,zm,-11,33,18,97,92,1
+puerto narino,co,-3,-70,24,100,40,1
+tuburan,ph,10,123,29,74,75,5
+garmsar,ir,35,52,-1,80,0,0
+parichhatgarh,in,28,77,6,77,0,1
+hostotipaquillo,mx,21,-104,22,47,32,0
+nahariyya,il,33,35,19,100,88,5
+mouzakion,gr,,,,,,
+kormilovka,ru,55,74,-20,76,0,4
+ngunguru,nz,-35,174,20,80,20,6
+landsberg,de,51,12,4,75,40,8
+petropavl,kz,54,69,-22,67,0,2
+neuruppin,de,52,12,6,75,75,7
+makkaveyevo,ru,51,113,-32,67,36,1
+gomel,by,,,,,,
+sidi bu zayd,tn,,,,,,
+subiaco,it,-31,115,23,47,0,2
+biaora,in,23,76,13,63,0,3
+samagaltay,ru,50,95,-35,50,12,0
+bad salzdetfurth,de,52,10,5,80,40,8
+sur,om,22,59,23,100,0,2
+lashma,ru,54,41,-1,94,92,6
+ardmore,us,34,-86,2,100,90,4
+sinnamary,gf,5,-52,26,95,92,5
+durant,us,33,-96,3,64,1,2
+vicuna,cl,,,,,,
+novaya malykla,ru,54,49,-6,96,88,3
+kathu,za,-27,23,13,36,0,3
+great yarmouth,gb,52,1,3,93,0,3
+nigde,tr,37,34,-2,100,48,1
+talah,tn,,,,,,
+camaqua,br,-30,-51,21,67,56,3
+buraydah,sa,26,43,13,100,0,3
+muscatine,us,41,-91,-5,85,20,1
+margate,za,-43,147,20,34,75,3
+we,nc,,,,,,
+madera,mx,36,-120,10,71,90,4
+teruel,es,40,-1,9,100,0,3
+saucillo,mx,28,-105,10,53,0,1
+caernarfon,gb,53,-4,9,81,92,9
+boquira,br,-12,-42,21,85,76,3
+soderhamn,se,61,17,0,97,92,1
+fecamp,fr,49,0,9,76,92,8
+tagab,af,34,69,-1,100,48,0
+kaiyuan,cn,42,124,-20,56,24,1
+ergani,tr,38,39,7,75,75,3
+guanica,us,17,-66,22,78,1,2
+ciudad real,es,38,-3,1,77,8,1
+tyret pervaya,ru,53,102,-31,35,20,1
+zhezkazgan,kz,47,67,-6,92,90,2
+hurghada,eg,,,,,,
+san jeronimo,mx,-13,-73,10,53,0,0
+agnibilekrou,ci,7,-3,24,69,68,3
+starkville,us,33,-88,2,93,90,3
+pecos,us,31,-103,4,87,1,3
+westwood,us,-23,150,29,54,40,6
+barreirinha,br,-2,-57,25,92,20,1
+youkounkoun,gn,12,-13,18,67,0,0
+madimba,tz,4,9,26,94,75,0
+ambon,id,47,-2,7,87,0,3
+san borja,bo,-14,-66,26,78,0,0
+tabas,ir,33,56,8,49,0,1
+bialogard,pl,54,15,5,98,92,5
+bababe,mr,,,,,,
+falaleu,wf,,,,,,
+sanchor,in,24,71,13,65,0,1
+paramonga,pe,-10,-77,19,100,12,4
+calvinia,za,-31,19,9,63,0,1
+ipixuna,br,-1,-48,25,88,0,2
+fereydun kenar,ir,36,52,12,93,0,0
+muriti,tz,-1,32,20,88,75,5
+gold coast,au,-28,153,27,61,40,4
+san mariano,ph,16,122,22,100,68,1
+tyssedal,no,60,6,-3,86,68,1
+hami,cn,42,93,-20,53,0,1
+anjozorobe,mg,-18,47,16,93,20,2
+buin,pg,-33,-70,22,35,0,6
+mattru,sl,7,-11,26,72,0,2
+kadiri,in,14,78,17,92,0,1
+culpeper,us,38,-78,-1,92,90,2
+ejea de los caballeros,es,42,-1,8,70,90,3
+orangeburg,us,33,-80,3,89,90,3
+urumqi,cn,,,,,,
+tommot,ru,58,126,-26,64,64,1
+chachapoyas,pe,-6,-77,17,69,56,0
+montale,it,43,11,6,46,0,5
+kalaleh,ir,37,55,8,93,12,2
+daia,ro,43,25,0,100,90,2
+salta,ar,-24,-65,21,83,0,0
+santomera,es,38,-1,12,87,0,1
+colomi,bo,-17,-65,13,60,36,1
+youhao,cn,47,128,-31,35,0,1
+amurzet,ru,47,131,-26,70,8,1
+halmstad,se,56,12,4,86,24,5
+xiongyue,cn,40,122,-11,66,44,2
+aurillac,fr,44,2,6,93,75,4
+nipawin,ca,53,-104,-10,78,20,4
+iqaluit,ca,63,-68,-22,83,90,4
+gat,ly,14,-16,21,56,0,5
+bosconia,co,9,-73,24,63,12,1
+paso de carrasco,uy,-34,-56,21,64,90,4
+fizesu gherlii,ro,47,23,1,98,75,1
+old road,ag,,,,,,
+jaipur hat,bd,,,,,,
+krutinka,ru,56,71,-17,72,44,3
+petit goave,ht,18,-72,26,78,20,6
+bayir,jo,37,28,8,100,40,0
+port-gentil,ga,0,8,26,100,56,3
+tatarsk,ru,55,75,-23,56,0,1
+bouafle,ci,48,1,7,87,75,3
+ust-kamchatsk,ru,,,,,,
+burgeo,ca,47,-57,0,100,20,15
+tawkar,sd,,,,,,
+jurm,af,36,70,-8,96,68,0
+uniao da victoria,br,,,,,,
+pombas,cv,-15,-54,22,95,32,0
+ruteng,id,-8,120,26,91,0,1
+palu,id,0,119,21,88,36,0
+boke,gn,10,-14,23,94,0,1
+berbera,so,,,,,,
+seminole,us,32,-102,2,80,1,2
+staroaleyskoye,ru,51,82,-26,21,0,1
+likasi,cd,-10,26,18,99,68,2
+sinegorskiy,ru,48,40,0,96,92,4
+ponta do sol,cv,-20,-46,21,63,0,5
+cowra,au,-33,148,24,66,88,1
+xichang,cn,27,102,2,46,0,0
+tahoua,ne,14,5,16,32,0,5
+ippy,cf,6,21,19,80,0,1
+agua dulce,mx,18,-94,22,88,90,10
+dalen,no,52,6,5,75,20,5
+hope,us,49,-121,0,93,90,3
+thatta,pk,31,74,11,87,75,2
+lakshmipur,bd,22,90,17,100,0,2
+kangaba,ml,11,-8,17,49,0,2
+bichura,ru,50,107,-25,76,56,1
+katy,us,29,-95,8,81,44,4
+washim,in,20,77,18,97,68,3
+ahraura,in,25,83,10,93,0,1
+truth or consequences,us,33,-107,8,49,1,2
+armidale,au,-30,151,25,65,0,2
+bambanglipuro,id,-7,110,24,100,76,1
+bucerias,mx,20,-105,25,78,40,2
+kawardha,in,22,81,14,93,0,1
+mildura,au,-34,142,29,35,0,5
+dzaoudzi,yt,-12,45,28,78,0,3
+caribou,us,46,-68,-11,80,90,2
+vazante,br,-17,-46,18,94,92,3
+adet,et,11,37,9,82,0,0
+mongoumba,cf,3,18,23,92,12,1
+terney,ru,45,136,-10,100,0,9
+nieves,mx,24,-103,11,52,0,2
+kamphaeng phet,th,16,99,21,100,88,1
+juruti,br,-2,-56,24,89,8,1
+sciacca,it,37,13,16,82,20,9
+surab,pk,28,66,1,84,0,0
+ljungby,se,56,13,1,100,0,3
+clemson,us,34,-82,2,100,90,1
+lappeenranta,fi,61,28,1,100,90,5
+belaya gora,ru,68,146,-42,0,12,1
+ponto novo,br,-10,-40,20,93,48,1
+boysun,uz,38,67,-6,94,20,0
+ikalamavony,mg,-21,46,13,88,0,1
+danilov,ru,58,40,-4,92,90,3
+duminichi,ru,53,35,0,97,88,3
+sobolevo,ru,54,31,0,96,80,5
+petrovskoye,ru,56,36,-1,100,90,3
+paramirim,br,-13,-42,19,93,92,2
+nijar,es,36,-2,10,93,0,1
+longyan,cn,25,117,6,97,92,1
+etchojoa,mx,26,-109,22,46,20,2
+khandagayty,ru,50,92,-34,42,8,0
+mopipi,bw,-21,24,21,69,56,4
+barpeta,in,26,91,14,93,20,1
+chuguyevka,ru,44,133,-19,50,0,1
+sanming,cn,26,117,5,97,92,1
+bonavista,ca,48,-53,0,100,80,13
+barsovo,ru,61,73,-12,78,75,4
+saladoblanco,co,1,-76,14,99,92,0
+kralendijk,an,12,-68,26,74,80,7
+kitale,ke,1,35,13,95,92,0
+skjervoy,no,70,20,0,100,68,2
+san isidro,ph,16,121,22,100,68,1
+ust-omchug,ru,61,149,-24,54,8,2
+predivinsk,ru,57,93,-20,84,64,1
+wanlaweyn,so,2,44,23,92,24,3
+laguna de perlas,ni,12,-83,27,92,76,5
+eregli,tr,37,34,-3,75,36,2
+san mateo del mar,mx,16,-94,25,98,0,17
+balakhta,ru,55,91,-26,65,0,1
+apatou,gf,5,-54,23,92,64,1
+dapdap,ph,14,121,25,100,24,5
+medak,in,18,78,19,99,0,3
+temple,us,31,-97,6,87,40,3
+galiwinku,au,,,,,,
+torva,ee,58,25,2,93,90,5
+santa maria,br,-29,-53,21,53,12,2
+sakaiminato,jp,35,133,5,75,75,1
+tiebissou,ci,7,-5,25,94,8,1
+gua musang,my,4,101,22,96,76,1
+chimore,bo,-16,-65,27,71,36,1
+bollnas,se,61,16,0,95,92,1
+fairfield,us,38,-122,10,87,90,2
+rock springs,us,41,-109,-9,83,1,3
+indianola,us,40,-100,-3,84,1,3
+carnot,cf,4,15,19,64,0,2
+ceuta,es,23,-106,24,57,0,1
+tuensang,in,26,94,6,93,0,0
+carbonear,ca,47,-53,-4,73,90,9
+roches noires,mu,,,,,,
+tlazazalca,mx,19,-102,20,77,90,0
+vallenar,cl,-28,-70,18,69,0,0
+khasan,ru,42,130,-9,100,0,4
+bhuban,in,20,85,10,85,0,1
+saryozek,kz,44,77,-11,63,8,1
+kalulushi,zm,-12,28,18,96,88,2
+buchanan,lr,5,-10,25,94,40,3
+jiddah,sa,,,,,,
+cache creek,ca,50,-121,-2,79,1,6
+chopovychi,ua,50,28,1,95,92,5
+fukagawa,jp,43,142,-8,85,75,2
+sjenica,rs,43,20,-2,95,92,0
+ginda,er,30,78,7,93,44,2
+morag,pl,53,19,4,99,44,3
+bonfim,br,-20,-44,18,79,44,3
+ormond beach,us,29,-81,18,87,20,5
+kudahuvadhoo,mv,2,72,28,100,92,2
+harnai,pk,30,67,5,80,0,1
+kargapolye,ru,,,,,,
+urengoy,ru,65,78,-9,86,92,4
+damietta,eg,31,31,14,113,0,2
+gilbues,br,-9,-45,20,99,80,1
+matinha,br,-3,-45,23,98,68,0
+petrozavodsk,ru,61,34,-3,86,88,3
+guarare,pa,7,-80,28,68,0,5
+otane,nz,-39,176,22,61,0,2
+turgoyak,ru,55,60,-13,65,56,1
+bacuit,ph,,,,,,
+hengyang,cn,26,112,1,100,92,2
+akot,in,21,77,17,95,44,2
+pouebo,nc,-20,164,27,66,0,5
+ostrogozhsk,ru,50,39,1,97,92,6
+exeter,us,50,-3,7,87,68,5
+nishiwaki,jp,35,135,5,65,75,3
+shahreza,ir,32,51,-9,77,0,1
+tolmachevo,ru,55,38,0,96,90,4
+avinurme,ee,58,26,0,96,88,6
+mutsamudu,km,,,,,,
+hengshui,cn,37,115,-12,66,44,1
+tubmanburg,lr,6,-10,25,86,0,3
+naranjal,py,-25,-55,24,53,0,2
+leninskoye,ru,54,82,-23,76,12,1
+pondicherry,in,-34,18,16,77,0,2
+dromolaxia,cy,34,33,13,93,20,1
+mogzon,ru,51,111,-30,31,44,1
+paradwip,in,,,,,,
+agbor,ng,6,6,23,95,44,1
+vershino-darasunskiy,ru,52,115,-37,0,20,1
+allapalli,in,19,80,19,100,92,1
+manado,id,1,124,27,88,40,1
+caticlan,ph,11,121,26,100,48,7
+pinhao,br,-25,-51,17,64,8,1
+rockingham,us,52,0,5,100,0,4
+thurso,gb,58,-3,2,80,36,5
+mount darwin,zw,-16,31,19,96,76,1
+orsha,by,54,30,0,97,88,5
+cockenzie,gb,55,-2,2,90,0,1
+rovereto,it,45,11,5,75,0,2
+lakeside,us,32,-116,16,72,5,2
+aktash,uz,,,,,,
+manaus,br,-3,-59,24,88,0,2
+gayny,ru,60,54,-6,92,80,2
+wiarton,ca,44,-81,0,100,90,2
+leh,in,34,77,-20,73,68,0
+nikki,bj,9,3,19,54,0,2
+salamiyah,sy,35,37,4,79,48,1
+dianopolis,br,,,,,,
+lawrenceburg,us,35,-87,1,100,90,4
+lar gerd,af,,,,,,
+magway,mm,20,94,20,100,92,1
+melo,uy,-32,-54,21,50,0,3
+sri aman,my,1,111,27,88,75,1
+orizona,br,-17,-48,19,85,24,4
+kloulklubed,pw,7,134,29,79,75,5
+sadon,ru,42,44,-12,65,8,0
+moscow,us,55,37,0,100,90,3
+payakumbuh,id,0,100,21,91,8,0
+chapleau,ca,47,-83,-9,92,40,1
+beipiao,cn,41,120,-18,55,56,1
+lira,ug,2,32,16,94,56,1
+emilio carranza,mx,19,-96,16,95,80,5
+stranraer,gb,51,-108,-13,84,75,10
+puerto madryn,ar,-42,-65,20,53,0,0
+jumla,np,29,82,-11,93,0,1
+jabiru,au,,,,,,
+hvolsvollur,is,,,,,,
+baracoa,cu,20,-74,26,100,0,2
+zhuzhou,cn,27,113,2,100,90,3
+astoria,us,46,-123,6,95,90,2
+spas,ua,50,24,3,93,75,2
+hoa binh,vn,20,105,15,77,75,3
+koroni,gr,36,21,17,100,56,13
+landau,de,51,9,5,86,75,5
+umtata,za,-31,28,13,93,88,1
+tranas,se,58,14,0,88,24,4
+shibetsu,jp,44,142,-8,85,75,2
+abu dhabi,ae,24,54,20,64,0,0
+arkhangelos,gr,,,,,,
+orange cove,us,36,-119,10,100,1,3
+chibombo,zm,-14,28,17,99,92,4
+bulaevo,kz,54,70,-18,77,32,3
+kropotkin,ru,45,40,0,91,24,3
+rutigliano,it,41,17,12,62,20,6
+kamen-rybolov,ru,44,132,-18,84,0,2
+sug-aksy,ru,,,,,,
+kirchzarten,de,47,7,6,61,75,3
+itaqui,br,-29,-56,25,48,20,3
+san luis,ar,-33,-66,24,34,0,3
+timberlake,us,32,-81,5,95,90,3
+chitungwiza,zw,-18,31,17,99,92,1
+sun valley,us,43,-114,-8,85,5,3
+saint-philippe,re,45,-73,-1,68,40,6
+itaituba,br,-4,-55,24,96,12,0
+idrija,si,46,14,2,93,0,2
+gorontalo,id,0,123,25,87,20,1
+fortuna,us,38,-1,12,54,0,2
+lashio,mm,22,97,14,99,92,0
+shaowu,cn,27,117,2,100,92,1
+south sioux city,us,42,-96,-8,92,90,2
+upig,ph,15,120,29,58,40,4
+vaihingen,de,48,9,5,86,40,8
+alyangula,au,-13,136,34,56,0,3
+wa,gh,,,,,,
+snezhnogorsk,ru,69,33,-3,92,75,1
+nur,ir,52,22,5,97,92,5
+alta gracia,ar,-31,-64,25,53,0,4
+senador jose porfirio,br,-2,-51,25,93,36,1
+rio cuarto,ar,-33,-64,23,49,0,2
+louisbourg,ca,,,,,,
+uroteppa,tj,,,,,,
+verkhnyaya inta,ru,65,60,-8,74,56,2
+corum,tr,38,29,1,84,12,3
+masuguru,tz,-11,38,26,76,20,4
+stockach,de,47,9,5,86,80,4
+roswell,us,33,-104,1,100,90,1
+tarakan,id,3,117,27,100,8,1
+buffalo,us,42,-78,-3,74,20,3
+abha,sa,18,42,12,93,5,3
+palazzolo acreide,it,37,14,13,67,0,10
+petrov val,ru,50,45,-4,92,92,4
+rio branco,br,-9,-67,26,94,0,2
+gollere,sn,,,,,,
+muika,jp,,,,,,
+kasempa,zm,-13,25,16,100,92,2
+xinzhi,cn,22,120,22,78,75,2
+balkanabat,tm,39,54,0,95,32,1
+murmansk,ru,68,33,-3,92,75,1
+kuusamo,fi,65,29,-2,92,90,4
+ullapool,gb,57,-5,6,100,88,7
+turbat,pk,26,63,9,78,0,1
+vuktyl,ru,63,57,-7,86,64,1
+souillac,mu,45,0,7,93,64,2
+qidong,cn,31,121,10,100,92,9
+esso,ru,55,158,-25,55,0,0
+elk city,us,35,-99,4,35,1,2
+licata,it,37,13,15,83,36,9
+porbandar,in,21,69,20,81,0,3
+sengiley,ru,53,48,-5,92,90,4
+saint-marc,ht,19,-72,26,76,36,1
+dhuburi,in,26,89,11,84,0,1
+sosnogorsk,ru,63,53,-6,86,92,2
+uch,pk,45,0,7,93,75,2
+pahrump,us,36,-115,10,37,1,4
+capao bonito,br,-24,-48,18,69,0,3
+gabu,gw,34,103,-14,65,56,0
+sungaipenuh,id,-2,101,19,97,64,0
+dzerzhinsk,by,56,43,-3,92,90,4
+medvedka,ru,61,46,-5,91,80,3
+cubara,co,7,-72,20,88,0,0
+nadadores,mx,27,-101,9,98,12,1
+pontian kecil,my,1,103,28,88,75,1
+linkuva,lt,56,23,2,100,90,3
+qurayyat,om,,,,,,
+broken hill,au,-31,141,26,44,100,8
+phalodi,in,27,72,12,64,12,1
+damphu,bt,27,90,6,55,0,0
+aligarh,in,27,78,10,84,0,1
+upington,za,-28,21,20,34,0,1
+gorom-gorom,bf,14,0,14,64,0,1
+mancio lima,br,,,,,,
+tefe,br,-3,-64,22,99,44,1
+gamboula,cf,4,15,19,78,0,1
+yamada,jp,36,137,5,100,20,1
+novoagansk,ru,61,76,-11,77,80,2
+casablanca,ma,33,-7,8,100,75,1
+boyle,ie,53,-8,5,92,0,4
+paros,gr,44,3,4,76,24,5
+ewo,cg,0,14,20,95,68,1
+apomu,ng,6,3,26,85,0,2
+wai,in,17,73,12,89,0,0
+weihai,cn,37,122,3,100,80,0
+zilair,ru,52,57,-9,61,92,0
+wum,cm,6,10,16,63,0,1
+kodiak,us,39,-94,-2,84,1,1
+taldan,ru,53,124,-18,45,0,2
+orocue,co,4,-71,29,47,12,5
+ask,no,35,52,-8,82,0,0
+morant bay,jm,17,-76,27,65,20,5
+monatele,cm,,,,,,
+bhadra,in,29,75,12,81,44,1
+grindavik,is,63,-22,1,93,75,9
+havelock,nz,34,-76,10,96,90,8
+mul,in,20,79,20,98,68,4
+verkhoyansk,ru,67,133,-37,63,48,1
+bracebridge,ca,45,-79,-1,80,90,2
+achisay,kz,,,,,,
+tumwater,us,47,-122,5,95,90,2
+fulitun,cn,,,,,,
+porto walter,br,-8,-72,24,85,12,1
+sao joaquim,br,-28,-49,10,92,44,1
+bogovina,rs,43,21,2,98,40,1
+moyobamba,pe,-6,-76,20,94,8,0
+rudnogorsk,ru,57,103,-24,76,56,2
+manacapuru,br,-3,-60,24,94,40,2
+marti,cu,21,-77,24,88,20,2
+dire dawa,et,9,41,7,82,0,0
+coari,br,-4,-63,23,99,32,2
+balila,ph,32,35,8,87,0,1
+bazarnyye mataki,ru,54,49,-5,100,64,5
+pontal do parana,br,-25,-48,16,87,90,4
+juifang,tw,,,,,,
+boueni,yt,-12,45,28,78,0,3
+mafinga,tz,,,,,,
+kremenki,ru,54,48,-5,92,90,4
+bekasi,id,-6,106,29,74,20,2
+santa margherita ligure,it,44,9,13,35,0,4
+roma,au,41,12,11,81,0,1
+kaupanger,no,61,7,-1,81,88,1
+romans-sur-isere,fr,45,5,7,87,75,6
+rypefjord,no,70,23,-1,92,75,2
+say,ne,13,2,21,22,0,2
+papayal,pe,-2,-79,14,100,0,0
+vardo,no,39,-77,-1,63,1,1
+lar,ir,27,54,8,75,0,0
+yangliuqing,cn,39,117,-5,67,0,1
+marystown,ca,47,-55,0,100,32,12
+terrace bay,ca,48,-87,-3,100,8,1
+phan thiet,vn,10,108,25,97,36,3
+aykino,ru,62,49,-6,92,80,3
+anar darreh,af,,,,,,
+boditi,et,6,37,12,71,20,1
+kulevcha,ua,46,29,0,100,64,1
+abong mbang,cm,3,13,18,93,0,1
+cusuna,hn,15,-85,21,95,76,0
+totness,sr,33,-80,3,100,90,2
+fougamou,ga,-1,10,21,98,80,1
+severo-kurilsk,ru,50,156,-1,100,64,6
+catamarca,ar,,,,,,
+peniche,pt,39,-9,11,87,0,3
+sayville,us,40,-73,0,72,90,1
+lodwar,ke,3,35,20,86,44,1
+rurrenabaque,bo,-14,-67,24,81,64,1
+chipinge,zw,-20,32,20,100,92,1
+toritama,br,-8,-36,22,83,32,2
+del rio,us,29,-100,9,56,1,1
+les escoumins,ca,48,-69,-16,75,68,1
+cilegon,id,-6,106,29,74,20,2
+yelatma,ru,54,41,0,93,88,6
+kawalu,id,-7,108,24,84,64,1
+glencoe,za,-28,30,12,100,92,3
+nongpoh,in,25,91,14,93,20,1
+kribi,cm,2,9,22,100,32,1
+kuandian,cn,40,124,-7,52,24,1
+jashpurnagar,in,22,84,16,77,44,1
+cintalapa,mx,16,-93,17,99,88,6
+karakendzha,tj,,,,,,
+cody,us,44,-109,-5,70,1,0
+yuzhno-yeniseyskiy,ru,,,,,,
+warragul,au,-38,145,19,69,0,1
+la ligua,cl,-32,-71,17,77,0,3
+rensvik,no,63,7,3,86,92,15
+mushie,cd,-3,16,21,100,80,1
+garh maharaja,pk,30,71,13,99,88,3
+potma,ru,,,,,,
+ondjiva,ao,-17,15,13,47,0,2
+viramgam,in,23,72,13,71,0,1
+yuzhno-kurilsk,ru,44,145,0,100,56,12
+blagoevgrad,bg,42,23,-6,84,64,0
+saskatoon,ca,52,-106,-13,84,5,2
+guia de isora,es,28,-16,20,34,0,5
+canavieiras,br,-15,-38,22,100,92,2
+mount pleasant,us,33,-94,4,70,1,1
+menongue,ao,-14,17,18,68,56,1
+dinguiraye,gn,11,-10,14,66,0,1
+amparai,lk,,,,,,
+vohibinany,mg,-17,49,21,87,80,1
+ahlat,tr,38,42,-9,88,44,0
+fleetwood,gb,40,-75,-2,68,1,1
+vestbygda,no,,,,,,
+barahan,ph,13,120,28,94,0,0
+shebunino,ru,57,40,-4,92,90,3
+tashtyp,ru,52,89,-26,67,8,0
+sinnai,it,39,9,14,58,0,12
+nong khai,th,17,102,22,83,0,1
+orotukan,ru,62,151,-23,66,56,1
+bolshegrivskoye,ru,,,,,,
+laela,tz,-8,32,15,99,92,1
+alcudia,es,39,3,9,87,20,1
+mentougou,cn,39,116,-6,53,0,4
+two rivers,us,44,-87,-5,88,1,4
+bafq,ir,31,55,-2,70,0,0
+staryy krym,ua,45,35,8,98,92,2
+kargasok,ru,59,80,-10,68,68,2
+shimonoseki,jp,33,130,7,65,40,2
+kumano,jp,34,132,7,60,75,3
+manicore,br,-5,-61,22,97,20,0
+ponta delgada,pt,37,-25,18,88,40,5
+drexel heights,us,32,-111,14,67,1,2
+chhatak,bd,25,91,18,80,0,1
+yuksekova,tr,37,44,-3,92,0,3
+vondrozo,mg,-22,47,20,94,8,0
+san jose,bo,15,120,24,85,8,1
+malwan,in,,,,,,
+todos santos,mx,23,-110,22,60,5,2
+calvia,es,39,2,9,87,20,1
+sennoy,ru,52,46,-9,92,88,2
+khunti,in,23,85,9,87,0,1
+mandera,ke,3,41,21,58,8,0
+sassenberg,de,51,8,4,80,20,5
+ritchie,za,-29,24,15,58,0,5
+dabat,et,12,37,16,72,88,0
+wulanhaote,cn,,,,,,
+el alto,pe,-16,-68,12,9,75,4
+kragujevac,rs,44,20,4,100,75,0
+cuiluan,cn,47,128,-19,49,0,1
+moratuwa,lk,6,79,23,88,40,2
+perth,au,56,-3,2,86,0,1
+rong kwang,th,18,100,21,100,75,1
+saryg-sep,ru,51,95,-33,42,0,1
+orshanka,ru,56,47,-6,94,76,4
+paita,pe,-5,-81,20,80,0,2
+vytegra,ru,61,36,-5,89,92,6
+manhuacu,br,-20,-42,14,100,76,1
+uglovskoye,ru,51,80,-26,45,0,1
+pisco,pe,-13,-76,20,82,40,3
+presidente venceslau,br,-21,-51,25,53,0,1
+maykain,kz,,,,,,
+west lake stevens,us,48,-122,6,92,90,5
+vesele,ua,47,34,2,89,92,1
+kalanwali,in,29,74,12,90,92,3
+kampot,kh,10,104,28,78,40,3
+ciocanesti,ro,44,25,0,93,90,2
+saposoa,pe,-6,-76,17,290,20,1
+talalayivka,ua,50,31,0,98,80,4
+chor,pk,25,69,15,86,0,0
+khash,ir,28,61,-1,73,0,1
+hay river,ca,60,-115,-2,68,40,6
+takoradi,gh,4,-1,27,100,56,2
+da nang,vn,,,,,,
+feijo,br,-3,-79,28,73,90,0
+una,in,-15,-39,24,94,40,4
+tsihombe,mg,,,,,,
+otofuke,jp,43,143,-5,38,20,6
+velingara,sn,13,-16,25,31,0,1
+saint-jean-de-dieu,ca,,,,,,
+uray,ru,60,64,-13,81,36,1
+alghero,it,40,8,15,62,0,7
+townsville,au,-19,146,25,94,75,6
+tarbagatay,ru,51,107,-28,68,8,1
+abu kamal,sy,34,40,6,89,0,2
+chapeco,br,-27,-52,20,60,0,1
+torrox,es,36,-3,7,87,0,3
+parainen,fi,,,,,,
+narsaq,gl,60,-46,-8,69,44,3
+solnechnyy,ru,50,136,-21,61,24,1
+carhuamayo,pe,-10,-76,0,99,0,1
+kardla,ee,58,26,2,93,90,5
+hulan,cn,34,47,2,100,40,0
+kasane,bw,-17,25,19,90,76,4
+mandapeta,in,16,81,22,88,20,1
+kirkland lake,ca,48,-80,-7,85,90,3
+krasnoarmeysk,ua,56,38,-1,100,90,3
+aginskoye,ru,51,114,-24,71,20,1
+apaxtla,mx,,,,,,
+merke,kz,42,73,-11,67,44,0
+batagay,ru,67,134,-38,70,56,1
+aventura,us,25,-80,23,79,1,4
+pueblo nuevo,mx,23,-106,17,82,0,1
+gobabis,na,-22,18,15,28,0,6
+peruibe,br,-24,-47,23,100,0,9
+keita,ne,7,3,24,85,24,1
+nhulunbuy,au,-12,136,35,41,20,5
+nanchang,cn,28,115,4,100,88,2
+petrivka,ua,48,37,2,96,92,5
+saint-augustin,ca,44,0,9,93,75,2
+porgera,pg,-5,143,15,88,64,1
+uruguaiana,br,-29,-57,24,73,0,1
+si bun ruang,th,16,102,22,78,68,1
+qaracala,az,39,48,6,100,68,1
+auka,hn,14,-83,28,78,20,4
+nguru,ng,12,10,17,40,0,4
+urazovo,ru,50,38,1,93,92,5
+baherden,tm,38,57,2,94,64,0
+mirandopolis,br,-21,-51,25,51,0,4
+lahij,ye,13,44,19,82,80,1
+tieli,cn,46,128,-17,41,0,1
+turkistan,kz,,,,,,
+teguise,es,29,-13,15,87,20,3
+bo,no,,,,,,
+irbit,ru,57,63,-17,64,36,1
+voi,ke,-3,38,19,99,92,1
+zhumadian,cn,33,114,0,74,88,3
+kunming,cn,25,102,9,93,75,6
+volokolamsk,ru,56,35,0,96,92,3
+polessk,ru,54,21,5,93,75,5
+miranda,br,3,-76,13,100,44,0
+londoko,ru,,,,,,
+namibe,ao,-15,12,20,100,0,2
+ziro,in,27,93,9,50,20,0
+waitati,nz,-45,170,11,88,92,2
+silvan,tr,38,41,8,93,75,2
+patnos,tr,39,42,-10,83,24,0
+crixas,br,-14,-49,21,86,20,5
+goundi,td,9,17,17,39,0,2
+simbahan,ph,6,120,29,98,48,4
+bathsheba,bb,13,-59,26,69,20,9
+solhan,tr,38,41,1,100,75,0
+barranca,pe,-10,-77,19,100,8,4
+lulea,se,65,22,0,96,92,2
+grand baie,mu,-20,57,23,94,75,2
+contai,in,21,87,21,100,0,2
+antri,in,,,,,,
+norrtalje,se,59,18,1,100,75,3
+angren,uz,41,70,0,96,88,0
+kez,ru,57,53,-6,91,80,3
+qom,ir,34,50,4,80,0,1
+matelica,it,43,13,5,93,0,2
+puri,in,-7,112,28,88,12,1
+pavino,ru,55,82,-23,76,8,1
+telimele,gn,10,-13,17,84,0,0
+darlawn,in,24,92,17,79,0,0
+blythe,us,33,-114,17,38,0,1
+owensboro,us,37,-87,1,59,1,2
+osorheiu,ro,47,22,5,86,92,4
+meiktila,mm,20,95,23,83,12,2
+kwinana,au,-32,115,23,56,0,2
+kati,ml,12,-8,17,51,0,2
+yelizovo,ru,53,158,-13,60,20,5
+eldorado,mx,24,-107,24,69,5,2
+loutros,gr,40,22,5,80,20,1
+zelenogorskiy,ru,55,87,-19,77,90,2
+saint-paul-les-dax,fr,43,-1,9,93,40,3
+saint-michel-des-saints,ca,46,-73,-7,69,32,3
+spearfish,us,44,-103,-3,46,1,2
+watrous,ca,51,-105,-18,45,0,1
+loutrakion,gr,,,,,,
+karratha,au,-20,116,39,29,0,3
+poyarkovo,ru,49,128,-19,53,12,1
+xinxiang,cn,35,113,-1,62,92,2
+bachaquero,ve,9,-71,27,84,8,3
+glamoc,ba,44,16,-6,71,0,0
+high level,ca,58,-117,-7,90,24,3
+pawai,in,24,80,15,76,64,2
+achim,de,52,10,4,95,88,9
+koutiala,ml,12,-5,14,53,0,1
+olafsvik,is,,,,,,
+tomelloso,es,39,-3,0,74,0,1
+esperantinopolis,br,-4,-44,21,100,92,1
+mbale,ug,1,34,16,100,76,1
+patacamaya,bo,-17,-67,6,100,92,1
+mansa,zm,23,72,13,71,0,1
+kolda,sn,12,-14,20,88,0,1
+tacna,pe,-18,-70,18,77,75,2
+chipata,zm,-13,32,18,94,48,1
+yanam,in,16,82,22,88,20,1
+liuhe,cn,42,125,-11,59,32,1
+constantine,dz,36,6,9,66,0,3
+qandala,so,11,49,15,100,0,0
+nayudupeta,in,13,79,21,100,20,1
+mataura,pf,-46,168,18,59,12,3
+guerrero,mx,-24,-65,21,83,0,0
+azangaro,pe,-14,-70,14,28,40,2
+norsup,vu,-16,167,29,77,48,4
+le vauclin,mq,14,-60,25,88,20,1
+tyukalinsk,ru,55,72,-17,75,44,3
+kang,bw,-23,22,19,20,0,6
+gangelt,de,50,6,5,81,75,6
+lethem,gy,3,-59,26,63,12,5
+nakskov,dk,54,11,5,97,24,13
+montrose,us,-37,145,19,63,40,7
+yuanping,cn,38,112,-10,58,80,0
+drovyanaya,ru,51,113,-32,67,64,1
+granada,ni,11,-85,28,65,40,5
+tukums,lv,56,23,2,100,90,4
+nykobing,dk,,,,,,
+terryville,us,29,-97,8,85,1,2
+zangakatun,am,39,45,1,100,92,1
+padang,id,0,100,27,100,24,0
+kavos,gr,38,22,9,70,75,1
+santa vitoria,br,-7,-67,22,98,44,0
+noshiro,jp,40,140,-1,100,75,3
+xuanhua,cn,40,115,-9,44,8,0
+banff,ca,51,-115,-20,77,32,0
+gondar,et,41,-8,9,100,32,2
+jomalig,ph,,,,,,
+khromtau,kz,50,58,-12,68,76,1
+ennis,ie,52,-8,5,93,40,1
+pozo colorado,py,-23,-58,29,45,48,4
+venustiano carranza,mx,19,-99,19,42,40,2
+chhabra,in,24,76,18,45,76,4
+gunupur,in,19,83,21,62,0,1
+kamogawa,jp,35,140,6,52,75,5
+dongobesh,tz,-4,35,14,99,92,1
+salmo,ca,49,-117,-9,91,88,0
+xam nua,la,20,104,16,93,64,1
+saint albans,us,44,-73,-1,70,90,2
+palaikastron,gr,35,26,17,96,0,6
+saint john,ca,45,-66,-8,78,90,1
+navahrudak,by,53,25,4,98,92,5
+bin qirdan,tn,33,11,8,93,0,3
+chaochou,tw,,,,,,
+khovu-aksy,ru,51,93,-33,40,20,1
+energetik,ru,51,58,-12,95,92,1
+puerto cortes,hn,,,,,,
+rapar,in,23,70,14,81,0,1
+bhasawar,in,27,77,12,84,0,1
+puteyets,ru,65,57,-6,84,80,3
+chaoyang,cn,41,120,-6,27,0,1
+torata,pe,-17,-70,3,70,0,0
+guichicovi,mx,,,,,,
+bilibino,ru,68,166,-38,73,48,0
+onega,ru,63,38,-4,97,88,5
+orda,ru,57,56,-6,92,92,3
+ruiz,mx,21,-105,17,77,0,0
+meylan,fr,45,5,7,87,75,6
+marolambo,mg,-20,48,14,83,0,1
+estrela,br,-29,-51,16,82,8,0
+ostashkov,ru,57,33,-1,94,88,3
+hlotse,ls,,,,,,
+palana,ru,59,159,-17,61,44,1
+ashtabula,us,41,-80,-5,91,1,3
+greytown,za,-29,30,13,98,92,1
+limon,cr,39,-103,-6,67,1,2
+ocos,gt,14,-92,27,88,40,3
+ondangwa,na,-17,15,20,24,0,1
+lalmohan,bd,22,90,22,82,0,3
+larap,ph,14,122,27,94,48,7
+chengde,cn,40,117,-6,42,0,1
+itapeva,br,-23,-48,15,86,0,2
+waterloo,sl,43,-80,-3,85,90,3
+inhambane,mz,-23,35,23,100,80,5
+yenisea,gr,,,,,,
+lyubech,ua,51,30,0,93,48,4
+gulfport,us,30,-89,5,82,90,6
+bela,pk,26,66,8,80,0,1
+trelleborg,se,55,13,3,86,0,5
+doba,td,8,16,18,44,0,3
+varzea da palma,br,-17,-44,18,95,80,3
+sicamous,ca,50,-118,-2,68,90,1
+terra santa,br,-2,-56,24,95,80,1
+mikun,ru,62,50,-6,92,80,3
+porto de moz,br,-1,-52,24,94,88,2
+cunha,br,-23,-44,14,83,0,2
+khagrachari,bd,,,,,,
+coxim,br,-18,-54,25,59,24,4
+lamidan,ph,,,,,,
+bondoukou,ci,8,-2,19,68,0,2
+mandurah,au,-32,115,23,56,0,2
+san ramon de la nueva oran,ar,-23,-64,26,69,44,1
+stepnyak,kz,52,70,-25,62,24,1
+arcata,us,40,-124,11,96,90,2
+progreso,mx,-34,-56,21,64,90,4
+peterborough,us,52,0,4,100,90,4
+haldia,in,22,88,20,82,0,1
+shuangcheng,cn,45,126,-15,65,0,2
+meaux,fr,48,2,7,87,75,5
+glubokiy,ru,48,40,1,95,88,5
+krasnyy chikoy,ru,50,108,-22,71,56,1
+tandlianwala,pk,31,73,13,100,92,2
+rabaul,pg,-4,152,29,95,44,3
+oranjestad,aw,12,-70,27,74,20,8
+corning,us,42,-77,-5,77,1,1
+ivanteyevka,ru,55,37,0,100,90,3
+makaha,us,21,-158,25,68,1,8
+kostomuksha,ru,64,30,-2,86,88,2
+roald,no,62,6,4,80,88,6
+goma,cd,-1,29,15,100,88,1
+uvat,ru,59,68,-15,75,0,2
+alekseyevka,kz,53,50,-5,92,75,4
+santa ines,br,0,-78,6,100,44,1
+dickinson,us,46,-102,-5,74,1,4
+port shepstone,za,-30,30,18,100,88,5
+waddan,ly,29,16,2,83,0,1
+lithgow,au,-33,150,27,54,88,1
+kiunga,pg,-6,141,32,61,20,1
+jinka,et,5,36,16,99,80,0
+sar-e pul,af,36,65,1,92,88,1
+badvel,in,14,79,22,85,44,1
+maningrida,au,-12,134,33,76,0,2
+ornskoldsvik,se,63,18,1,100,92,2
+son la,vn,21,103,16,92,76,1
+gimli,ca,50,-96,-18,57,0,2
+talavera de la reina,es,39,-4,0,82,0,1
+heerenveen,nl,52,5,6,75,75,7
+neryungri,ru,56,124,-24,69,44,4
+shchigry,ru,51,36,0,96,88,4
+jieshi,cn,22,115,14,100,68,4
+carmo do rio claro,br,-20,-46,21,70,44,4
+sikandarpur,in,26,84,14,85,0,1
+ust-ilimsk,ru,57,102,-22,77,80,3
+sungai udang,my,5,100,26,88,75,1
+cocorit,mx,27,-109,22,46,20,2
+torbay,ca,47,-52,-4,73,90,9
+pinawa,ca,50,-95,-17,63,0,1
+fare,pf,-16,-151,28,96,32,7
+wajid,so,3,43,22,60,8,4
+keuruu,fi,62,24,1,93,90,4
+gladstone,au,-23,151,29,54,40,9
+cotui,do,19,-70,24,88,20,5
+steinbach,ca,49,-96,-12,78,5,5
+libenge,cd,3,18,21,98,0,1
+lesogorsk,ru,56,99,-25,62,64,1
